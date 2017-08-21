@@ -1,0 +1,113 @@
+GO!
+
+ID
+j
+2345678
+                            
+  
+Search
+    
+Plan
+    
+Enroll
+    
+My Academics
+    
+Booklist
+
+                            
+                                  
+  
+my class schedule
+    
+add
+    
+drop
+    
+swap
+    
+edit
+    
+term information
+
+                                  
+My Class Schedule
+List View
+Weekly Calendar View
+Select Display Option
+Fall 2017 | Graduate | The University of Arizona
+change term
+Collapse section Class Schedule Filter Options Class Schedule Filter Options 
+filter
+Show Enrolled Classes
+Show Dropped Classes
+Show Waitlisted Classes
+CSC 544 - Advanced Data Vis
+Status  Units Grading Grade Deadlines
+Enrolled
+3.00
+Regular Grades A, B, C, D, E
+ 
+Academic Calendar Deadlines
+Class Nbr Section Component Days & Times  Room  Instructor  Start/End Date
+65930
+001
+Lecture
+MoWe 3:30PM - 4:45PM
+Gould-Simpson, Rm 906
+Carlos Scheidegger
+2017/08/21 - 2017/12/06
+D2L
+CSC 552 - Advanced OS
+Status  Units Grading Grade Deadlines
+Enrolled
+3.00
+Regular Grades A, B, C, D, E
+ 
+Academic Calendar Deadlines
+Class Nbr Section Component Days & Times  Room  Instructor  Start/End Date  D2L
+29487
+001
+Lecture
+MoWe 12:30PM - 1:45PM
+Gould-Simpson, Rm 906
+Christopher Gniady
+2017/08/21 - 2017/12/06
+D2L
+CSC 566 - Computer Security
+Status  Units Grading Grade Deadlines
+Enrolled
+3.00
+Regular Grades A, B, C, D, E
+ 
+Academic Calendar Deadlines
+Class Nbr Section Component Days & Times  Room  Instructor  Start/End Date  D2L
+53796
+001
+Lecture
+MoWe 2:00PM - 3:15PM
+Gould-Simpson, Rm 906
+Christian Collberg
+2017/08/21 - 2017/12/06
+D2L
+MATH 574M - Statistical ML
+Status  Units Grading Grade Deadlines
+Enrolled
+3.00
+Regular Grades A, B, C, D, E
+ 
+Academic Calendar Deadlines
+Class Nbr Section Component Days & Times  Room  Instructor  Start/End Date  D2L
+60152
+001
+Lecture
+TuTh 9:30AM - 10:45AM
+Engineering, Rm 311
+Hao Zhang
+2017/08/21 - 2017/12/06
+D2L
+Printer Friendly Page
+  Search        Plan        Enroll        My Academics        Booklist     
+  My Class Schedule       Add       Drop        Swap        Edit        Term Information     
+GO!
+

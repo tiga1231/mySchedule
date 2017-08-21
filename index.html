@@ -1,0 +1,234 @@
+<html>
+<head>
+<meta charset="UTF-8"/>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="data.js"></script>
+<title>my schedule</title>
+<style>
+.timeline {
+	shape-rendering: crispEdges;
+	stroke-width:1;
+	stroke: #aaa;
+	stroke-dasharray:4 1;
+}
+
+.dayline {
+	shape-rendering: crispEdges;
+	stroke-width:1;
+	stroke: #999;
+
+}
+
+.isReg {
+	stroke: #555;
+	stroke-width:3;
+}
+
+.axis line {
+	fill: none;
+	shape-rendering: crispEdges;
+}
+
+</style>
+</head>
+
+<body>
+<!--button onclick='hideShow()'>Click</button-->
+<svg id='big' width=1400 height=750></svg>
+
+<script>
+'use strict';
+
+var visible = true;
+function hideShow(){
+	visible = !visible;
+
+	d3.selectAll('.notReg').style('opacity', visible ? 0.75 : 0);
+	d3.selectAll('.notReg+text').style('opacity', visible ? 1 : 0);
+}
+
+
+function isReg(tag){
+	return true;
+	if (tag[0].includes('515') || tag[0].includes('665')
+		||tag[0].includes('Group Meeting'))
+		return true;
+	else
+		return false;
+}
+String.prototype.toSec = function () { 
+	if (!this)
+		return null; 
+	var hms = this.split(':'); 
+	return (+hms[0]) * 60 * 60  + (+hms[1]) * 60 + (+hms[2] || 0); 
+};
+
+Number.prototype.toDate = function() {
+    var t = new Date(1970, 0, 1); // Epoch
+    t.setSeconds(this);
+    return t;
+};
+
+function collisions(d,data){
+	var c = data.filter(function(di){
+
+		var isSameDay = (d.day == di.day);
+		var isTimeOverlap = !(	di.start.toSec() > d.end.toSec()
+							|| d.start.toSec() > di.end.toSec()		);
+
+		return isSameDay && isTimeOverlap;
+	});
+	return c;
+}
+
+
+var svg = d3.select('#big');
+
+var width = svg.attr('width');
+var height = svg.attr('height');
+
+var sx = d3.scaleLinear().domain([1,5+1]).range([50,width-50]);
+
+var t0 = d3.min(data, function(d){
+	return d.start.toSec();
+})
+
+t0 = Math.min(t0, "8:00".toSec());
+
+var t1 = d3.max(data, function(d){
+	return d.end.toSec();
+})
+
+t1 = Math.max(t1, "17:00".toSec());
+//var sy = d3.scaleLinear().domain([t0, t1]).range([50,height-50]);
+
+var sy = d3.scaleTime()
+.domain([
+new Date(1970,0,1).setSeconds(t0),
+new Date(1970,0,1).setSeconds(t1),
+])
+.range([50,height-50]);
+
+svg.selectAll('.timeline')
+.data(sy.ticks(d3.timeMinute.every(60)))
+.enter()
+.append('line')
+.attr('class', 'timeline')
+.attr('x1', function(d){return sx(1)})
+.attr('x2', function(d){return sx(6)})
+.attr('y1', function(d){return sy(d)})
+.attr('y2', function(d){return sy(d)});
+
+
+
+var color = d3.scaleOrdinal()
+.domain(data.map(function(d){return d.tag}))
+//.range(['#a6cee3','#1f78b4','#b2df8a','#33a02c','#fb9a99','#e31a1c',
+//'#fdbf6f','#ff7f00','#cab2d6','#6a3d9a','#ffff99','#b15928']);
+.range(['#8dd3c7','#ffffb3','#bebada','#fb8072','#80b1d3','#fdb462',
+'#b3de69','#fccde5','#d9d9d9','#bc80bd','#ccebc5','#ffed6f']);
+
+
+var cells = svg.selectAll('rect').data(data).enter()
+.append('g')
+.attr('class','cell')
+.attr('transform', function(d){
+	return 'translate(' + sx(d.day)+','+sy(d.start.toSec().toDate())+')' 
+});
+
+cells.append('rect')
+.attr('class',function(d,i){
+	if (isReg(d.tag))
+		return 'isReg';
+	else
+		return 'notReg';
+})
+//.attr('x', function(d){return sx(d.day)  })
+//.attr('y', function(d){return sy(d.start.toSec()) })
+.attr('width',function(d){
+	var colls = collisions(d,data);
+	return (sx(2)-sx(1))/colls.length;
+})
+.attr('x', function(d){
+	var w = d3.select(this).attr('width');
+	var colls = collisions(d,data);
+	return w * colls.indexOf(d); 
+})
+.attr('height',function(d){
+	return sy(d.end.toSec().toDate())
+		-sy(d.start.toSec().toDate())
+	
+})
+.attr('fill', function(d,i){
+	if (isReg(d.tag))
+		return d3.color(color(d.tag)).darker(0);
+	else
+		return d3.color(color(d.tag)).brighter(0);
+});
+
+var tags = cells.append('text')
+//.text(function(d){return d.tag})
+.attr('alignment-baseline', 'central')
+.attr('text-anchor', 'middle')
+//.attr('x', function(d){return (sx(2)-sx(1))/2  })
+//.attr('y', function(d){return (sy(d.end.toSec()) - sy(d.start.toSec()))/2})
+.attr('y', 0);
+
+
+
+tags.each(function(d,i){
+	d3.select(this)
+	.selectAll('tspan')
+	.data(d.tag).enter()
+	.append('tspan')
+	.text(function(e){return e})
+	.attr('x', function(d){
+		var rect = d3.select(this.parentNode.previousSibling);
+		var w = rect.attr('width');
+		var colls = collisions(rect.data()[0],data);
+		return w/2 + colls.indexOf(rect.data()[0]) * w;  
+	})
+	.attr('dy', function(e,i){return '1em'})
+	.attr('font-style', function(e, i){
+		if(i==1 || i==3) return 'italic';
+		else return 'normal';
+	})
+	.attr('font-size', function(e, i){
+		if(i==1 || i==3) return 12;
+		else return 15;
+	})
+	.attr('fill', function(d,i){
+		if(i==1 || i==3) return '#777';
+		return 'black';
+	})
+
+});
+
+
+var yAxis = d3.axisLeft(sy)
+.ticks(d3.timeMinute.every(30))
+.tickFormat(d3.timeFormat("%H:%M"));
+
+svg.append("g")
+    .attr("class", "axis")
+    .attr("transform", "translate(" + 50 + ",0)")
+    .call(yAxis);
+
+d3.selectAll('.notReg').style('opacity', 0.2);
+d3.selectAll('.notReg+text').style('opacity', 0.2);
+
+
+svg.selectAll('.dayline')
+.data(d3.range(1,7))
+.enter()
+.append('line')
+.attr('class', 'dayline')
+.attr('x1', function(d){return sx(d)})
+.attr('x2', function(d){return sx(d)})
+.attr('y1', function(d){return sy(sy.domain()[0])})
+.attr('y2', function(d){return sy(sy.domain()[1])});
+</script>
+
+
+</body>
+</html>
