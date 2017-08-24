@@ -1,0 +1,277 @@
+<html>
+<head>
+<meta charset="UTF-8"/>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="data.js"></script>
+
+<title>my schedule</title>
+<style>
+.rowline {
+	shape-rendering: crispEdges;
+	stroke-width:1;
+	stroke: #aaa;
+	stroke-dasharray:4 1;
+}
+
+.columnline {
+	shape-rendering: crispEdges;
+	stroke-width:1;
+	stroke: #999;
+
+}
+
+.axis line {
+	fill: none;
+	shape-rendering: crispEdges;
+}
+
+</style>
+</head>
+
+<body>
+<!--button onclick='hideShow()'>Click</button-->
+<svg id='big' width=1200 height=750></svg>
+
+<script>
+'use strict';
+
+
+String.prototype.toSec = function () { 
+	if (!this)
+		return null; 
+	var hms = this.split(':'); 
+	return (+hms[0]) * 60 * 60  + (+hms[1]) * 60 + (+hms[2] || 0); 
+};
+
+
+Number.prototype.toDate = function() {
+    var t = new Date(1970, 0, 1); // Epoch
+    t.setSeconds(this);
+    return t;
+};
+
+
+function expand(classes){
+	var res =[];
+	for(var i=0; i<classes.length; i++){
+		var class_i = classes[i];
+		for(var j=0; j<class_i.day.length; j++){
+			var cell = Object.assign({}, class_i);
+			cell.day = class_i.day[j];
+			res.push(cell);
+		}
+	}
+	return res;
+}
+
+
+function maxNonOverlappingCells(l){
+	//assuming l is a list of cells in the same day (e.g all Monday class cells)
+	l.sort(function(a,b){
+		return a.end.toSec() - b.end.toSec(); // ascending
+	});
+
+	var res = {'residual':[],
+						'cells':[l[0], ]};
+
+	for(var i=1; i<l.length; i++){
+		if (l[i].start.toSec() >= res.cells[res.cells.length-1].end.toSec()){
+			res.cells.push(l[i]);
+		}else{
+			res.residual.push(l[i]);
+		}
+	}
+	return res;
+}
+
+
+function init(){
+	var svg = d3.select('#big');
+	var width = svg.attr('width');
+	var height = svg.attr('height');
+	svg.sx = d3.scaleLinear().domain([1,5+1]).range([50,width-50]);
+	svg.sy = d3.scaleTime()
+	.domain([
+	new Date(1970,0,1).setSeconds("8:00".toSec()),
+	new Date(1970,0,1).setSeconds("19:00".toSec()),
+	])
+	.range([50,height-50]);
+
+	svg.sc = d3.scaleOrdinal()
+	.range(['#8dd3c7','#ffffb3','#bebada','#fb8072','#80b1d3','#fdb462',
+	'#b3de69','#fccde5','#d9d9d9','#bc80bd','#ccebc5','#ffed6f']);
+	
+	//width scale for cells
+	svg.sw = function(d){
+		var self = this;
+		var cells = expand(svg.classes);
+		var cellsToday = cells.filter(function(c){
+			return d.day == c.day; 
+		});
+		var count = 0;
+		var col = null;
+		while(cellsToday.length != 0){
+			var res = maxNonOverlappingCells(cellsToday);
+			cellsToday = res.residual;
+			for(var i=0; i<res.cells.length; i++){
+				if(d.sectionCode == res.cells[i].sectionCode){
+					col = count;
+				}
+			}
+			
+			count++;
+		}
+		return [(svg.sx(2)-svg.sx(1))/count, col] ;
+
+	}
+	svg.classes = [];
+	
+	svg.addClass = function(c){
+		svg.classes.push(c);
+	};
+
+	svg.drawClass = function(classData, color){
+		var data = {};
+		for(var i=0; i<classData.day.length; i++){
+			Object.assign(data, classData);
+			data.day = classData.day[i];
+			this.drawCell(data, color);
+		}
+	};
+
+	svg.draw = function(){
+		var self = this;		
+		for(var i=0; i<self.classes.length; i++){
+			self.drawClass(self.classes[i], self.sc(i));
+		}
+	}
+
+
+
+	svg.drawCell = function(cellData, color){
+		var self = this;
+		var sx = self.sx;
+		var sy = self.sy;
+		var sc = self.sc;
+		var sw = self.sw;
+
+		var g = self.append('g')
+		.datum(cellData)
+		.attr('class','cell')
+		.attr('transform', function(d){
+			return 'translate(' + sx(d.day)+','+sy(d.start.toSec().toDate())+')';
+		});
+
+		g.append('rect')
+		.attr('width',function(d){
+			return sw(d)[0];
+		})
+		.attr('x', function(d){
+			return sw(d)[0] * sw(d)[1];
+		})
+		.attr('height',function(d){
+			return sy(d.end.toSec().toDate())
+				-sy(d.start.toSec().toDate())
+		})
+		.attr('stroke', 'black')
+		.attr('fill', function(d){
+			return color;
+		})
+		.append('title')
+		.text(cellData.code + '\n'
+					+ cellData.title + '\n'
+					+ cellData.location + '\n'
+					+ cellData.instructor + '\n');
+		/*
+		var tag = g.append('text')
+		.attr('alignment-baseline', 'central')
+		.attr('text-anchor', 'middle')
+		.attr('y', 0);
+
+		
+		var tagData = [cellData.code,
+		cellData.title,
+		cellData.location, 
+		cellData.instructor];
+		tag.selectAll('tspan')
+		.data(tagData).enter()
+		.append('tspan')
+		.text(function(d){return d})
+		.attr('fill', 'black')
+		.attr('x', function(d){
+				var rect = d3.select(this.parentNode.previousSibling);
+				var w = sw(cellData)[0];
+				return sw(cellData)[1] * w + w/2;  
+			})
+			.attr('dy', function(d,i){return '1em'})
+			.attr('font-style', function(d, i){
+				return 'normal';
+			})
+			.attr('font-size', function(d, i){
+				return 12;
+			})*/
+
+
+		return g;
+	};
+
+	return svg;
+}
+
+
+function initPlot(svg){
+	svg.selectAll('.rowline')
+	.data(svg.sy.ticks(d3.timeMinute.every(60)))
+	.enter()
+	.append('line')
+	.attr('class', 'rowline')
+	.attr('x1', function(d){return svg.sx(1)})
+	.attr('x2', function(d){return svg.sx(6)})
+	.attr('y1', function(d){return svg.sy(d)})
+	.attr('y2', function(d){return svg.sy(d)});
+
+
+	var yAxis = d3.axisLeft(svg.sy)
+	.ticks(d3.timeMinute.every(30))
+	.tickFormat(d3.timeFormat("%H:%M"));
+
+	svg.append("g")
+	    .attr("class", "axis y")
+	    .attr("transform", "translate(" + 50 + ",0)")
+	    .call(yAxis);
+
+	svg.selectAll('.columnline')
+	.data(d3.range(1,7))
+	.enter()
+	.append('line')
+	.attr('class', 'columnline')
+	.attr('x1', function(d){return svg.sx(d)})
+	.attr('x2', function(d){return svg.sx(d)})
+	.attr('y1', function(d){return svg.sy(svg.sy.domain()[0])})
+	.attr('y2', function(d){return svg.sy(svg.sy.domain()[1])});
+}
+
+
+
+
+function main(){
+	var svg = init();
+	initPlot(svg);
+	
+
+	for(var i=0; i<data.length; i++){
+		if(data[i].start != 'TBA' && parseInt(data[i].code.split(' ')[1].slice(0, 3)) >= 200 )
+			svg.addClass(data[i]);
+	}
+  svg.draw();
+	return svg;
+}
+
+//returned svg for debug
+var svg = main();
+
+</script>
+
+
+</body>
+</html>

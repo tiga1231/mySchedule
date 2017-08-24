@@ -22,18 +22,49 @@ Communication, Rm 113
 Mihai Surdeanu
 2017/08/21 - 2017/12/06
 
-MATH  466 - Theory of Stat
+MATH 466 - Theory of Statistics 
 TuTh
-2:00PM
-3:15PM
-Engineering 308
-Hao Zhang
+8:00AM
+9:15AM
+Engineering, Rm 311
+Ning Hao
 2017/08/21 - 2017/12/06
 
-MATH  466 - Theory of Stat
-TuTh
-9:30AM
-10:45AM
-Saguaro Hall, Rm 114
-Yue Niu
+HDC meeting - x
+Tu
+3:30PM
+4:30PM
+GS 9xx
+
 2017/01/11 - 2017/05/03
+
+MATH 243 - Discrete Math
+MoWeFr
+12:00PM
+12:50PM
+Psychology, Rm 207
+Robert Indik
+2017/08/21 - 2017/12/06
+
+MATH 425A - Real Analysis of One Variable 
+MoWeFr
+10:00AM
+10:50AM
+Biol Sci West, Rm 219
+Joceline Lega
+2017/08/21 - 2017/12/06
+
+MATH 425A - Real Analysis of One Variable 
+MoWeFr
+9:00AM
+9:50AM
+Biol Sci West, Rm 210
+Lidia Mrad
+2017/08/21 - 2017/12/06
+
+MATH 537A - Global Differential Geometry
+MoWeFr
+9:00AM
+9:50AM
+Mathematics, Rm 501
+Sergey Cherkis

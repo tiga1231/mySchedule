@@ -177,47 +177,168 @@ var data =
     "day": 4
   }, 
   {
-    "start": "14:00", 
+    "start": "8:00", 
     "tag": [
       "MATH 466", 
-      "Theory of Stat", 
-      "Engineering 308", 
-      "Hao Zhang"
+      "Theory of Statistics", 
+      "Engineering 311", 
+      "Ning Hao"
     ], 
-    "end": "15:15", 
+    "end": "9:15", 
     "day": 2
   }, 
   {
-    "start": "14:00", 
+    "start": "8:00", 
     "tag": [
       "MATH 466", 
-      "Theory of Stat", 
-      "Engineering 308", 
-      "Hao Zhang"
+      "Theory of Statistics", 
+      "Engineering 311", 
+      "Ning Hao"
     ], 
-    "end": "15:15", 
+    "end": "9:15", 
     "day": 4
   }, 
   {
-    "start": "9:30", 
+    "start": "15:30", 
     "tag": [
-      "MATH 466", 
-      "Theory of Stat", 
-      "Saguaro Hall 114", 
-      "Yue Niu"
+      "HDC meeting", 
+      "x", 
+      "GS 9xx", 
+      ""
     ], 
-    "end": "10:45", 
+    "end": "16:30", 
     "day": 2
   }, 
   {
-    "start": "9:30", 
+    "start": "12:00", 
     "tag": [
-      "MATH 466", 
-      "Theory of Stat", 
-      "Saguaro Hall 114", 
-      "Yue Niu"
+      "MATH 243", 
+      "Discrete Math", 
+      "Psychology 207", 
+      "Robert Indik"
     ], 
-    "end": "10:45", 
-    "day": 4
+    "end": "12:50", 
+    "day": 1
+  }, 
+  {
+    "start": "12:00", 
+    "tag": [
+      "MATH 243", 
+      "Discrete Math", 
+      "Psychology 207", 
+      "Robert Indik"
+    ], 
+    "end": "12:50", 
+    "day": 3
+  }, 
+  {
+    "start": "12:00", 
+    "tag": [
+      "MATH 243", 
+      "Discrete Math", 
+      "Psychology 207", 
+      "Robert Indik"
+    ], 
+    "end": "12:50", 
+    "day": 5
+  }, 
+  {
+    "start": "10:00", 
+    "tag": [
+      "MATH 425A", 
+      "Real Analysis of One Variable", 
+      "Biol Sci West 219", 
+      "Joceline Lega"
+    ], 
+    "end": "10:50", 
+    "day": 1
+  }, 
+  {
+    "start": "10:00", 
+    "tag": [
+      "MATH 425A", 
+      "Real Analysis of One Variable", 
+      "Biol Sci West 219", 
+      "Joceline Lega"
+    ], 
+    "end": "10:50", 
+    "day": 3
+  }, 
+  {
+    "start": "10:00", 
+    "tag": [
+      "MATH 425A", 
+      "Real Analysis of One Variable", 
+      "Biol Sci West 219", 
+      "Joceline Lega"
+    ], 
+    "end": "10:50", 
+    "day": 5
+  }, 
+  {
+    "start": "9:00", 
+    "tag": [
+      "MATH 425A", 
+      "Real Analysis of One Variable", 
+      "Biol Sci West 210", 
+      "Lidia Mrad"
+    ], 
+    "end": "9:50", 
+    "day": 1
+  }, 
+  {
+    "start": "9:00", 
+    "tag": [
+      "MATH 425A", 
+      "Real Analysis of One Variable", 
+      "Biol Sci West 210", 
+      "Lidia Mrad"
+    ], 
+    "end": "9:50", 
+    "day": 3
+  }, 
+  {
+    "start": "9:00", 
+    "tag": [
+      "MATH 425A", 
+      "Real Analysis of One Variable", 
+      "Biol Sci West 210", 
+      "Lidia Mrad"
+    ], 
+    "end": "9:50", 
+    "day": 5
+  }, 
+  {
+    "start": "9:00", 
+    "tag": [
+      "MATH 537A", 
+      "Global Differential Geometry", 
+      "Mathematics 501", 
+      "Sergey Cherkis"
+    ], 
+    "end": "9:50", 
+    "day": 1
+  }, 
+  {
+    "start": "9:00", 
+    "tag": [
+      "MATH 537A", 
+      "Global Differential Geometry", 
+      "Mathematics 501", 
+      "Sergey Cherkis"
+    ], 
+    "end": "9:50", 
+    "day": 3
+  }, 
+  {
+    "start": "9:00", 
+    "tag": [
+      "MATH 537A", 
+      "Global Differential Geometry", 
+      "Mathematics 501", 
+      "Sergey Cherkis"
+    ], 
+    "end": "9:50", 
+    "day": 5
   }
 ]

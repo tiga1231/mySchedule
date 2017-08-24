@@ -1,0 +1,3845 @@
+Search for Classes
+Search Results
+The University of Arizona | Fall 2017
+The following classes match your search criteria Course Subject: Computer Science Main,  Show Open Classes Only: No
+Open with Requirements
+Open with Requirements
+Open
+Closed
+Wait List
+Open
+Closed
+Wait List
+New Search
+Modify Search
+328 class section(s) found
+Collapse section CSC  101 - Introduction to Computer Science CSC 101 - Introduction to Computer Science 
+First Show previous row (inactive button) (Alt+,) 1-8 of 8 Show next row (inactive button) (Alt+.) Last 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+66224
+001-LEC
+Regular
+MoWeFr 8:00AM - 8:50AM
+Henry Koffler Bldg, Rm 204
+Benjamin Dicken
+2017/08/21 - 2017/12/06
+Open
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+66242
+001A-DIS
+Regular
+We 10:00AM - 10:50AM
+Gould-Simpson, Rm 930
+Benjamin Dicken
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+66243
+001B-DIS
+Regular
+We 11:00AM - 11:50AM
+Gould-Simpson, Rm 930
+Benjamin Dicken
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+66244
+001C-DIS
+Regular
+We 12:00PM - 12:50PM
+Gould-Simpson, Rm 930
+Benjamin Dicken
+2017/08/21 - 2017/12/06
+Open
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+66245
+001D-DIS
+Regular
+We 1:00PM - 1:50PM
+Gould-Simpson, Rm 930
+Benjamin Dicken
+2017/08/21 - 2017/12/06
+Open
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+66246
+001E-DIS
+Regular
+We 2:00PM - 2:50PM
+Gould-Simpson, Rm 930
+Benjamin Dicken
+2017/08/21 - 2017/12/06
+Open
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+66247
+001F-DIS
+Regular
+We 3:00PM - 3:50PM
+Gould-Simpson, Rm 930
+Benjamin Dicken
+2017/08/21 - 2017/12/06
+Open
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+66248
+001G-DIS
+Regular
+We 4:00PM - 4:50PM
+Gould-Simpson, Rm 930
+Benjamin Dicken
+2017/08/21 - 2017/12/06
+Open
+ 
+Collapse section CSC  110 - Introduction to Computer Programming I CSC 110 - Introduction to Computer Programming I 
+First Show previous row (inactive button) (Alt+,) 1-15 of 15 Show next row (inactive button) (Alt+.) Last 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+66226
+001-LEC
+Regular
+MoWeFr 8:00AM - 8:50AM
+Phys-Atmos Sci, Rm 201
+Allison Obourn
+2017/08/21 - 2017/12/06
+Open with Requirements
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+66252
+001A-DIS
+Regular
+Th 8:00AM - 8:50AM
+Gould-Simpson, Rm 930
+Allison Obourn
+2017/08/21 - 2017/12/06
+Open with Requirements
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+66253
+001B-DIS
+Regular
+Th 9:00AM - 9:50AM
+Gould-Simpson, Rm 930
+Allison Obourn
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+66254
+001C-DIS
+Regular
+Th 10:00AM - 10:50AM
+Gould-Simpson, Rm 930
+Allison Obourn
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+66255
+001D-DIS
+Regular
+Th 11:00AM - 11:50AM
+Gould-Simpson, Rm 930
+Allison Obourn
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+66256
+001E-DIS
+Regular
+Th 12:00PM - 12:50PM
+Gould-Simpson, Rm 930
+Allison Obourn
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+66257
+001F-DIS
+Regular
+Th 1:00PM - 1:50PM
+Gould-Simpson, Rm 930
+Allison Obourn
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+66258
+001G-DIS
+Regular
+Th 2:00PM - 2:50PM
+Gould-Simpson, Rm 930
+Allison Obourn
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+66259
+001H-DIS
+Regular
+Th 3:00PM - 3:50PM
+Gould-Simpson, Rm 930
+Allison Obourn
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+66260
+001I-DIS
+Regular
+Th 4:00PM - 4:50PM
+Gould-Simpson, Rm 930
+Allison Obourn
+2017/08/21 - 2017/12/06
+Open with Requirements
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+66261
+001J-DIS
+Regular
+Th 5:00PM - 5:50PM
+Gould-Simpson, Rm 930
+Allison Obourn
+2017/08/21 - 2017/12/06
+Open with Requirements
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+66262
+001K-DIS
+Regular
+Th 6:00PM - 6:50PM
+Gould-Simpson, Rm 930
+Allison Obourn
+2017/08/21 - 2017/12/06
+Open with Requirements
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+66263
+001L-DIS
+Regular
+Th 7:00PM - 7:50PM
+Gould-Simpson, Rm 930
+Allison Obourn
+2017/08/21 - 2017/12/06
+Open with Requirements
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+67624
+001M-DIS
+Regular
+Th 12:00PM - 12:50PM
+Gould-Simpson, Rm 942
+Staff
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+67625
+001N-DIS
+Regular
+Th 1:00PM - 1:50PM
+Gould-Simpson, Rm 942
+Staff
+2017/08/21 - 2017/12/06
+Closed
+ 
+Collapse section CSC  120 - Introduction to Computer Programming II CSC 120 - Introduction to Computer Programming II 
+First Show previous row (inactive button) (Alt+,) 1-8 of 8 Show next row (inactive button) (Alt+.) Last 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+66225
+001-LEC
+Regular
+MoWeFr 8:00AM - 8:50AM
+M Pacheco ILC, Rm 120
+Janalee Obagy
+2017/08/21 - 2017/12/06
+Open with Requirements
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+66233
+001A-LAB
+Regular
+Tu 8:00AM - 8:50AM
+Gould-Simpson, Rm 930
+Janalee Obagy
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+66234
+001B-LAB
+Regular
+Tu 9:00AM - 9:50AM
+Gould-Simpson, Rm 930
+Janalee Obagy
+2017/08/21 - 2017/12/06
+Open with Requirements
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+66235
+001C-LAB
+Regular
+Tu 10:00AM - 10:50AM
+Gould-Simpson, Rm 930
+Janalee Obagy
+2017/08/21 - 2017/12/06
+Open with Requirements
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+66236
+001D-LAB
+Regular
+Tu 11:00AM - 11:50AM
+Gould-Simpson, Rm 930
+Janalee Obagy
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+66237
+001E-LAB
+Regular
+Tu 12:00PM - 12:50PM
+Gould-Simpson, Rm 930
+Janalee Obagy
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+66238
+001F-LAB
+Regular
+Tu 1:00PM - 1:50PM
+Gould-Simpson, Rm 930
+Janalee Obagy
+2017/08/21 - 2017/12/06
+Open with Requirements
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+66239
+001G-LAB
+Regular
+Tu 2:00PM - 2:50PM
+Gould-Simpson, Rm 930
+Janalee Obagy
+2017/08/21 - 2017/12/06
+Open with Requirements
+ 
+Collapse section CSC  210 - Software Development CSC 210 - Software Development 
+First Show previous row (inactive button) (Alt+,) 1-8 of 8 Show next row (inactive button) (Alt+.) Last 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+66104
+001-LEC
+Regular
+MoWeFr 3:00PM - 3:50PM
+Aero & Mech Engr, Rm S202
+Eric Anson
+2017/08/21 - 2017/12/06
+Open with Requirements
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+66159
+001A-LAB
+Regular
+Mo 8:00AM - 9:15AM
+Gould-Simpson, Rm 930
+Eric Anson
+2017/08/21 - 2017/12/06
+Open with Requirements
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+66160
+001B-LAB
+Regular
+Mo 9:30AM - 10:45AM
+Gould-Simpson, Rm 930
+Eric Anson
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+66161
+001C-LAB
+Regular
+Mo 11:00AM - 12:15PM
+Gould-Simpson, Rm 930
+Eric Anson
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+66162
+001D-LAB
+Regular
+Mo 12:30PM - 1:45PM
+Gould-Simpson, Rm 930
+Eric Anson
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+66163
+001E-LAB
+Regular
+Mo 4:00PM - 5:15PM
+Gould-Simpson, Rm 930
+Eric Anson
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+66164
+001F-LAB
+Regular
+Mo 5:30PM - 6:45PM
+Gould-Simpson, Rm 930
+Eric Anson
+2017/08/21 - 2017/12/06
+Open with Requirements
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+66165
+001G-LAB
+Regular
+Mo 7:00PM - 8:15PM
+Gould-Simpson, Rm 930
+Eric Anson
+2017/08/21 - 2017/12/06
+Open with Requirements
+ 
+Collapse section CSC  245 - Introduction to Discrete Structures CSC 245 - Introduction to Discrete Structures 
+First Show previous row (inactive button) (Alt+,) 1-6 of 6 Show next row (inactive button) (Alt+.) Last 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29319
+001-LEC
+Regular
+MoWeFr 2:00PM - 2:50PM
+Ctr for ESL, Rm 103
+Lester McCann
+2017/08/21 - 2017/12/06
+Open with Requirements
+ 
+Per Unit Fee
+$0.00
+Flat Fee
+$35.00
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+59225
+001A-DIS
+Regular
+Fr 8:00AM - 8:50AM
+Gould-Simpson, Rm 930
+Lester McCann
+2017/08/21 - 2017/12/06
+Open with Requirements
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+59226
+001B-DIS
+Regular
+Fr 9:00AM - 9:50AM
+Gould-Simpson, Rm 930
+Lester McCann
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+59227
+001C-DIS
+Regular
+Fr 10:00AM - 10:50AM
+Gould-Simpson, Rm 930
+Lester McCann
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+59228
+001D-DIS
+Regular
+Fr 11:00AM - 11:50AM
+Gould-Simpson, Rm 930
+Lester McCann
+2017/08/21 - 2017/12/06
+Open with Requirements
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+66105
+001E-DIS
+Regular
+Fr 12:00PM - 12:50PM
+Gould-Simpson, Rm 930
+Lester McCann
+2017/08/21 - 2017/12/06
+Closed
+ 
+Collapse section CSC  252 - Computer Organization CSC 252 - Computer Organization 
+First Show previous row (inactive button) (Alt+,) 1 of 1 Show next row (inactive button) (Alt+.) Last 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29320
+001-LEC
+Regular
+MoWeFr 2:00PM - 2:50PM
+M Pacheco ILC, Rm 141
+Russell Lewis
+2017/08/21 - 2017/12/06
+Open with Requirements
+ 
+Per Unit Fee
+$0.00
+Flat Fee
+$35.00
+Collapse section CSC  293 - Internship CSC 293 - Internship 
+First Show previous row (inactive button) (Alt+,) 1-15 of 15 Show next row (inactive button) (Alt+.) Last 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29322
+010-IND
+Regular
+TBA
+TBA
+Christian Collberg
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29323
+011-IND
+Regular
+TBA
+TBA
+Saumya Debray
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29324
+012-IND
+Regular
+TBA
+TBA
+Peter Downey
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29325
+015-IND
+Regular
+TBA
+TBA
+John Hartman
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29326
+017-IND
+Regular
+TBA
+TBA
+Richard Mercer
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29327
+023-IND
+Regular
+TBA
+TBA
+Richard Snodgrass
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29328
+025-IND
+Regular
+TBA
+TBA
+Gregory Andrews
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29329
+044-IND
+Regular
+TBA
+TBA
+Alon Efrat
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29330
+045-IND
+Regular
+TBA
+TBA
+John Kececioglu
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29331
+046-IND
+Regular
+TBA
+TBA
+Stephen Kobourov
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29332
+050-IND
+Regular
+TBA
+TBA
+Patrick Homer
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29336
+055-IND
+Regular
+TBA
+TBA
+Lester McCann
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29338
+057-IND
+Regular
+TBA
+TBA
+Christopher Gniady
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29339
+058-IND
+Regular
+TBA
+TBA
+Beichuan Zhang
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+40132
+062-IND
+Regular
+TBA
+TBA
+David Lowenthal
+2017/08/21 - 2017/12/06
+Closed
+ 
+Collapse section CSC  296B - Seminar in Bioinformatics CSC 296B - Seminar in Bioinformatics 
+First Show previous row (inactive button) (Alt+,) 1 of 1 Show next row (inactive button) (Alt+.) Last 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+60340
+001-SEM
+Regular
+We 3:30PM - 5:30PM
+We 3:30PM - 5:30PM
+We 3:30PM - 5:30PM
+We 3:30PM - 5:30PM
+We 3:30PM - 5:30PM
+We 3:30PM - 5:30PM
+We 3:30PM - 5:30PM
+We 3:30PM - 5:30PM
+Social Sciences, Rm 206
+Social Sciences, Rm 206
+Social Sciences, Rm 206
+Social Sciences, Rm 206
+Social Sciences, Rm 206
+Social Sciences, Rm 206
+Social Sciences, Rm 206
+Social Sciences, Rm 206
+Michael Barker
+Michael Barker
+Michael Barker
+Michael Barker
+Michael Barker
+Michael Barker
+Michael Barker
+Michael Barker
+2017/08/23 - 2017/08/23
+2017/09/06 - 2017/09/06
+2017/09/20 - 2017/09/20
+2017/11/29 - 2017/11/29
+2017/11/15 - 2017/11/15
+2017/11/01 - 2017/11/01
+2017/10/18 - 2017/10/18
+2017/10/04 - 2017/10/04
+Open
+ 
+Notes: This is a combined section class
+
+Cross Listed
+Class Attribute
+Collapse section CSC  335 - Object-Oriented Programming and Design CSC 335 - Object-Oriented Programming and Design 
+First Show previous row (inactive button) (Alt+,) 1-4 of 4 Show next row (inactive button) (Alt+.) Last 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29340
+001-LEC
+Regular
+MoWeFr 10:00AM - 10:50AM
+M Pacheco ILC, Rm 150
+Richard Mercer
+2017/08/21 - 2017/12/06
+Closed
+ 
+
+Equivalency
+Mutually Exclusive
+Per Unit Fee
+$0.00
+Class Attribute
+Flat Fee
+$35.00
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+47524
+001D-DIS
+Regular
+Fr 1:00PM - 1:50PM
+Gould-Simpson, Rm 930
+Richard Mercer
+2017/08/21 - 2017/12/06
+Closed
+ 
+
+Equivalency
+Mutually Exclusive
+Class Attribute
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+59040
+001E-DIS
+Regular
+Fr 2:00PM - 2:50PM
+Gould-Simpson, Rm 930
+Richard Mercer
+2017/08/21 - 2017/12/06
+Closed
+ 
+
+Equivalency
+Mutually Exclusive
+Class Attribute
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+59041
+001F-DIS
+Regular
+Fr 3:00PM - 3:50PM
+Gould-Simpson, Rm 930
+Richard Mercer
+2017/08/21 - 2017/12/06
+Closed
+ 
+
+Equivalency
+Mutually Exclusive
+Class Attribute
+Collapse section CSC  337 - Web Programming CSC 337 - Web Programming 
+First Show previous row (inactive button) (Alt+,) 1 of 1 Show next row (inactive button) (Alt+.) Last 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+47797
+001-LEC
+Regular
+MoWeFr 3:00PM - 3:50PM
+M Pacheco ILC, Rm 141
+Richard Mercer
+2017/08/21 - 2017/12/06
+Open with Requirements
+ 
+Per Unit Fee
+$0.00
+Flat Fee
+$35.00
+Collapse section CSC  345 - Analysis of Discrete Structures CSC 345 - Analysis of Discrete Structures 
+First Show previous row (inactive button) (Alt+,) 1-2 of 2 Show next row (inactive button) (Alt+.) Last 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29341
+001-LEC
+Regular
+MoWeFr 1:00PM - 1:50PM
+C E Chavez Bldg, Rm 111
+Alon Efrat
+2017/08/21 - 2017/12/06
+Open with Requirements
+ 
+Per Unit Fee
+$0.00
+Flat Fee
+$35.00
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+44039
+001A-DIS
+Regular
+Fr 11:00AM - 11:50AM
+Modern Languages, Rm 311
+Alon Efrat
+2017/08/21 - 2017/12/06
+Open with Requirements
+ 
+
+Equivalency
+Mutually Exclusive
+Class Attribute
+Collapse section CSC  352 - Systems Programming and Unix CSC 352 - Systems Programming and Unix 
+First Show previous row (inactive button) (Alt+,) 1 of 1 Show next row (inactive button) (Alt+.) Last 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+56753
+002-LEC
+Regular
+MoWeFr 1:00PM - 1:50PM
+M Pacheco ILC, Rm 141
+Russell Lewis
+2017/08/21 - 2017/12/06
+Open with Requirements
+ 
+
+Equivalency
+Mutually Exclusive
+Per Unit Fee
+$0.00
+Class Attribute
+Flat Fee
+$35.00
+Collapse section CSC  372 - Comparative Programming Languages CSC 372 - Comparative Programming Languages 
+First Show previous row (inactive button) (Alt+,) 1 of 1 Show next row (inactive button) (Alt+.) Last 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+66602
+001-LEC
+Regular
+MoWe 5:00PM - 6:15PM
+Gould-Simpson, Rm 906
+Christian Collberg
+2017/08/21 - 2017/12/06
+Open with Requirements
+ 
+
+Equivalency
+Mutually Exclusive
+Per Unit Fee
+$0.00
+Class Attribute
+Flat Fee
+$35.00
+Collapse section CSC  391 - Preceptorship CSC 391 - Preceptorship 
+First Show previous row (inactive button) (Alt+,) 1-16 of 16 Show next row (inactive button) (Alt+.) Last 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+40133
+010-IND
+Regular
+TBA
+TBA
+Christian Collberg
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+40134
+011-IND
+Regular
+TBA
+TBA
+Saumya Debray
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+40135
+012-IND
+Regular
+TBA
+TBA
+Peter Downey
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+40136
+015-IND
+Regular
+TBA
+TBA
+John Hartman
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29343
+017-IND
+Regular
+TBA
+TBA
+Richard Mercer
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+40137
+023-IND
+Regular
+TBA
+TBA
+Richard Snodgrass
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+40138
+025-IND
+Regular
+TBA
+TBA
+Gregory Andrews
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+40140
+045-IND
+Regular
+TBA
+TBA
+John Kececioglu
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+40141
+046-IND
+Regular
+TBA
+TBA
+Stephen Kobourov
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29344
+050-IND
+Regular
+TBA
+TBA
+Patrick Homer
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+40144
+053-IND
+Regular
+TBA
+TBA
+Sandiway Fong
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+40145
+055-IND
+Regular
+We 4:00PM - 7:00PM
+Gould-Simpson, Rm 701
+Lester McCann
+2017/08/21 - 2017/12/06
+Open
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+40146
+056-IND
+Regular
+TBA
+TBA
+Hong Hua
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+40147
+057-IND
+Regular
+TBA
+TBA
+Christopher Gniady
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+40148
+058-IND
+Regular
+TBA
+TBA
+Beichuan Zhang
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+40149
+062-IND
+Regular
+TBA
+TBA
+David Lowenthal
+2017/08/21 - 2017/12/06
+Closed
+ 
+Collapse section CSC  392 - Directed Research CSC 392 - Directed Research 
+First Show previous row (inactive button) (Alt+,) 1-15 of 15 Show next row (inactive button) (Alt+.) Last 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29345
+010-IND
+Regular
+TBA
+TBA
+Christian Collberg
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29346
+011-IND
+Regular
+TBA
+TBA
+Saumya Debray
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29347
+012-IND
+Regular
+TBA
+TBA
+Peter Downey
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29348
+015-IND
+Regular
+TBA
+TBA
+John Hartman
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29349
+017-IND
+Regular
+TBA
+TBA
+Richard Mercer
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29351
+023-IND
+Regular
+TBA
+TBA
+Richard Snodgrass
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29352
+025-IND
+Regular
+TBA
+TBA
+Gregory Andrews
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29354
+044-IND
+Regular
+TBA
+TBA
+Alon Efrat
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29355
+045-IND
+Regular
+TBA
+TBA
+John Kececioglu
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29356
+046-IND
+Regular
+TuTh 2:00PM - 3:15PM
+Gould-Simpson, Rm 701
+Helen Purchase
+2017/08/21 - 2017/12/06
+Open
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29357
+050-IND
+Regular
+TBA
+TBA
+Patrick Homer
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29361
+055-IND
+Regular
+TBA
+TBA
+Lester McCann
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29363
+057-IND
+Regular
+TBA
+TBA
+Christopher Gniady
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29364
+058-IND
+Regular
+TBA
+TBA
+Beichuan Zhang
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+40152
+062-IND
+Regular
+TBA
+TBA
+David Lowenthal
+2017/08/21 - 2017/12/06
+Closed
+ 
+Collapse section CSC  399 - Independent Study CSC 399 - Independent Study 
+First Show previous row (inactive button) (Alt+,) 1-17 of 17 Show next row (inactive button) (Alt+.) Last 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29365
+001-IND
+Regular
+TBA
+TBA
+Staff
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29366
+010-IND
+Regular
+TBA
+TBA
+Christian Collberg
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29367
+011-IND
+Regular
+TBA
+TBA
+Saumya Debray
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29368
+012-IND
+Regular
+TBA
+TBA
+Peter Downey
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29369
+015-IND
+Regular
+TBA
+TBA
+John Hartman
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29370
+017-IND
+Regular
+TBA
+TBA
+Richard Mercer
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29371
+023-IND
+Regular
+TBA
+TBA
+Richard Snodgrass
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29372
+025-IND
+Regular
+TBA
+TBA
+Gregory Andrews
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29373
+044-IND
+Regular
+TBA
+TBA
+Alon Efrat
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29374
+045-IND
+Regular
+TBA
+TBA
+John Kececioglu
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29375
+046-IND
+Regular
+TBA
+TBA
+Stephen Kobourov
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29376
+050-IND
+Regular
+TBA
+TBA
+Patrick Homer
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29380
+055-IND
+Regular
+TBA
+TBA
+Lester McCann
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29382
+057-IND
+Regular
+TBA
+TBA
+Christopher Gniady
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29383
+058-IND
+Regular
+TBA
+TBA
+Beichuan Zhang
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+40153
+062-IND
+Regular
+TBA
+TBA
+David Lowenthal
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+51320
+065-IND
+Regular
+TBA
+TBA
+Thienne Johnson
+2017/08/21 - 2017/12/06
+Closed
+ 
+Collapse section CSC  399H - Honors Independent Study CSC 399H - Honors Independent Study 
+First Show previous row (inactive button) (Alt+,) 1-15 of 15 Show next row (inactive button) (Alt+.) Last 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+40154
+010-IND
+Regular
+TBA
+TBA
+Christian Collberg
+2017/08/21 - 2017/12/06
+Closed
+ 
+
+Honors Course
+Class Attribute
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29385
+011-IND
+Regular
+TBA
+TBA
+Saumya Debray
+2017/08/21 - 2017/12/06
+Closed
+ 
+
+Honors Course
+Class Attribute
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+40155
+012-IND
+Regular
+TBA
+TBA
+Peter Downey
+2017/08/21 - 2017/12/06
+Closed
+ 
+
+Honors Course
+Class Attribute
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+40156
+015-IND
+Regular
+TBA
+TBA
+John Hartman
+2017/08/21 - 2017/12/06
+Closed
+ 
+
+Honors Course
+Class Attribute
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+40157
+017-IND
+Regular
+TBA
+TBA
+Richard Mercer
+2017/08/21 - 2017/12/06
+Closed
+ 
+
+Honors Course
+Class Attribute
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29386
+023-IND
+Regular
+TBA
+TBA
+Richard Snodgrass
+2017/08/21 - 2017/12/06
+Closed
+ 
+
+Honors Course
+Class Attribute
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+40158
+025-IND
+Regular
+TBA
+TBA
+Gregory Andrews
+2017/08/21 - 2017/12/06
+Closed
+ 
+
+Honors Course
+Class Attribute
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+40160
+044-IND
+Regular
+TBA
+TBA
+Alon Efrat
+2017/08/21 - 2017/12/06
+Closed
+ 
+
+Honors Course
+Class Attribute
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+40161
+045-IND
+Regular
+TBA
+TBA
+John Kececioglu
+2017/08/21 - 2017/12/06
+Closed
+ 
+
+Honors Course
+Class Attribute
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+40162
+046-IND
+Regular
+TBA
+TBA
+Stephen Kobourov
+2017/08/21 - 2017/12/06
+Closed
+ 
+
+Honors Course
+Class Attribute
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+40163
+050-IND
+Regular
+TBA
+TBA
+Patrick Homer
+2017/08/21 - 2017/12/06
+Closed
+ 
+
+Honors Course
+Class Attribute
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+40167
+055-IND
+Regular
+TBA
+TBA
+Lester McCann
+2017/08/21 - 2017/12/06
+Closed
+ 
+
+Honors Course
+Class Attribute
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+40169
+057-IND
+Regular
+TBA
+TBA
+Christopher Gniady
+2017/08/21 - 2017/12/06
+Closed
+ 
+
+Honors Course
+Class Attribute
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+40170
+058-IND
+Regular
+TBA
+TBA
+Beichuan Zhang
+2017/08/21 - 2017/12/06
+Closed
+ 
+
+Honors Course
+Class Attribute
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+40171
+062-IND
+Regular
+TBA
+TBA
+David Lowenthal
+2017/08/21 - 2017/12/06
+Closed
+ 
+
+Honors Course
+Class Attribute
+Collapse section CSC  401A - Symbolic Logic CSC 401A - Symbolic Logic 
+First Show previous row (inactive button) (Alt+,) 1 of 1 Show next row (inactive button) (Alt+.) Last 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+46346
+001-LEC
+Regular
+MoWeFr 9:00AM - 9:50AM
+Communication, Rm 113
+Jason Turner
+2017/08/21 - 2017/12/06
+Open
+ 
+Notes: This is a combined section class
+
+Cross Listed
+Class Attribute
+Collapse section CSC  422 - Introduction to Parallel and Distributed Programming CSC 422 - Introduction to Parallel and Distributed Programming 
+First Show previous row (inactive button) (Alt+,) 1 of 1 Show next row (inactive button) (Alt+.) Last 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+65923
+001-LEC
+Regular
+TuTh 9:30AM - 10:45AM
+Gould-Simpson, Rm 906
+Patrick Homer
+2017/08/21 - 2017/12/06
+Closed
+ 
+
+Equivalency
+Mutually Exclusive
+Per Unit Fee
+$0.00
+Class Attribute
+Flat Fee
+$35.00
+Collapse section CSC  425 - Computer Networking CSC 425 - Computer Networking 
+First Show previous row (inactive button) (Alt+,) 1 of 1 Show next row (inactive button) (Alt+.) Last 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+65974
+001-LEC
+Regular
+TuTh 12:30PM - 1:45PM
+R P Harvill Bldg, Rm 318
+Beichuan Zhang
+2017/08/21 - 2017/12/06
+Open with Requirements
+ 
+Per Unit Fee
+$0.00
+Flat Fee
+$35.00
+Collapse section CSC  436 - Software Engineering CSC 436 - Software Engineering 
+First Show previous row (inactive button) (Alt+,) 1 of 1 Show next row (inactive button) (Alt+.) Last 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+53797
+001-LEC
+Regular
+TuTh 12:30PM - 1:45PM
+Gould-Simpson, Rm 906
+Ravi Sethi
+2017/08/21 - 2017/12/06
+Open with Requirements
+ 
+
+Engagement: Professional Development
+Engagement: Innovation and Creativity
+Per Unit Fee
+$0.00
+Class Attribute
+Flat Fee
+$35.00
+Collapse section CSC  438 - Computational Linguistics CSC 438 - Computational Linguistics 
+First Show previous row (inactive button) (Alt+,) 1 of 1 Show next row (inactive button) (Alt+.) Last 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+46343
+001-LEC
+Regular
+TuTh 3:30PM - 4:45PM
+McClelland Park, Rm 102
+Sandiway Fong
+2017/08/21 - 2017/12/06
+Closed
+ 
+Notes: This is a combined section class
+
+Cross Listed
+Class Attribute
+Collapse section CSC  439 - Statistical Natural Language Processing CSC 439 - Statistical Natural Language Processing 
+First Show previous row (inactive button) (Alt+,) 1 of 1 Show next row (inactive button) (Alt+.) Last 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+50170
+001-LEC
+Regular
+TuTh 2:00PM - 3:15PM
+Communication, Rm 113
+Mihai Surdeanu
+2017/08/21 - 2017/12/06
+Closed
+ 
+Notes: This is a combined section class
+
+Cross Listed
+Class Attribute
+Collapse section CSC  445 - Algorithms CSC 445 - Algorithms 
+First Show previous row (inactive button) (Alt+,) 1 of 1 Show next row (inactive button) (Alt+.) Last 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+53798
+001-LEC
+Regular
+TuTh 5:00PM - 6:15PM
+Gould-Simpson, Rm 906
+Alon Efrat
+2017/08/21 - 2017/12/06
+Closed
+ 
+
+Equivalency
+Mutually Exclusive
+Writing Emphasis Course
+Per Unit Fee
+$0.00
+Class Attribute
+Flat Fee
+$35.00
+Collapse section CSC  450 - Algorithms in Bioinformatics CSC 450 - Algorithms in Bioinformatics 
+First Show previous row (inactive button) (Alt+,) 1 of 1 Show next row (inactive button) (Alt+.) Last 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+66221
+001-LEC
+Regular
+TuTh 3:30PM - 4:45PM
+Biol Sci West, Rm 208
+John Kececioglu
+2017/08/21 - 2017/12/06
+Open with Requirements
+ 
+Per Unit Fee
+$0.00
+Flat Fee
+$35.00
+Collapse section CSC  452 - Principles of Operating Systems CSC 452 - Principles of Operating Systems 
+First Show previous row (inactive button) (Alt+,) 1-2 of 2 Show next row (inactive button) (Alt+.) Last 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+55797
+001-LEC
+Regular
+TuTh 2:00PM - 3:15PM
+Modern Languages, Rm 311
+Patrick Homer
+2017/08/21 - 2017/12/06
+Open with Requirements
+ 
+
+Equivalency
+Mutually Exclusive
+Per Unit Fee
+$0.00
+Class Attribute
+Flat Fee
+$35.00
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+55798
+001A-DIS
+Regular
+Fr 9:00AM - 10:50AM
+Gould-Simpson, Rm 906
+Patrick Homer
+2017/08/21 - 2017/12/06
+Open with Requirements
+ 
+
+Equivalency
+Mutually Exclusive
+Class Attribute
+Collapse section CSC  460 - Database Design CSC 460 - Database Design 
+First Show previous row (inactive button) (Alt+,) 1 of 1 Show next row (inactive button) (Alt+.) Last 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29388
+001-LEC
+Regular
+TuTh 3:30PM - 4:45PM
+Gould-Simpson, Rm 906
+Lester McCann
+2017/08/21 - 2017/12/06
+Closed
+ 
+Per Unit Fee
+$0.00
+Flat Fee
+$35.00
+Collapse section CSC  466 - Computer Security CSC 466 - Computer Security 
+First Show previous row (inactive button) (Alt+,) 1 of 1 Show next row (inactive button) (Alt+.) Last 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+53795
+001-LEC
+Regular
+MoWe 2:00PM - 3:15PM
+Gould-Simpson, Rm 906
+Christian Collberg
+2017/08/21 - 2017/12/06
+Closed
+ 
+Notes: This is a combined section class
+Per Unit Fee
+$0.00
+Flat Fee
+$35.00
+Collapse section CSC  474A - Computer-Aided Logic Design CSC 474A - Computer-Aided Logic Design 
+First Show previous row (inactive button) (Alt+,) 1 of 1 Show next row (inactive button) (Alt+.) Last 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+46351
+001-LEC
+Regular
+TuTh 11:00AM - 12:15PM
+Gittings Bldg, Rm 201
+Tosiron Adegbija
+2017/08/21 - 2017/12/06
+Closed
+ 
+Notes: This is a combined section class
+
+Cross Listed
+Class Attribute
+Collapse section CSC  477 - Introduction to Computer Vision CSC 477 - Introduction to Computer Vision 
+First Show previous row (inactive button) (Alt+,) 1 of 1 Show next row (inactive button) (Alt+.) Last 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+59115
+001-LEC
+Regular
+MoWeFr 1:00PM - 1:50PM
+Gould-Simpson, Rm 701
+Jacobus Barnard
+2017/08/21 - 2017/12/06
+Open with Requirements
+ 
+Notes: This is a combined section class
+Per Unit Fee
+$0.00
+Flat Fee
+$35.00
+Collapse section CSC  492 - Directed Research CSC 492 - Directed Research 
+First Show previous row (inactive button) (Alt+,) 1-17 of 17 Show next row (inactive button) (Alt+.) Last 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29390
+010-IND
+Regular
+TBA
+TBA
+Christian Collberg
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29391
+011-IND
+Regular
+TBA
+TBA
+Saumya Debray
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29392
+012-IND
+Regular
+TBA
+TBA
+Peter Downey
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29393
+015-IND
+Regular
+TBA
+TBA
+John Hartman
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29394
+017-IND
+Regular
+TBA
+TBA
+Richard Mercer
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29395
+023-IND
+Regular
+TBA
+TBA
+Richard Snodgrass
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29396
+025-IND
+Regular
+TBA
+TBA
+Gregory Andrews
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29397
+044-IND
+Regular
+TBA
+TBA
+Alon Efrat
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29398
+045-IND
+Regular
+TBA
+TBA
+John Kececioglu
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29399
+046-IND
+Regular
+TBA
+TBA
+Stephen Kobourov
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29400
+050-IND
+Regular
+TBA
+TBA
+Patrick Homer
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29404
+055-IND
+Regular
+TBA
+TBA
+Lester McCann
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29406
+057-IND
+Regular
+TBA
+TBA
+Christopher Gniady
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29407
+058-IND
+Regular
+TBA
+TBA
+Beichuan Zhang
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29408
+062-IND
+Regular
+TBA
+TBA
+David Lowenthal
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+51544
+065-IND
+Regular
+TBA
+TBA
+Thienne Johnson
+2017/08/21 - 2017/12/06
+Open
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+57266
+067-IND
+Regular
+TBA
+TBA
+Carlos Scheidegger
+2017/08/21 - 2017/12/06
+Open
+ 
+Collapse section CSC  493 - Internship CSC 493 - Internship 
+First Show previous row (inactive button) (Alt+,) 1-15 of 15 Show next row (inactive button) (Alt+.) Last 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29410
+010-IND
+Regular
+TBA
+TBA
+Christian Collberg
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29411
+011-IND
+Regular
+TBA
+TBA
+Saumya Debray
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29412
+012-IND
+Regular
+TBA
+TBA
+Peter Downey
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29413
+015-IND
+Regular
+TBA
+TBA
+John Hartman
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29414
+017-IND
+Regular
+TBA
+TBA
+Richard Mercer
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29415
+023-IND
+Regular
+TBA
+TBA
+Richard Snodgrass
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29416
+025-IND
+Regular
+TBA
+TBA
+Gregory Andrews
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29417
+044-IND
+Regular
+TBA
+TBA
+Alon Efrat
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29418
+045-IND
+Regular
+TBA
+TBA
+John Kececioglu
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29419
+046-IND
+Regular
+TBA
+TBA
+Stephen Kobourov
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29420
+050-IND
+Regular
+TBA
+TBA
+Patrick Homer
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29424
+055-IND
+Regular
+TBA
+TBA
+Lester McCann
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29426
+057-IND
+Regular
+TBA
+TBA
+Christopher Gniady
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29427
+058-IND
+Regular
+TBA
+TBA
+Beichuan Zhang
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+40172
+062-IND
+Regular
+TBA
+TBA
+David Lowenthal
+2017/08/21 - 2017/12/06
+Closed
+ 
+Collapse section CSC  498H - Honors Thesis CSC 498H - Honors Thesis 
+First Show previous row (inactive button) (Alt+,) 1-21 of 21 Show next row (inactive button) (Alt+.) Last 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29429
+010-IND
+Regular
+TBA
+TBA
+Christian Collberg
+2017/08/21 - 2017/12/06
+Closed
+ 
+
+Honors Course
+Writing Emphasis Course
+Class Attribute
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29430
+011-IND
+Regular
+TBA
+TBA
+Saumya Debray
+2017/08/21 - 2017/12/06
+Closed
+ 
+
+Honors Course
+Writing Emphasis Course
+Class Attribute
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29431
+012-IND
+Regular
+TBA
+TBA
+Peter Downey
+2017/08/21 - 2017/12/06
+Closed
+ 
+
+Honors Course
+Writing Emphasis Course
+Class Attribute
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29432
+015-IND
+Regular
+TBA
+TBA
+John Hartman
+2017/08/21 - 2017/12/06
+Closed
+ 
+
+Honors Course
+Writing Emphasis Course
+Class Attribute
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29433
+017-IND
+Regular
+TBA
+TBA
+Richard Mercer
+2017/08/21 - 2017/12/06
+Closed
+ 
+
+Honors Course
+Writing Emphasis Course
+Class Attribute
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29435
+023-IND
+Regular
+TBA
+TBA
+Richard Snodgrass
+2017/08/21 - 2017/12/06
+Closed
+ 
+
+Honors Course
+Writing Emphasis Course
+Class Attribute
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29436
+025-IND
+Regular
+TBA
+TBA
+Gregory Andrews
+2017/08/21 - 2017/12/06
+Closed
+ 
+
+Honors Course
+Writing Emphasis Course
+Class Attribute
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29437
+044-IND
+Regular
+TBA
+TBA
+Alon Efrat
+2017/08/21 - 2017/12/06
+Closed
+ 
+
+Honors Course
+Writing Emphasis Course
+Class Attribute
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29438
+045-IND
+Regular
+TBA
+TBA
+John Kececioglu
+2017/08/21 - 2017/12/06
+Closed
+ 
+
+Honors Course
+Writing Emphasis Course
+Class Attribute
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29439
+046-IND
+Regular
+TBA
+TBA
+Stephen Kobourov
+2017/08/21 - 2017/12/06
+Closed
+ 
+
+Honors Course
+Writing Emphasis Course
+Class Attribute
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29440
+050-IND
+Regular
+TBA
+TBA
+Patrick Homer
+2017/08/21 - 2017/12/06
+Closed
+ 
+
+Honors Course
+Writing Emphasis Course
+Class Attribute
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29443
+053-IND
+Regular
+TBA
+TBA
+Sandiway Fong
+2017/08/21 - 2017/12/06
+Closed
+ 
+
+Honors Course
+Writing Emphasis Course
+Class Attribute
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29444
+055-IND
+Regular
+TBA
+TBA
+Lester McCann
+2017/08/21 - 2017/12/06
+Closed
+ 
+
+Honors Course
+Writing Emphasis Course
+Class Attribute
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29445
+056-IND
+Regular
+TBA
+TBA
+Hong Hua
+2017/08/21 - 2017/12/06
+Closed
+ 
+
+Honors Course
+Writing Emphasis Course
+Class Attribute
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29446
+057-IND
+Regular
+TBA
+TBA
+Christopher Gniady
+2017/08/21 - 2017/12/06
+Closed
+ 
+
+Honors Course
+Writing Emphasis Course
+Class Attribute
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29447
+058-IND
+Regular
+TBA
+TBA
+Beichuan Zhang
+2017/08/21 - 2017/12/06
+Closed
+ 
+
+Honors Course
+Writing Emphasis Course
+Class Attribute
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+40174
+062-IND
+Regular
+TBA
+TBA
+David Lowenthal
+2017/08/21 - 2017/12/06
+Closed
+ 
+
+Honors Course
+Writing Emphasis Course
+Class Attribute
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+48129
+065-IND
+Regular
+TBA
+TBA
+Thienne Johnson
+2017/08/21 - 2017/12/06
+Open with Requirements
+ 
+
+Honors Course
+Writing Emphasis Course
+Class Attribute
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+57265
+067-IND
+Regular
+TBA
+TBA
+Carlos Scheidegger
+2017/08/21 - 2017/12/06
+Open with Requirements
+ 
+
+Honors Course
+Writing Emphasis Course
+Class Attribute
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+66566
+072-IND
+Regular
+TBA
+TBA
+Katherine Isaacs
+2017/08/21 - 2017/12/06
+Closed
+ 
+
+Honors Course
+Writing Emphasis Course
+Class Attribute
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+66603
+073-IND
+Regular
+TBA
+TBA
+Ravi Sethi
+2017/08/21 - 2017/12/06
+Open with Requirements
+ 
+
+Honors Course
+Writing Emphasis Course
+Class Attribute
+Collapse section CSC  499 - Independent Study CSC 499 - Independent Study 
+First Show previous row (inactive button) (Alt+,) 1-19 of 19 Show next row (inactive button) (Alt+.) Last 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29449
+010-IND
+Regular
+TBA
+TBA
+Christian Collberg
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29450
+011-IND
+Regular
+TBA
+TBA
+Saumya Debray
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29451
+012-IND
+Regular
+TBA
+TBA
+Peter Downey
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29452
+015-IND
+Regular
+TBA
+TBA
+John Hartman
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29453
+017-IND
+Regular
+TBA
+TBA
+Richard Mercer
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29454
+023-IND
+Regular
+TBA
+TBA
+Richard Snodgrass
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29455
+025-IND
+Regular
+TBA
+TBA
+Gregory Andrews
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29456
+044-IND
+Regular
+TBA
+TBA
+Alon Efrat
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29457
+045-IND
+Regular
+TBA
+TBA
+John Kececioglu
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29458
+046-IND
+Regular
+TBA
+TBA
+Stephen Kobourov
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29459
+050-IND
+Regular
+TBA
+TBA
+Patrick Homer
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29462
+053-IND
+Regular
+TBA
+TBA
+Sandiway Fong
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29463
+055-IND
+Regular
+TBA
+TBA
+Lester McCann
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29464
+056-IND
+Regular
+TBA
+TBA
+Hong Hua
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29465
+057-IND
+Regular
+TBA
+TBA
+Christopher Gniady
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29466
+058-IND
+Regular
+TBA
+TBA
+Beichuan Zhang
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+40175
+062-IND
+Regular
+TBA
+TBA
+David Lowenthal
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+62041
+067-IND
+Regular
+TBA
+TBA
+Carlos Scheidegger
+2017/08/21 - 2017/12/06
+Open
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+57423
+070-IND
+Regular
+TBA
+TBA
+Todd Proebsting
+2017/08/21 - 2017/12/06
+Open
+ 
+Collapse section CSC  499H - Honors Independent Study CSC 499H - Honors Independent Study 
+First Show previous row (inactive button) (Alt+,) 1-18 of 18 Show next row (inactive button) (Alt+.) Last 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29468
+010-IND
+Regular
+TBA
+TBA
+Christian Collberg
+2017/08/21 - 2017/12/06
+Closed
+ 
+
+Honors Course
+Class Attribute
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29469
+011-IND
+Regular
+TBA
+TBA
+Saumya Debray
+2017/08/21 - 2017/12/06
+Closed
+ 
+
+Honors Course
+Class Attribute
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29470
+012-IND
+Regular
+TBA
+TBA
+Peter Downey
+2017/08/21 - 2017/12/06
+Closed
+ 
+
+Honors Course
+Class Attribute
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29471
+015-IND
+Regular
+TBA
+TBA
+John Hartman
+2017/08/21 - 2017/12/06
+Closed
+ 
+
+Honors Course
+Class Attribute
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29472
+017-IND
+Regular
+TBA
+TBA
+Richard Mercer
+2017/08/21 - 2017/12/06
+Closed
+ 
+
+Honors Course
+Class Attribute
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29473
+023-IND
+Regular
+TBA
+TBA
+Richard Snodgrass
+2017/08/21 - 2017/12/06
+Closed
+ 
+
+Honors Course
+Class Attribute
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29474
+025-IND
+Regular
+TBA
+TBA
+Gregory Andrews
+2017/08/21 - 2017/12/06
+Closed
+ 
+
+Honors Course
+Class Attribute
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29475
+044-IND
+Regular
+TBA
+TBA
+Alon Efrat
+2017/08/21 - 2017/12/06
+Closed
+ 
+
+Honors Course
+Class Attribute
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29476
+045-IND
+Regular
+TBA
+TBA
+John Kececioglu
+2017/08/21 - 2017/12/06
+Closed
+ 
+
+Honors Course
+Class Attribute
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29477
+046-IND
+Regular
+TBA
+TBA
+Stephen Kobourov
+2017/08/21 - 2017/12/06
+Closed
+ 
+
+Honors Course
+Class Attribute
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29478
+050-IND
+Regular
+TBA
+TBA
+Patrick Homer
+2017/08/21 - 2017/12/06
+Closed
+ 
+
+Honors Course
+Class Attribute
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29481
+053-IND
+Regular
+TBA
+TBA
+Sandiway Fong
+2017/08/21 - 2017/12/06
+Closed
+ 
+
+Honors Course
+Class Attribute
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29482
+055-IND
+Regular
+TBA
+TBA
+Lester McCann
+2017/08/21 - 2017/12/06
+Closed
+ 
+
+Honors Course
+Class Attribute
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29483
+056-IND
+Regular
+TBA
+TBA
+Hong Hua
+2017/08/21 - 2017/12/06
+Closed
+ 
+
+Honors Course
+Class Attribute
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29484
+057-IND
+Regular
+TBA
+TBA
+Christopher Gniady
+2017/08/21 - 2017/12/06
+Closed
+ 
+
+Honors Course
+Class Attribute
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29485
+058-IND
+Regular
+TBA
+TBA
+Beichuan Zhang
+2017/08/21 - 2017/12/06
+Closed
+ 
+
+Honors Course
+Class Attribute
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+40176
+062-IND
+Regular
+TBA
+TBA
+David Lowenthal
+2017/08/21 - 2017/12/06
+Closed
+ 
+
+Honors Course
+Class Attribute
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+67779
+068-IND
+Regular
+TBA
+TBA
+Mihai Surdeanu
+2017/08/21 - 2017/12/06
+Open with Requirements
+ 
+
+Honors Course
+Class Attribute
+Collapse section CSC  501A - Symbolic Logic CSC 501A - Symbolic Logic 
+First Show previous row (inactive button) (Alt+,) 1 of 1 Show next row (inactive button) (Alt+.) Last 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+46348
+001-LEC
+Regular
+MoWeFr 9:00AM - 9:50AM
+Communication, Rm 113
+Jason Turner
+2017/08/21 - 2017/12/06
+Closed
+ 
+Notes: This is a combined section class
+
+Cross Listed
+Class Attribute
+Collapse section CSC  538 - Computational Linguistics CSC 538 - Computational Linguistics 
+First Show previous row (inactive button) (Alt+,) 1 of 1 Show next row (inactive button) (Alt+.) Last 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+43140
+001-LEC
+Regular
+TuTh 3:30PM - 4:45PM
+McClelland Park, Rm 102
+Sandiway Fong
+2017/08/21 - 2017/12/06
+Closed
+ 
+Notes: This is a combined section class
+
+Cross Listed
+Class Attribute
+Collapse section CSC  539 - Statistical Natural Language Processing CSC 539 - Statistical Natural Language Processing 
+First Show previous row (inactive button) (Alt+,) 1 of 1 Show next row (inactive button) (Alt+.) Last 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+50172
+001-LEC
+Regular
+TuTh 2:00PM - 3:15PM
+Communication, Rm 113
+Mihai Surdeanu
+2017/08/21 - 2017/12/06
+Closed
+ 
+Notes: This is a combined section class
+
+Cross Listed
+Class Attribute
+Collapse section CSC  541 - Information Systems Analysis and Design CSC 541 - Information Systems Analysis and Design 
+First Show previous row (inactive button) (Alt+,) 1 of 1 Show next row (inactive button) (Alt+.) Last 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+43194
+001-LEC
+Regular
+TuTh 2:00PM - 3:15PM
+R P Harvill Bldg, Rm 305
+Rich Yueh
+2017/08/21 - 2017/12/06
+Open
+ 
+Notes: This is a combined section class
+
+Cross Listed
+Class Attribute
+Collapse section CSC  544 - Advanced Data Visualization CSC 544 - Advanced Data Visualization 
+First Show previous row (inactive button) (Alt+,) 1 of 1 Show next row (inactive button) (Alt+.) Last 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+65930
+001-LEC
+Regular
+MoWe 3:30PM - 4:45PM
+Gould-Simpson, Rm 906
+Carlos Scheidegger
+2017/08/21 - 2017/12/06
+Open
+ 
+Collapse section CSC  545 - Design and Analysis of Algorithms CSC 545 - Design and Analysis of Algorithms 
+First Show previous row (inactive button) (Alt+,) 1 of 1 Show next row (inactive button) (Alt+.) Last 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+56217
+001-LEC
+Regular
+MoWe 9:30AM - 10:45AM
+Gould-Simpson, Rm 906
+Stephen Kobourov
+2017/08/21 - 2017/12/06
+Open with Requirements
+ 
+Per Unit Fee
+$0.00
+Flat Fee
+$35.00
+Collapse section CSC  552 - Advanced Operating Systems CSC 552 - Advanced Operating Systems 
+First Show previous row (inactive button) (Alt+,) 1 of 1 Show next row (inactive button) (Alt+.) Last 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29487
+001-LEC
+Regular
+MoWe 12:30PM - 1:45PM
+Gould-Simpson, Rm 906
+Christopher Gniady
+2017/08/21 - 2017/12/06
+Open with Requirements
+ 
+Per Unit Fee
+$0.00
+Flat Fee
+$35.00
+Collapse section CSC  560 - Database Systems Implementation CSC 560 - Database Systems Implementation 
+First Show previous row (inactive button) (Alt+,) 1 of 1 Show next row (inactive button) (Alt+.) Last 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+65928
+001-LEC
+Regular
+MoWe 11:00AM - 12:15PM
+Gould-Simpson, Rm 906
+Richard Snodgrass
+2017/08/21 - 2017/12/06
+Open
+ 
+Per Unit Fee
+$0.00
+Flat Fee
+$35.00
+Collapse section CSC  566 - Computer Security CSC 566 - Computer Security 
+First Show previous row (inactive button) (Alt+,) 1 of 1 Show next row (inactive button) (Alt+.) Last 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+53796
+001-LEC
+Regular
+MoWe 2:00PM - 3:15PM
+Gould-Simpson, Rm 906
+Christian Collberg
+2017/08/21 - 2017/12/06
+Closed
+ 
+Notes: This is a combined section class
+Per Unit Fee
+$0.00
+Flat Fee
+$35.00
+Collapse section CSC  574A - Computer-Aided Logic Design CSC 574A - Computer-Aided Logic Design 
+First Show previous row (inactive button) (Alt+,) 1 of 1 Show next row (inactive button) (Alt+.) Last 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+43021
+001-LEC
+Regular
+TuTh 11:00AM - 12:15PM
+Gittings Bldg, Rm 201
+Tosiron Adegbija
+2017/08/21 - 2017/12/06
+Closed
+ 
+Notes: This is a combined section class
+
+Cross Listed
+Class Attribute
+Collapse section CSC  575A - Numerical Analysis CSC 575A - Numerical Analysis 
+First Show previous row (inactive button) (Alt+,) 1 of 1 Show next row (inactive button) (Alt+.) Last 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+43133
+001-LEC
+Regular
+TuTh 11:00AM - 12:15PM
+Mathematics, Rm 501
+Moysey Brio
+2017/08/21 - 2017/12/06
+Open
+ 
+Notes: This is a combined section class
+
+Cross Listed
+Class Attribute
+Collapse section CSC  577 - Introduction to Computer Vision CSC 577 - Introduction to Computer Vision 
+First Show previous row (inactive button) (Alt+,) 1 of 1 Show next row (inactive button) (Alt+.) Last 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+59114
+001-LEC
+Regular
+MoWeFr 1:00PM - 1:50PM
+Gould-Simpson, Rm 701
+Jacobus Barnard
+2017/08/21 - 2017/12/06
+Open with Requirements
+ 
+Notes: This is a combined section class
+
+Cross Listed
+Per Unit Fee
+$0.00
+Class Attribute
+Flat Fee
+$35.00
+Collapse section CSC  591 - Preceptorship CSC 591 - Preceptorship 
+First Show previous row (inactive button) (Alt+,) 1-2 of 2 Show next row (inactive button) (Alt+.) Last 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29488
+001-IND
+Regular
+TBA
+TBA
+Staff
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29489
+028-IND
+Regular
+TBA
+TBA
+Denise Westbrook
+2017/08/21 - 2017/12/06
+Closed
+ 
+Collapse section CSC  593 - Internship CSC 593 - Internship 
+First Show previous row (inactive button) (Alt+,) 1 of 1 Show next row (inactive button) (Alt+.) Last 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29490
+001-IND
+Regular
+TBA
+TBA
+Staff
+2017/08/21 - 2017/12/06
+Closed
+ 
+Collapse section CSC  599 - Independent Study CSC 599 - Independent Study 
+First Show previous row (inactive button) (Alt+,) 1-6 of 6 Show next row (inactive button) (Alt+.) Last 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29507
+001-IND
+Regular
+TBA
+TBA
+Staff
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+48699
+065-IND
+Regular
+TBA
+TBA
+Thienne Johnson
+2017/08/21 - 2017/12/06
+Open
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+56468
+067-IND
+Regular
+TBA
+TBA
+Carlos Scheidegger
+2017/08/21 - 2017/12/06
+Open
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+56748
+068-IND
+Regular
+TBA
+TBA
+Mihai Surdeanu
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+57425
+070-IND
+Regular
+TBA
+TBA
+Todd Proebsting
+2017/08/21 - 2017/12/06
+Open
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+62314
+072-IND
+Regular
+TBA
+TBA
+Katherine Isaacs
+2017/08/21 - 2017/12/06
+Open
+ 
+Collapse section CSC  630 - Advanced Topics in Software Systems CSC 630 - Advanced Topics in Software Systems 
+First Show previous row (inactive button) (Alt+,) 1 of 1 Show next row (inactive button) (Alt+.) Last 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+56218
+001-LEC
+Regular
+MoWe 2:00PM - 3:15PM
+Gould-Simpson, Rm 737
+Joshua Levine
+2017/08/21 - 2017/12/06
+Open with Requirements
+ 
+Per Unit Fee
+$0.00
+Flat Fee
+$35.00
+Collapse section CSC  695A - Advanced Topics in Computing CSC 695A - Advanced Topics in Computing 
+First Show previous row (inactive button) (Alt+,) 1 of 1 Show next row (inactive button) (Alt+.) Last 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29525
+001-CLQ
+Regular
+TuTh 11:00AM - 12:15PM
+Gould-Simpson, Rm 906
+Richard Snodgrass
+2017/08/21 - 2017/12/06
+Closed
+ 
+Notes: This is a combined section class
+
+Regular or Alternative Grades: ABCDE or SPCDE
+Class Attribute
+Collapse section CSC  695B - Advanced Topic: Doctoral Minor Colloquium CSC 695B - Advanced Topic: Doctoral Minor Colloquium 
+First Show previous row (inactive button) (Alt+,) 1 of 1 Show next row (inactive button) (Alt+.) Last 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29526
+001-CLQ
+Regular
+TuTh 11:00AM - 12:15PM
+Gould-Simpson, Rm 906
+Richard Snodgrass
+2017/08/21 - 2017/12/06
+Closed
+ 
+Notes: This is a combined section class
+
+Regular or Alternative Grades: ABCDE or SPCDE
+Class Attribute
+Collapse section CSC  695C - Advanced Topic: Doctoral Colloquium CSC 695C - Advanced Topic: Doctoral Colloquium 
+First Show previous row (inactive button) (Alt+,) 1-6 of 6 Show next row (inactive button) (Alt+.) Last 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29527
+001-CLQ
+Regular
+TBA
+TBA
+Staff
+2017/08/21 - 2017/12/06
+Closed
+ 
+
+Regular or Alternative Grades: ABCDE or SPCDE
+Class Attribute
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+56315
+067-CLQ
+Regular
+TBA
+TBA
+Carlos Scheidegger
+2017/08/21 - 2017/12/06
+Open
+ 
+
+Regular or Alternative Grades: ABCDE or SPCDE
+Class Attribute
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+56314
+068-CLQ
+Regular
+TBA
+TBA
+Mihai Surdeanu
+2017/08/21 - 2017/12/06
+Open
+ 
+
+Regular or Alternative Grades: ABCDE or SPCDE
+Class Attribute
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+56968
+069-CLQ
+Regular
+TBA
+TBA
+Michelle Strout
+2017/08/21 - 2017/12/06
+Open
+ 
+
+Regular or Alternative Grades: ABCDE or SPCDE
+Class Attribute
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+61927
+071-CLQ
+Regular
+TBA
+TBA
+Joshua Levine
+2017/08/21 - 2017/12/06
+Closed
+ 
+
+Regular or Alternative Grades: ABCDE or SPCDE
+Class Attribute
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+62039
+072-CLQ
+Regular
+TBA
+TBA
+Katherine Isaacs
+2017/08/21 - 2017/12/06
+Open
+ 
+
+Regular or Alternative Grades: ABCDE or SPCDE
+Class Attribute
+Collapse section CSC  696G - Topics in Computational Linguistics CSC 696G - Topics in Computational Linguistics 
+First Show previous row (inactive button) (Alt+,) 1 of 1 Show next row (inactive button) (Alt+.) Last 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+65218
+001-SEM
+Regular
+We 9:30AM - 11:30AM
+Douglass, Rm 216
+Sandiway Fong
+2017/08/21 - 2017/12/06
+Open
+ 
+Notes: This is a combined section class
+
+Cross Listed
+Regular or Alternative Grades: ABCDE or SPCDE
+Class Attribute
+Collapse section CSC  699 - Independent Study CSC 699 - Independent Study 
+First Show previous row (inactive button) (Alt+,) 1-4 of 4 Show next row (inactive button) (Alt+.) Last 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29545
+001-IND
+Regular
+TBA
+TBA
+Staff
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+54589
+065-IND
+Regular
+TBA
+TBA
+Thienne Johnson
+2017/08/21 - 2017/12/06
+Open
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+61875
+068-IND
+Regular
+TBA
+TBA
+Mihai Surdeanu
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+56967
+069-IND
+Regular
+TBA
+TBA
+Michelle Strout
+2017/08/21 - 2017/12/06
+Open
+ 
+Collapse section CSC  900 - Research CSC 900 - Research 
+First Show previous row (inactive button) (Alt+,) 1-3 of 3 Show next row (inactive button) (Alt+.) Last 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29562
+001-IND
+Regular
+TBA
+TBA
+Staff
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+66570
+067-IND
+Regular
+TBA
+TBA
+Carlos Scheidegger
+2017/08/21 - 2017/12/06
+Open
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+61928
+071-IND
+Regular
+TBA
+TBA
+Staff
+TBA
+Closed
+ 
+Collapse section CSC  910 - Thesis CSC 910 - Thesis 
+First Show previous row (inactive button) (Alt+,) 1-27 of 27 Show next row (inactive button) (Alt+.) Last 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29579
+001-IND
+Regular
+TBA
+TBA
+Staff
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29580
+010-IND
+Regular
+TBA
+TBA
+Christian Collberg
+2017/08/21 - 2017/12/06
+Open
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29581
+011-IND
+Regular
+TBA
+TBA
+Saumya Debray
+2017/08/21 - 2017/12/06
+Open
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29582
+012-IND
+Regular
+TBA
+TBA
+Peter Downey
+2017/08/21 - 2017/12/06
+Open
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29583
+015-IND
+Regular
+TBA
+TBA
+John Hartman
+2017/08/21 - 2017/12/06
+Open
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29584
+018-IND
+Regular
+TBA
+TBA
+Bongki Moon
+2017/08/21 - 2017/12/06
+Open
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29585
+023-IND
+Regular
+TBA
+TBA
+Richard Snodgrass
+2017/08/21 - 2017/12/06
+Open
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29586
+025-IND
+Regular
+TBA
+TBA
+Gregory Andrews
+2017/08/21 - 2017/12/06
+Open
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+40195
+028-IND
+Regular
+TBA
+TBA
+Denise Westbrook
+2017/08/21 - 2017/12/06
+Open
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29587
+044-IND
+Regular
+TBA
+TBA
+Alon Efrat
+2017/08/21 - 2017/12/06
+Open
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29588
+045-IND
+Regular
+TBA
+TBA
+John Kececioglu
+2017/08/21 - 2017/12/06
+Open
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29589
+046-IND
+Regular
+TBA
+TBA
+Stephen Kobourov
+2017/08/21 - 2017/12/06
+Open
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29590
+051-IND
+Regular
+TBA
+TBA
+Carol Soderlund
+2017/08/21 - 2017/12/06
+Open
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29591
+052-IND
+Regular
+TBA
+TBA
+Jacobus Barnard
+2017/08/21 - 2017/12/06
+Open
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29592
+053-IND
+Regular
+TBA
+TBA
+Sandiway Fong
+2017/08/21 - 2017/12/06
+Open
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29593
+056-IND
+Regular
+TBA
+TBA
+Hong Hua
+2017/08/21 - 2017/12/06
+Open
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29594
+057-IND
+Regular
+TBA
+TBA
+Christopher Gniady
+2017/08/21 - 2017/12/06
+Open
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29595
+058-IND
+Regular
+TBA
+TBA
+Beichuan Zhang
+2017/08/21 - 2017/12/06
+Open
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+42355
+059-IND
+Regular
+TBA
+TBA
+Amar Gupta
+2017/08/21 - 2017/12/06
+Open
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+40196
+060-IND
+Regular
+TBA
+TBA
+Paul Cohen
+2017/08/21 - 2017/12/06
+Open
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+40197
+061-IND
+Regular
+TBA
+TBA
+Clayton Morrison
+2017/08/21 - 2017/12/06
+Open
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+40198
+062-IND
+Regular
+TBA
+TBA
+David Lowenthal
+2017/08/21 - 2017/12/06
+Open
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+42356
+063-IND
+Regular
+TBA
+TBA
+Carole Beal
+2017/08/21 - 2017/12/06
+Open
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+40830
+064-IND
+Regular
+TBA
+TBA
+Ian Fasel
+2017/08/21 - 2017/12/06
+Open
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+60144
+068-IND
+Regular
+TBA
+TBA
+Mihai Surdeanu
+2017/08/21 - 2017/12/06
+Open
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+61913
+069-IND
+Regular
+TBA
+TBA
+Michelle Strout
+2017/08/21 - 2017/12/06
+Open
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+61362
+071-IND
+Regular
+TBA
+TBA
+Katherine Isaacs
+2017/08/21 - 2017/12/06
+Open
+ 
+Collapse section CSC  920 - Dissertation CSC 920 - Dissertation 
+First Show previous row (inactive button) (Alt+,) 1-25 of 25 Show next row (inactive button) (Alt+.) Last 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29596
+001-IND
+Regular
+TBA
+TBA
+Staff
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29597
+010-IND
+Regular
+TBA
+TBA
+Christian Collberg
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29598
+011-IND
+Regular
+TBA
+TBA
+Saumya Debray
+2017/08/21 - 2017/12/06
+Open
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29599
+012-IND
+Regular
+TBA
+TBA
+Peter Downey
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29600
+015-IND
+Regular
+TBA
+TBA
+John Hartman
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29601
+018-IND
+Regular
+TBA
+TBA
+Bongki Moon
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29602
+023-IND
+Regular
+TBA
+TBA
+Richard Snodgrass
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29603
+025-IND
+Regular
+TBA
+TBA
+Gregory Andrews
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+40199
+028-IND
+Regular
+TBA
+TBA
+Denise Westbrook
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29604
+044-IND
+Regular
+TBA
+TBA
+Alon Efrat
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29605
+045-IND
+Regular
+TBA
+TBA
+John Kececioglu
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29606
+046-IND
+Regular
+TBA
+TBA
+Stephen Kobourov
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29607
+051-IND
+Regular
+TBA
+TBA
+Carol Soderlund
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29608
+052-IND
+Regular
+TBA
+TBA
+Jacobus Barnard
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29609
+053-IND
+Regular
+TBA
+TBA
+Sandiway Fong
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29610
+056-IND
+Regular
+TBA
+TBA
+Hong Hua
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29611
+057-IND
+Regular
+TBA
+TBA
+Christopher Gniady
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29612
+058-IND
+Regular
+TBA
+TBA
+Beichuan Zhang
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+42393
+059-IND
+Regular
+TBA
+TBA
+Amar Gupta
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+29613
+060-IND
+Regular
+TBA
+TBA
+Paul Cohen
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+40200
+061-IND
+Regular
+TBA
+TBA
+Clayton Morrison
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+40201
+062-IND
+Regular
+TBA
+TBA
+David Lowenthal
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+42394
+063-IND
+Regular
+TBA
+TBA
+Carole Beal
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+40831
+064-IND
+Regular
+TBA
+TBA
+Ian Fasel
+2017/08/21 - 2017/12/06
+Closed
+ 
+Class Section Days & Times  Room  Instructor  Meeting Dates Status   
+57267
+068-IND
+Regular
+TBA
+TBA
+Mihai Surdeanu
+2017/08/21 - 2017/12/06
+Closed
+ 
+New Search
+Modify Search
