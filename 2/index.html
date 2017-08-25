@@ -6,34 +6,13 @@
 
 <title>my schedule</title>
 <style>
-.rowline {
-	shape-rendering: crispEdges;
-	stroke-width:1;
-	stroke: #aaa;
-	stroke-dasharray:4 1;
-}
-
-.columnline {
-	shape-rendering: crispEdges;
-	stroke-width:1;
-	stroke: #999;
-
-}
-
-.axis line {
-	fill: none;
-	shape-rendering: crispEdges;
-}
-
-.notselected{
-	opacity: 0.1;
-}
 </style>
+<link rel="stylesheet" href="style.css">
 </head>
 
 <body>
-
-<svg id='big' width=1200 height=800></svg>
+<div id='tooltip' class='hidden'></div>
+<svg id='big' width=1100 height=700></svg>
 <button id='bNext' onclick='generateTimeTable()'>Next</button>
 
 <script>
@@ -86,8 +65,10 @@ function generateTimeTable(){
 	svg.selectAll('.cell').remove();
 	svg.cellWidth = {};
 	svg.draw('final');
-	//svg.listenToInteraction();
-	d3.select('#bNext').remove();
+	svg.listenToInteraction();
+	//d3.select('#bNext').remove();
+	d3.select('div#tooltip').remove();
+
 }
 
 
@@ -166,15 +147,13 @@ function init(){
 			svg.computeAllCellWidth();
 		}
 		return svg.cellWidth[d.classNumber + ',' + d.day];
-			
+	};
 
-			
-
-	}
 	svg.classes = [];
 	svg.getCells = function(){
 		return expand(svg.classes);
 	}
+
 	svg.addClass = function(c){
 		svg.classes.push(c);
 	};
@@ -277,6 +256,31 @@ function init(){
 			})
 			.classed('notselected', !d3.select(this).classed('notselected'));
 		});
+
+		svg.selectAll('.cell')
+		.on('mouseover', function(d){
+			var tooltipInfo = [d.code, d.title, d.location, d.instructor];
+			//append if new
+			d3.select('div#tooltip')
+			.classed('hidden', false)
+			.style("left", "1100px")
+			.style("top", "100px")
+			.selectAll('p')
+			.data(tooltipInfo)
+			.enter()
+			.append('p');
+
+			d3.select('div#tooltip')
+			.selectAll('p')
+			.data(tooltipInfo)
+			.text(function(d){return d;});
+		});
+
+			svg.selectAll('.cell')
+			.on('mouseout', function(d){
+				d3.select('div#tooltip')
+					.classed('hidden', true);
+			});
 	};
 
 	return svg;
