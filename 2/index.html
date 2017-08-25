@@ -32,8 +32,9 @@
 </head>
 
 <body>
-<!--button onclick='hideShow()'>Click</button-->
+
 <svg id='big' width=1200 height=750></svg>
+<button id='bNext' onclick='generateTimeTable()'>Next</button>
 
 <script>
 'use strict';
@@ -66,6 +67,30 @@ function expand(classes){
 	}
 	return res;
 }
+
+
+function generateTimeTable(){
+	var cells = svg.selectAll('.cell').filter(function(d){
+		return !d3.select(this).classed('notselected');
+	}).data();
+
+	svg.classes = data.filter(function(d){
+		for(var i=0; i<cells.length; i++){
+			if(cells[i].classNumber == d.classNumber){
+				return true;
+			}
+		}
+		return false;
+	});
+
+	svg.selectAll('.cell').remove();
+	svg.cellWidth = {};
+	svg.draw('final');
+	svg.listenToInteraction();
+	d3.select('#bNext').remove();
+}
+
+
 
 
 function maxNonOverlappingCells(l){
@@ -154,25 +179,25 @@ function init(){
 		svg.classes.push(c);
 	};
 
-	svg.drawClass = function(classData, color){
+	svg.drawClass = function(classData, color, mode){
 		var data = {};
 		for(var i=0; i<classData.day.length; i++){
 			Object.assign(data, classData);
 			data.day = classData.day[i];
-			this.drawCell(data, color);
+			this.drawCell(data, color, mode);
 		}
 	};
 
-	svg.draw = function(){
-		var self = this;		
+	svg.draw = function(mode){
+		var self = this;
 		for(var i=0; i<self.classes.length; i++){
-			self.drawClass(self.classes[i], self.sc(i));
+			self.drawClass(self.classes[i], self.sc(i), mode);
 		}
 	}
 
 
 
-	svg.drawCell = function(cellData, color){
+	svg.drawCell = function(cellData, color, mode){
 		var self = this;
 		var sx = self.sx;
 		var sy = self.sy;
@@ -182,11 +207,13 @@ function init(){
 		var g = self.append('g')
 		.datum(cellData)
 		.attr('class', 'cell')
-		.classed('notselected', true)
 		.attr('transform', function(d){
 			return 'translate(' + sx(d.day)+','+sy(d.start.toSec().toDate())+')';
 		});
 
+		if (mode != 'final'){
+			g.classed('notselected', true);
+		}
 		g.append('rect')
 		.attr('width',function(d){
 			return sw(d)[0];
@@ -207,34 +234,36 @@ function init(){
 					+ cellData.title + '\n'
 					+ cellData.location + '\n'
 					+ cellData.instructor + '\n');
-		/*
-		var tag = g.append('text')
-		.attr('alignment-baseline', 'central')
-		.attr('text-anchor', 'middle')
-		.attr('y', 0);
-
 		
-		var tagData = [cellData.code,
-		cellData.title,
-		cellData.location, 
-		cellData.instructor];
-		tag.selectAll('tspan')
-		.data(tagData).enter()
-		.append('tspan')
-		.text(function(d){return d})
-		.attr('fill', 'black')
-		.attr('x', function(d){
-				var rect = d3.select(this.parentNode.previousSibling);
-				var w = sw(cellData)[0];
-				return sw(cellData)[1] * w + w/2;  
-			})
-			.attr('dy', function(d,i){return '1em'})
-			.attr('font-style', function(d, i){
-				return 'normal';
-			})
-			.attr('font-size', function(d, i){
-				return 12;
-			})*/
+		if(mode == 'final'){
+			var tag = g.append('text')
+			.attr('alignment-baseline', 'central')
+			.attr('text-anchor', 'middle')
+			.attr('y', 0);
+
+			
+			var tagData = [cellData.code,
+			cellData.title,
+			cellData.location, 
+			cellData.instructor];
+			tag.selectAll('tspan')
+			.data(tagData).enter()
+			.append('tspan')
+			.text(function(d){return d})
+			.attr('fill', 'black')
+			.attr('x', function(d){
+					var rect = d3.select(this.parentNode.previousSibling);
+					var w = sw(cellData)[0];
+					return sw(cellData)[1] * w + w/2;  
+				})
+				.attr('dy', function(d,i){return '1em'})
+				.attr('font-style', function(d, i){
+					return 'normal';
+				})
+				.attr('font-size', function(d, i){
+					return 12;
+				})
+			}
 
 		return g;
 	};
@@ -242,14 +271,11 @@ function init(){
 	svg.listenToInteraction = function(){
 		svg.selectAll('.cell').on('click', function(d){
 			var classNumber = d3.select(this).datum().classNumber;
-			console.log(classNumber);
 			d3.selectAll('.cell')
 			.filter(function(d){
 				return d.classNumber == classNumber;
 			})
-			.classed('notselected', ! d3.select(this).classed('notselected'));
-
-			//
+			.classed('notselected', !d3.select(this).classed('notselected'));
 		});
 	};
 
@@ -296,7 +322,6 @@ function main(){
 	var svg = init();
 	initPlot(svg);
 	
-
 	for(var i=0; i<data.length; i++){
 		if(data[i].start != 'TBA' && parseInt(data[i].code.split(' ')[1].slice(0, 3)) >= 200 )
 			svg.addClass(data[i]);
@@ -307,7 +332,6 @@ function main(){
 	return svg;
 }
 
-//returned svg for debug
 var svg = main();
 
 </script>
