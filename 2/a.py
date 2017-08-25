@@ -18,7 +18,7 @@ def day2num(day):
 def parse(lines):
     time = lines[4].strip()
     section = lines[2].strip()
-    code = int(lines[1].strip())
+    classNumber = int(lines[1].strip())
     location = lines[5].strip()
     instructor = lines[6].strip()
     status = lines[8].strip()
@@ -44,7 +44,7 @@ def parse(lines):
             'day': days, 
             'location': location,
             'section': section,
-            'sectionCode': code,
+            'classNumber': classNumber,
             'instructor': instructor,
             'status': status }
     return res

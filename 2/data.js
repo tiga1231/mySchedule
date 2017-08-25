@@ -7,7 +7,7 @@ var data =
     "end": "8:50", 
     "location": "Henry Koffler Bldg, Rm 204", 
     "title": "Introduction to Computer Science", 
-    "sectionCode": 66224, 
+    "classNumber": 66224, 
     "section": "001-LEC", 
     "instructor": "Benjamin Dicken", 
     "day": [
@@ -23,7 +23,7 @@ var data =
     "end": "10:50", 
     "location": "Gould-Simpson, Rm 930", 
     "title": "Introduction to Computer Science", 
-    "sectionCode": 66242, 
+    "classNumber": 66242, 
     "section": "001A-DIS", 
     "instructor": "Benjamin Dicken", 
     "day": [
@@ -37,7 +37,7 @@ var data =
     "end": "11:50", 
     "location": "Gould-Simpson, Rm 930", 
     "title": "Introduction to Computer Science", 
-    "sectionCode": 66243, 
+    "classNumber": 66243, 
     "section": "001B-DIS", 
     "instructor": "Benjamin Dicken", 
     "day": [
@@ -51,7 +51,7 @@ var data =
     "end": "12:50", 
     "location": "Gould-Simpson, Rm 930", 
     "title": "Introduction to Computer Science", 
-    "sectionCode": 66244, 
+    "classNumber": 66244, 
     "section": "001C-DIS", 
     "instructor": "Benjamin Dicken", 
     "day": [
@@ -65,7 +65,7 @@ var data =
     "end": "13:50", 
     "location": "Gould-Simpson, Rm 930", 
     "title": "Introduction to Computer Science", 
-    "sectionCode": 66245, 
+    "classNumber": 66245, 
     "section": "001D-DIS", 
     "instructor": "Benjamin Dicken", 
     "day": [
@@ -79,7 +79,7 @@ var data =
     "end": "14:50", 
     "location": "Gould-Simpson, Rm 930", 
     "title": "Introduction to Computer Science", 
-    "sectionCode": 66246, 
+    "classNumber": 66246, 
     "section": "001E-DIS", 
     "instructor": "Benjamin Dicken", 
     "day": [
@@ -93,7 +93,7 @@ var data =
     "end": "15:50", 
     "location": "Gould-Simpson, Rm 930", 
     "title": "Introduction to Computer Science", 
-    "sectionCode": 66247, 
+    "classNumber": 66247, 
     "section": "001F-DIS", 
     "instructor": "Benjamin Dicken", 
     "day": [
@@ -107,7 +107,7 @@ var data =
     "end": "16:50", 
     "location": "Gould-Simpson, Rm 930", 
     "title": "Introduction to Computer Science", 
-    "sectionCode": 66248, 
+    "classNumber": 66248, 
     "section": "001G-DIS", 
     "instructor": "Benjamin Dicken", 
     "day": [
@@ -121,7 +121,7 @@ var data =
     "end": "8:50", 
     "location": "Phys-Atmos Sci, Rm 201", 
     "title": "Introduction to Computer Programming I", 
-    "sectionCode": 66226, 
+    "classNumber": 66226, 
     "section": "001-LEC", 
     "instructor": "Allison Obourn", 
     "day": [
@@ -137,7 +137,7 @@ var data =
     "end": "8:50", 
     "location": "Gould-Simpson, Rm 930", 
     "title": "Introduction to Computer Programming I", 
-    "sectionCode": 66252, 
+    "classNumber": 66252, 
     "section": "001A-DIS", 
     "instructor": "Allison Obourn", 
     "day": [
@@ -151,7 +151,7 @@ var data =
     "end": "9:50", 
     "location": "Gould-Simpson, Rm 930", 
     "title": "Introduction to Computer Programming I", 
-    "sectionCode": 66253, 
+    "classNumber": 66253, 
     "section": "001B-DIS", 
     "instructor": "Allison Obourn", 
     "day": [
@@ -165,7 +165,7 @@ var data =
     "end": "10:50", 
     "location": "Gould-Simpson, Rm 930", 
     "title": "Introduction to Computer Programming I", 
-    "sectionCode": 66254, 
+    "classNumber": 66254, 
     "section": "001C-DIS", 
     "instructor": "Allison Obourn", 
     "day": [
@@ -179,7 +179,7 @@ var data =
     "end": "11:50", 
     "location": "Gould-Simpson, Rm 930", 
     "title": "Introduction to Computer Programming I", 
-    "sectionCode": 66255, 
+    "classNumber": 66255, 
     "section": "001D-DIS", 
     "instructor": "Allison Obourn", 
     "day": [
@@ -193,7 +193,7 @@ var data =
     "end": "12:50", 
     "location": "Gould-Simpson, Rm 930", 
     "title": "Introduction to Computer Programming I", 
-    "sectionCode": 66256, 
+    "classNumber": 66256, 
     "section": "001E-DIS", 
     "instructor": "Allison Obourn", 
     "day": [
@@ -207,7 +207,7 @@ var data =
     "end": "13:50", 
     "location": "Gould-Simpson, Rm 930", 
     "title": "Introduction to Computer Programming I", 
-    "sectionCode": 66257, 
+    "classNumber": 66257, 
     "section": "001F-DIS", 
     "instructor": "Allison Obourn", 
     "day": [
@@ -221,7 +221,7 @@ var data =
     "end": "14:50", 
     "location": "Gould-Simpson, Rm 930", 
     "title": "Introduction to Computer Programming I", 
-    "sectionCode": 66258, 
+    "classNumber": 66258, 
     "section": "001G-DIS", 
     "instructor": "Allison Obourn", 
     "day": [
@@ -235,7 +235,7 @@ var data =
     "end": "15:50", 
     "location": "Gould-Simpson, Rm 930", 
     "title": "Introduction to Computer Programming I", 
-    "sectionCode": 66259, 
+    "classNumber": 66259, 
     "section": "001H-DIS", 
     "instructor": "Allison Obourn", 
     "day": [
@@ -249,7 +249,7 @@ var data =
     "end": "16:50", 
     "location": "Gould-Simpson, Rm 930", 
     "title": "Introduction to Computer Programming I", 
-    "sectionCode": 66260, 
+    "classNumber": 66260, 
     "section": "001I-DIS", 
     "instructor": "Allison Obourn", 
     "day": [
@@ -263,7 +263,7 @@ var data =
     "end": "17:50", 
     "location": "Gould-Simpson, Rm 930", 
     "title": "Introduction to Computer Programming I", 
-    "sectionCode": 66261, 
+    "classNumber": 66261, 
     "section": "001J-DIS", 
     "instructor": "Allison Obourn", 
     "day": [
@@ -277,7 +277,7 @@ var data =
     "end": "18:50", 
     "location": "Gould-Simpson, Rm 930", 
     "title": "Introduction to Computer Programming I", 
-    "sectionCode": 66262, 
+    "classNumber": 66262, 
     "section": "001K-DIS", 
     "instructor": "Allison Obourn", 
     "day": [
@@ -291,7 +291,7 @@ var data =
     "end": "19:50", 
     "location": "Gould-Simpson, Rm 930", 
     "title": "Introduction to Computer Programming I", 
-    "sectionCode": 66263, 
+    "classNumber": 66263, 
     "section": "001L-DIS", 
     "instructor": "Allison Obourn", 
     "day": [
@@ -305,7 +305,7 @@ var data =
     "end": "12:50", 
     "location": "Gould-Simpson, Rm 942", 
     "title": "Introduction to Computer Programming I", 
-    "sectionCode": 67624, 
+    "classNumber": 67624, 
     "section": "001M-DIS", 
     "instructor": "Staff", 
     "day": [
@@ -319,7 +319,7 @@ var data =
     "end": "13:50", 
     "location": "Gould-Simpson, Rm 942", 
     "title": "Introduction to Computer Programming I", 
-    "sectionCode": 67625, 
+    "classNumber": 67625, 
     "section": "001N-DIS", 
     "instructor": "Staff", 
     "day": [
@@ -333,7 +333,7 @@ var data =
     "end": "8:50", 
     "location": "M Pacheco ILC, Rm 120", 
     "title": "Introduction to Computer Programming II", 
-    "sectionCode": 66225, 
+    "classNumber": 66225, 
     "section": "001-LEC", 
     "instructor": "Janalee Obagy", 
     "day": [
@@ -349,7 +349,7 @@ var data =
     "end": "8:50", 
     "location": "Gould-Simpson, Rm 930", 
     "title": "Introduction to Computer Programming II", 
-    "sectionCode": 66233, 
+    "classNumber": 66233, 
     "section": "001A-LAB", 
     "instructor": "Janalee Obagy", 
     "day": [
@@ -363,7 +363,7 @@ var data =
     "end": "9:50", 
     "location": "Gould-Simpson, Rm 930", 
     "title": "Introduction to Computer Programming II", 
-    "sectionCode": 66234, 
+    "classNumber": 66234, 
     "section": "001B-LAB", 
     "instructor": "Janalee Obagy", 
     "day": [
@@ -377,7 +377,7 @@ var data =
     "end": "10:50", 
     "location": "Gould-Simpson, Rm 930", 
     "title": "Introduction to Computer Programming II", 
-    "sectionCode": 66235, 
+    "classNumber": 66235, 
     "section": "001C-LAB", 
     "instructor": "Janalee Obagy", 
     "day": [
@@ -391,7 +391,7 @@ var data =
     "end": "11:50", 
     "location": "Gould-Simpson, Rm 930", 
     "title": "Introduction to Computer Programming II", 
-    "sectionCode": 66236, 
+    "classNumber": 66236, 
     "section": "001D-LAB", 
     "instructor": "Janalee Obagy", 
     "day": [
@@ -405,7 +405,7 @@ var data =
     "end": "12:50", 
     "location": "Gould-Simpson, Rm 930", 
     "title": "Introduction to Computer Programming II", 
-    "sectionCode": 66237, 
+    "classNumber": 66237, 
     "section": "001E-LAB", 
     "instructor": "Janalee Obagy", 
     "day": [
@@ -419,7 +419,7 @@ var data =
     "end": "13:50", 
     "location": "Gould-Simpson, Rm 930", 
     "title": "Introduction to Computer Programming II", 
-    "sectionCode": 66238, 
+    "classNumber": 66238, 
     "section": "001F-LAB", 
     "instructor": "Janalee Obagy", 
     "day": [
@@ -433,7 +433,7 @@ var data =
     "end": "14:50", 
     "location": "Gould-Simpson, Rm 930", 
     "title": "Introduction to Computer Programming II", 
-    "sectionCode": 66239, 
+    "classNumber": 66239, 
     "section": "001G-LAB", 
     "instructor": "Janalee Obagy", 
     "day": [
@@ -447,7 +447,7 @@ var data =
     "end": "15:50", 
     "location": "Aero & Mech Engr, Rm S202", 
     "title": "Software Development", 
-    "sectionCode": 66104, 
+    "classNumber": 66104, 
     "section": "001-LEC", 
     "instructor": "Eric Anson", 
     "day": [
@@ -463,7 +463,7 @@ var data =
     "end": "9:15", 
     "location": "Gould-Simpson, Rm 930", 
     "title": "Software Development", 
-    "sectionCode": 66159, 
+    "classNumber": 66159, 
     "section": "001A-LAB", 
     "instructor": "Eric Anson", 
     "day": [
@@ -477,7 +477,7 @@ var data =
     "end": "10:45", 
     "location": "Gould-Simpson, Rm 930", 
     "title": "Software Development", 
-    "sectionCode": 66160, 
+    "classNumber": 66160, 
     "section": "001B-LAB", 
     "instructor": "Eric Anson", 
     "day": [
@@ -491,7 +491,7 @@ var data =
     "end": "12:15", 
     "location": "Gould-Simpson, Rm 930", 
     "title": "Software Development", 
-    "sectionCode": 66161, 
+    "classNumber": 66161, 
     "section": "001C-LAB", 
     "instructor": "Eric Anson", 
     "day": [
@@ -505,7 +505,7 @@ var data =
     "end": "13:45", 
     "location": "Gould-Simpson, Rm 930", 
     "title": "Software Development", 
-    "sectionCode": 66162, 
+    "classNumber": 66162, 
     "section": "001D-LAB", 
     "instructor": "Eric Anson", 
     "day": [
@@ -519,7 +519,7 @@ var data =
     "end": "17:15", 
     "location": "Gould-Simpson, Rm 930", 
     "title": "Software Development", 
-    "sectionCode": 66163, 
+    "classNumber": 66163, 
     "section": "001E-LAB", 
     "instructor": "Eric Anson", 
     "day": [
@@ -533,7 +533,7 @@ var data =
     "end": "18:45", 
     "location": "Gould-Simpson, Rm 930", 
     "title": "Software Development", 
-    "sectionCode": 66164, 
+    "classNumber": 66164, 
     "section": "001F-LAB", 
     "instructor": "Eric Anson", 
     "day": [
@@ -547,7 +547,7 @@ var data =
     "end": "20:15", 
     "location": "Gould-Simpson, Rm 930", 
     "title": "Software Development", 
-    "sectionCode": 66165, 
+    "classNumber": 66165, 
     "section": "001G-LAB", 
     "instructor": "Eric Anson", 
     "day": [
@@ -561,7 +561,7 @@ var data =
     "end": "14:50", 
     "location": "Ctr for ESL, Rm 103", 
     "title": "Introduction to Discrete Structures", 
-    "sectionCode": 29319, 
+    "classNumber": 29319, 
     "section": "001-LEC", 
     "instructor": "Lester McCann", 
     "day": [
@@ -577,7 +577,7 @@ var data =
     "end": "8:50", 
     "location": "Gould-Simpson, Rm 930", 
     "title": "Introduction to Discrete Structures", 
-    "sectionCode": 59225, 
+    "classNumber": 59225, 
     "section": "001A-DIS", 
     "instructor": "Lester McCann", 
     "day": [
@@ -591,7 +591,7 @@ var data =
     "end": "9:50", 
     "location": "Gould-Simpson, Rm 930", 
     "title": "Introduction to Discrete Structures", 
-    "sectionCode": 59226, 
+    "classNumber": 59226, 
     "section": "001B-DIS", 
     "instructor": "Lester McCann", 
     "day": [
@@ -605,7 +605,7 @@ var data =
     "end": "10:50", 
     "location": "Gould-Simpson, Rm 930", 
     "title": "Introduction to Discrete Structures", 
-    "sectionCode": 59227, 
+    "classNumber": 59227, 
     "section": "001C-DIS", 
     "instructor": "Lester McCann", 
     "day": [
@@ -619,7 +619,7 @@ var data =
     "end": "11:50", 
     "location": "Gould-Simpson, Rm 930", 
     "title": "Introduction to Discrete Structures", 
-    "sectionCode": 59228, 
+    "classNumber": 59228, 
     "section": "001D-DIS", 
     "instructor": "Lester McCann", 
     "day": [
@@ -633,7 +633,7 @@ var data =
     "end": "12:50", 
     "location": "Gould-Simpson, Rm 930", 
     "title": "Introduction to Discrete Structures", 
-    "sectionCode": 66105, 
+    "classNumber": 66105, 
     "section": "001E-DIS", 
     "instructor": "Lester McCann", 
     "day": [
@@ -647,7 +647,7 @@ var data =
     "end": "14:50", 
     "location": "M Pacheco ILC, Rm 141", 
     "title": "Computer Organization", 
-    "sectionCode": 29320, 
+    "classNumber": 29320, 
     "section": "001-LEC", 
     "instructor": "Russell Lewis", 
     "day": [
@@ -663,7 +663,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Internship", 
-    "sectionCode": 29322, 
+    "classNumber": 29322, 
     "section": "010-IND", 
     "instructor": "Christian Collberg", 
     "day": [
@@ -677,7 +677,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Internship", 
-    "sectionCode": 29323, 
+    "classNumber": 29323, 
     "section": "011-IND", 
     "instructor": "Saumya Debray", 
     "day": [
@@ -691,7 +691,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Internship", 
-    "sectionCode": 29324, 
+    "classNumber": 29324, 
     "section": "012-IND", 
     "instructor": "Peter Downey", 
     "day": [
@@ -705,7 +705,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Internship", 
-    "sectionCode": 29325, 
+    "classNumber": 29325, 
     "section": "015-IND", 
     "instructor": "John Hartman", 
     "day": [
@@ -719,7 +719,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Internship", 
-    "sectionCode": 29326, 
+    "classNumber": 29326, 
     "section": "017-IND", 
     "instructor": "Richard Mercer", 
     "day": [
@@ -733,7 +733,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Internship", 
-    "sectionCode": 29327, 
+    "classNumber": 29327, 
     "section": "023-IND", 
     "instructor": "Richard Snodgrass", 
     "day": [
@@ -747,7 +747,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Internship", 
-    "sectionCode": 29328, 
+    "classNumber": 29328, 
     "section": "025-IND", 
     "instructor": "Gregory Andrews", 
     "day": [
@@ -761,7 +761,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Internship", 
-    "sectionCode": 29329, 
+    "classNumber": 29329, 
     "section": "044-IND", 
     "instructor": "Alon Efrat", 
     "day": [
@@ -775,7 +775,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Internship", 
-    "sectionCode": 29330, 
+    "classNumber": 29330, 
     "section": "045-IND", 
     "instructor": "John Kececioglu", 
     "day": [
@@ -789,7 +789,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Internship", 
-    "sectionCode": 29331, 
+    "classNumber": 29331, 
     "section": "046-IND", 
     "instructor": "Stephen Kobourov", 
     "day": [
@@ -803,7 +803,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Internship", 
-    "sectionCode": 29332, 
+    "classNumber": 29332, 
     "section": "050-IND", 
     "instructor": "Patrick Homer", 
     "day": [
@@ -817,7 +817,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Internship", 
-    "sectionCode": 29336, 
+    "classNumber": 29336, 
     "section": "055-IND", 
     "instructor": "Lester McCann", 
     "day": [
@@ -831,7 +831,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Internship", 
-    "sectionCode": 29338, 
+    "classNumber": 29338, 
     "section": "057-IND", 
     "instructor": "Christopher Gniady", 
     "day": [
@@ -845,7 +845,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Internship", 
-    "sectionCode": 29339, 
+    "classNumber": 29339, 
     "section": "058-IND", 
     "instructor": "Beichuan Zhang", 
     "day": [
@@ -859,7 +859,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Internship", 
-    "sectionCode": 40132, 
+    "classNumber": 40132, 
     "section": "062-IND", 
     "instructor": "David Lowenthal", 
     "day": [
@@ -873,7 +873,7 @@ var data =
     "end": "17:30", 
     "location": "We 3:30PM - 5:30PM", 
     "title": "Seminar in Bioinformatics", 
-    "sectionCode": 60340, 
+    "classNumber": 60340, 
     "section": "001-SEM", 
     "instructor": "We 3:30PM - 5:30PM", 
     "day": [
@@ -887,7 +887,7 @@ var data =
     "end": "10:50", 
     "location": "M Pacheco ILC, Rm 150", 
     "title": "Object-Oriented Programming and Design", 
-    "sectionCode": 29340, 
+    "classNumber": 29340, 
     "section": "001-LEC", 
     "instructor": "Richard Mercer", 
     "day": [
@@ -903,7 +903,7 @@ var data =
     "end": "13:50", 
     "location": "Gould-Simpson, Rm 930", 
     "title": "Object-Oriented Programming and Design", 
-    "sectionCode": 47524, 
+    "classNumber": 47524, 
     "section": "001D-DIS", 
     "instructor": "Richard Mercer", 
     "day": [
@@ -917,7 +917,7 @@ var data =
     "end": "14:50", 
     "location": "Gould-Simpson, Rm 930", 
     "title": "Object-Oriented Programming and Design", 
-    "sectionCode": 59040, 
+    "classNumber": 59040, 
     "section": "001E-DIS", 
     "instructor": "Richard Mercer", 
     "day": [
@@ -931,7 +931,7 @@ var data =
     "end": "15:50", 
     "location": "Gould-Simpson, Rm 930", 
     "title": "Object-Oriented Programming and Design", 
-    "sectionCode": 59041, 
+    "classNumber": 59041, 
     "section": "001F-DIS", 
     "instructor": "Richard Mercer", 
     "day": [
@@ -945,7 +945,7 @@ var data =
     "end": "15:50", 
     "location": "M Pacheco ILC, Rm 141", 
     "title": "Web Programming", 
-    "sectionCode": 47797, 
+    "classNumber": 47797, 
     "section": "001-LEC", 
     "instructor": "Richard Mercer", 
     "day": [
@@ -961,7 +961,7 @@ var data =
     "end": "13:50", 
     "location": "C E Chavez Bldg, Rm 111", 
     "title": "Analysis of Discrete Structures", 
-    "sectionCode": 29341, 
+    "classNumber": 29341, 
     "section": "001-LEC", 
     "instructor": "Alon Efrat", 
     "day": [
@@ -977,7 +977,7 @@ var data =
     "end": "11:50", 
     "location": "Modern Languages, Rm 311", 
     "title": "Analysis of Discrete Structures", 
-    "sectionCode": 44039, 
+    "classNumber": 44039, 
     "section": "001A-DIS", 
     "instructor": "Alon Efrat", 
     "day": [
@@ -991,7 +991,7 @@ var data =
     "end": "13:50", 
     "location": "M Pacheco ILC, Rm 141", 
     "title": "Systems Programming and Unix", 
-    "sectionCode": 56753, 
+    "classNumber": 56753, 
     "section": "002-LEC", 
     "instructor": "Russell Lewis", 
     "day": [
@@ -1007,7 +1007,7 @@ var data =
     "end": "18:15", 
     "location": "Gould-Simpson, Rm 906", 
     "title": "Comparative Programming Languages", 
-    "sectionCode": 66602, 
+    "classNumber": 66602, 
     "section": "001-LEC", 
     "instructor": "Christian Collberg", 
     "day": [
@@ -1022,7 +1022,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Preceptorship", 
-    "sectionCode": 40133, 
+    "classNumber": 40133, 
     "section": "010-IND", 
     "instructor": "Christian Collberg", 
     "day": [
@@ -1036,7 +1036,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Preceptorship", 
-    "sectionCode": 40134, 
+    "classNumber": 40134, 
     "section": "011-IND", 
     "instructor": "Saumya Debray", 
     "day": [
@@ -1050,7 +1050,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Preceptorship", 
-    "sectionCode": 40135, 
+    "classNumber": 40135, 
     "section": "012-IND", 
     "instructor": "Peter Downey", 
     "day": [
@@ -1064,7 +1064,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Preceptorship", 
-    "sectionCode": 40136, 
+    "classNumber": 40136, 
     "section": "015-IND", 
     "instructor": "John Hartman", 
     "day": [
@@ -1078,7 +1078,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Preceptorship", 
-    "sectionCode": 29343, 
+    "classNumber": 29343, 
     "section": "017-IND", 
     "instructor": "Richard Mercer", 
     "day": [
@@ -1092,7 +1092,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Preceptorship", 
-    "sectionCode": 40137, 
+    "classNumber": 40137, 
     "section": "023-IND", 
     "instructor": "Richard Snodgrass", 
     "day": [
@@ -1106,7 +1106,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Preceptorship", 
-    "sectionCode": 40138, 
+    "classNumber": 40138, 
     "section": "025-IND", 
     "instructor": "Gregory Andrews", 
     "day": [
@@ -1120,7 +1120,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Preceptorship", 
-    "sectionCode": 40140, 
+    "classNumber": 40140, 
     "section": "045-IND", 
     "instructor": "John Kececioglu", 
     "day": [
@@ -1134,7 +1134,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Preceptorship", 
-    "sectionCode": 40141, 
+    "classNumber": 40141, 
     "section": "046-IND", 
     "instructor": "Stephen Kobourov", 
     "day": [
@@ -1148,7 +1148,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Preceptorship", 
-    "sectionCode": 29344, 
+    "classNumber": 29344, 
     "section": "050-IND", 
     "instructor": "Patrick Homer", 
     "day": [
@@ -1162,7 +1162,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Preceptorship", 
-    "sectionCode": 40144, 
+    "classNumber": 40144, 
     "section": "053-IND", 
     "instructor": "Sandiway Fong", 
     "day": [
@@ -1176,7 +1176,7 @@ var data =
     "end": "19:00", 
     "location": "Gould-Simpson, Rm 701", 
     "title": "Preceptorship", 
-    "sectionCode": 40145, 
+    "classNumber": 40145, 
     "section": "055-IND", 
     "instructor": "Lester McCann", 
     "day": [
@@ -1190,7 +1190,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Preceptorship", 
-    "sectionCode": 40146, 
+    "classNumber": 40146, 
     "section": "056-IND", 
     "instructor": "Hong Hua", 
     "day": [
@@ -1204,7 +1204,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Preceptorship", 
-    "sectionCode": 40147, 
+    "classNumber": 40147, 
     "section": "057-IND", 
     "instructor": "Christopher Gniady", 
     "day": [
@@ -1218,7 +1218,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Preceptorship", 
-    "sectionCode": 40148, 
+    "classNumber": 40148, 
     "section": "058-IND", 
     "instructor": "Beichuan Zhang", 
     "day": [
@@ -1232,7 +1232,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Preceptorship", 
-    "sectionCode": 40149, 
+    "classNumber": 40149, 
     "section": "062-IND", 
     "instructor": "David Lowenthal", 
     "day": [
@@ -1246,7 +1246,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Directed Research", 
-    "sectionCode": 29345, 
+    "classNumber": 29345, 
     "section": "010-IND", 
     "instructor": "Christian Collberg", 
     "day": [
@@ -1260,7 +1260,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Directed Research", 
-    "sectionCode": 29346, 
+    "classNumber": 29346, 
     "section": "011-IND", 
     "instructor": "Saumya Debray", 
     "day": [
@@ -1274,7 +1274,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Directed Research", 
-    "sectionCode": 29347, 
+    "classNumber": 29347, 
     "section": "012-IND", 
     "instructor": "Peter Downey", 
     "day": [
@@ -1288,7 +1288,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Directed Research", 
-    "sectionCode": 29348, 
+    "classNumber": 29348, 
     "section": "015-IND", 
     "instructor": "John Hartman", 
     "day": [
@@ -1302,7 +1302,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Directed Research", 
-    "sectionCode": 29349, 
+    "classNumber": 29349, 
     "section": "017-IND", 
     "instructor": "Richard Mercer", 
     "day": [
@@ -1316,7 +1316,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Directed Research", 
-    "sectionCode": 29351, 
+    "classNumber": 29351, 
     "section": "023-IND", 
     "instructor": "Richard Snodgrass", 
     "day": [
@@ -1330,7 +1330,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Directed Research", 
-    "sectionCode": 29352, 
+    "classNumber": 29352, 
     "section": "025-IND", 
     "instructor": "Gregory Andrews", 
     "day": [
@@ -1344,7 +1344,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Directed Research", 
-    "sectionCode": 29354, 
+    "classNumber": 29354, 
     "section": "044-IND", 
     "instructor": "Alon Efrat", 
     "day": [
@@ -1358,7 +1358,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Directed Research", 
-    "sectionCode": 29355, 
+    "classNumber": 29355, 
     "section": "045-IND", 
     "instructor": "John Kececioglu", 
     "day": [
@@ -1372,7 +1372,7 @@ var data =
     "end": "15:15", 
     "location": "Gould-Simpson, Rm 701", 
     "title": "Directed Research", 
-    "sectionCode": 29356, 
+    "classNumber": 29356, 
     "section": "046-IND", 
     "instructor": "Helen Purchase", 
     "day": [
@@ -1387,7 +1387,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Directed Research", 
-    "sectionCode": 29357, 
+    "classNumber": 29357, 
     "section": "050-IND", 
     "instructor": "Patrick Homer", 
     "day": [
@@ -1401,7 +1401,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Directed Research", 
-    "sectionCode": 29361, 
+    "classNumber": 29361, 
     "section": "055-IND", 
     "instructor": "Lester McCann", 
     "day": [
@@ -1415,7 +1415,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Directed Research", 
-    "sectionCode": 29363, 
+    "classNumber": 29363, 
     "section": "057-IND", 
     "instructor": "Christopher Gniady", 
     "day": [
@@ -1429,7 +1429,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Directed Research", 
-    "sectionCode": 29364, 
+    "classNumber": 29364, 
     "section": "058-IND", 
     "instructor": "Beichuan Zhang", 
     "day": [
@@ -1443,7 +1443,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Directed Research", 
-    "sectionCode": 40152, 
+    "classNumber": 40152, 
     "section": "062-IND", 
     "instructor": "David Lowenthal", 
     "day": [
@@ -1457,7 +1457,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 29365, 
+    "classNumber": 29365, 
     "section": "001-IND", 
     "instructor": "Staff", 
     "day": [
@@ -1471,7 +1471,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 29366, 
+    "classNumber": 29366, 
     "section": "010-IND", 
     "instructor": "Christian Collberg", 
     "day": [
@@ -1485,7 +1485,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 29367, 
+    "classNumber": 29367, 
     "section": "011-IND", 
     "instructor": "Saumya Debray", 
     "day": [
@@ -1499,7 +1499,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 29368, 
+    "classNumber": 29368, 
     "section": "012-IND", 
     "instructor": "Peter Downey", 
     "day": [
@@ -1513,7 +1513,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 29369, 
+    "classNumber": 29369, 
     "section": "015-IND", 
     "instructor": "John Hartman", 
     "day": [
@@ -1527,7 +1527,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 29370, 
+    "classNumber": 29370, 
     "section": "017-IND", 
     "instructor": "Richard Mercer", 
     "day": [
@@ -1541,7 +1541,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 29371, 
+    "classNumber": 29371, 
     "section": "023-IND", 
     "instructor": "Richard Snodgrass", 
     "day": [
@@ -1555,7 +1555,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 29372, 
+    "classNumber": 29372, 
     "section": "025-IND", 
     "instructor": "Gregory Andrews", 
     "day": [
@@ -1569,7 +1569,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 29373, 
+    "classNumber": 29373, 
     "section": "044-IND", 
     "instructor": "Alon Efrat", 
     "day": [
@@ -1583,7 +1583,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 29374, 
+    "classNumber": 29374, 
     "section": "045-IND", 
     "instructor": "John Kececioglu", 
     "day": [
@@ -1597,7 +1597,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 29375, 
+    "classNumber": 29375, 
     "section": "046-IND", 
     "instructor": "Stephen Kobourov", 
     "day": [
@@ -1611,7 +1611,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 29376, 
+    "classNumber": 29376, 
     "section": "050-IND", 
     "instructor": "Patrick Homer", 
     "day": [
@@ -1625,7 +1625,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 29380, 
+    "classNumber": 29380, 
     "section": "055-IND", 
     "instructor": "Lester McCann", 
     "day": [
@@ -1639,7 +1639,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 29382, 
+    "classNumber": 29382, 
     "section": "057-IND", 
     "instructor": "Christopher Gniady", 
     "day": [
@@ -1653,7 +1653,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 29383, 
+    "classNumber": 29383, 
     "section": "058-IND", 
     "instructor": "Beichuan Zhang", 
     "day": [
@@ -1667,7 +1667,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 40153, 
+    "classNumber": 40153, 
     "section": "062-IND", 
     "instructor": "David Lowenthal", 
     "day": [
@@ -1681,7 +1681,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 51320, 
+    "classNumber": 51320, 
     "section": "065-IND", 
     "instructor": "Thienne Johnson", 
     "day": [
@@ -1695,7 +1695,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Honors Independent Study", 
-    "sectionCode": 40154, 
+    "classNumber": 40154, 
     "section": "010-IND", 
     "instructor": "Christian Collberg", 
     "day": [
@@ -1709,7 +1709,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Honors Independent Study", 
-    "sectionCode": 29385, 
+    "classNumber": 29385, 
     "section": "011-IND", 
     "instructor": "Saumya Debray", 
     "day": [
@@ -1723,7 +1723,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Honors Independent Study", 
-    "sectionCode": 40155, 
+    "classNumber": 40155, 
     "section": "012-IND", 
     "instructor": "Peter Downey", 
     "day": [
@@ -1737,7 +1737,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Honors Independent Study", 
-    "sectionCode": 40156, 
+    "classNumber": 40156, 
     "section": "015-IND", 
     "instructor": "John Hartman", 
     "day": [
@@ -1751,7 +1751,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Honors Independent Study", 
-    "sectionCode": 40157, 
+    "classNumber": 40157, 
     "section": "017-IND", 
     "instructor": "Richard Mercer", 
     "day": [
@@ -1765,7 +1765,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Honors Independent Study", 
-    "sectionCode": 29386, 
+    "classNumber": 29386, 
     "section": "023-IND", 
     "instructor": "Richard Snodgrass", 
     "day": [
@@ -1779,7 +1779,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Honors Independent Study", 
-    "sectionCode": 40158, 
+    "classNumber": 40158, 
     "section": "025-IND", 
     "instructor": "Gregory Andrews", 
     "day": [
@@ -1793,7 +1793,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Honors Independent Study", 
-    "sectionCode": 40160, 
+    "classNumber": 40160, 
     "section": "044-IND", 
     "instructor": "Alon Efrat", 
     "day": [
@@ -1807,7 +1807,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Honors Independent Study", 
-    "sectionCode": 40161, 
+    "classNumber": 40161, 
     "section": "045-IND", 
     "instructor": "John Kececioglu", 
     "day": [
@@ -1821,7 +1821,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Honors Independent Study", 
-    "sectionCode": 40162, 
+    "classNumber": 40162, 
     "section": "046-IND", 
     "instructor": "Stephen Kobourov", 
     "day": [
@@ -1835,7 +1835,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Honors Independent Study", 
-    "sectionCode": 40163, 
+    "classNumber": 40163, 
     "section": "050-IND", 
     "instructor": "Patrick Homer", 
     "day": [
@@ -1849,7 +1849,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Honors Independent Study", 
-    "sectionCode": 40167, 
+    "classNumber": 40167, 
     "section": "055-IND", 
     "instructor": "Lester McCann", 
     "day": [
@@ -1863,7 +1863,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Honors Independent Study", 
-    "sectionCode": 40169, 
+    "classNumber": 40169, 
     "section": "057-IND", 
     "instructor": "Christopher Gniady", 
     "day": [
@@ -1877,7 +1877,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Honors Independent Study", 
-    "sectionCode": 40170, 
+    "classNumber": 40170, 
     "section": "058-IND", 
     "instructor": "Beichuan Zhang", 
     "day": [
@@ -1891,7 +1891,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Honors Independent Study", 
-    "sectionCode": 40171, 
+    "classNumber": 40171, 
     "section": "062-IND", 
     "instructor": "David Lowenthal", 
     "day": [
@@ -1905,7 +1905,7 @@ var data =
     "end": "9:50", 
     "location": "Communication, Rm 113", 
     "title": "Symbolic Logic", 
-    "sectionCode": 46346, 
+    "classNumber": 46346, 
     "section": "001-LEC", 
     "instructor": "Jason Turner", 
     "day": [
@@ -1921,7 +1921,7 @@ var data =
     "end": "10:45", 
     "location": "Gould-Simpson, Rm 906", 
     "title": "Introduction to Parallel and Distributed Programming", 
-    "sectionCode": 65923, 
+    "classNumber": 65923, 
     "section": "001-LEC", 
     "instructor": "Patrick Homer", 
     "day": [
@@ -1936,7 +1936,7 @@ var data =
     "end": "13:45", 
     "location": "R P Harvill Bldg, Rm 318", 
     "title": "Computer Networking", 
-    "sectionCode": 65974, 
+    "classNumber": 65974, 
     "section": "001-LEC", 
     "instructor": "Beichuan Zhang", 
     "day": [
@@ -1951,7 +1951,7 @@ var data =
     "end": "13:45", 
     "location": "Gould-Simpson, Rm 906", 
     "title": "Software Engineering", 
-    "sectionCode": 53797, 
+    "classNumber": 53797, 
     "section": "001-LEC", 
     "instructor": "Ravi Sethi", 
     "day": [
@@ -1966,7 +1966,7 @@ var data =
     "end": "16:45", 
     "location": "McClelland Park, Rm 102", 
     "title": "Computational Linguistics", 
-    "sectionCode": 46343, 
+    "classNumber": 46343, 
     "section": "001-LEC", 
     "instructor": "Sandiway Fong", 
     "day": [
@@ -1981,7 +1981,7 @@ var data =
     "end": "15:15", 
     "location": "Communication, Rm 113", 
     "title": "Statistical Natural Language Processing", 
-    "sectionCode": 50170, 
+    "classNumber": 50170, 
     "section": "001-LEC", 
     "instructor": "Mihai Surdeanu", 
     "day": [
@@ -1996,7 +1996,7 @@ var data =
     "end": "18:15", 
     "location": "Gould-Simpson, Rm 906", 
     "title": "Algorithms", 
-    "sectionCode": 53798, 
+    "classNumber": 53798, 
     "section": "001-LEC", 
     "instructor": "Alon Efrat", 
     "day": [
@@ -2011,7 +2011,7 @@ var data =
     "end": "16:45", 
     "location": "Biol Sci West, Rm 208", 
     "title": "Algorithms in Bioinformatics", 
-    "sectionCode": 66221, 
+    "classNumber": 66221, 
     "section": "001-LEC", 
     "instructor": "John Kececioglu", 
     "day": [
@@ -2026,7 +2026,7 @@ var data =
     "end": "15:15", 
     "location": "Modern Languages, Rm 311", 
     "title": "Principles of Operating Systems", 
-    "sectionCode": 55797, 
+    "classNumber": 55797, 
     "section": "001-LEC", 
     "instructor": "Patrick Homer", 
     "day": [
@@ -2041,7 +2041,7 @@ var data =
     "end": "10:50", 
     "location": "Gould-Simpson, Rm 906", 
     "title": "Principles of Operating Systems", 
-    "sectionCode": 55798, 
+    "classNumber": 55798, 
     "section": "001A-DIS", 
     "instructor": "Patrick Homer", 
     "day": [
@@ -2055,7 +2055,7 @@ var data =
     "end": "16:45", 
     "location": "Gould-Simpson, Rm 906", 
     "title": "Database Design", 
-    "sectionCode": 29388, 
+    "classNumber": 29388, 
     "section": "001-LEC", 
     "instructor": "Lester McCann", 
     "day": [
@@ -2070,7 +2070,7 @@ var data =
     "end": "15:15", 
     "location": "Gould-Simpson, Rm 906", 
     "title": "Computer Security", 
-    "sectionCode": 53795, 
+    "classNumber": 53795, 
     "section": "001-LEC", 
     "instructor": "Christian Collberg", 
     "day": [
@@ -2085,7 +2085,7 @@ var data =
     "end": "12:15", 
     "location": "Gittings Bldg, Rm 201", 
     "title": "Computer-Aided Logic Design", 
-    "sectionCode": 46351, 
+    "classNumber": 46351, 
     "section": "001-LEC", 
     "instructor": "Tosiron Adegbija", 
     "day": [
@@ -2100,7 +2100,7 @@ var data =
     "end": "13:50", 
     "location": "Gould-Simpson, Rm 701", 
     "title": "Introduction to Computer Vision", 
-    "sectionCode": 59115, 
+    "classNumber": 59115, 
     "section": "001-LEC", 
     "instructor": "Jacobus Barnard", 
     "day": [
@@ -2116,7 +2116,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Directed Research", 
-    "sectionCode": 29390, 
+    "classNumber": 29390, 
     "section": "010-IND", 
     "instructor": "Christian Collberg", 
     "day": [
@@ -2130,7 +2130,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Directed Research", 
-    "sectionCode": 29391, 
+    "classNumber": 29391, 
     "section": "011-IND", 
     "instructor": "Saumya Debray", 
     "day": [
@@ -2144,7 +2144,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Directed Research", 
-    "sectionCode": 29392, 
+    "classNumber": 29392, 
     "section": "012-IND", 
     "instructor": "Peter Downey", 
     "day": [
@@ -2158,7 +2158,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Directed Research", 
-    "sectionCode": 29393, 
+    "classNumber": 29393, 
     "section": "015-IND", 
     "instructor": "John Hartman", 
     "day": [
@@ -2172,7 +2172,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Directed Research", 
-    "sectionCode": 29394, 
+    "classNumber": 29394, 
     "section": "017-IND", 
     "instructor": "Richard Mercer", 
     "day": [
@@ -2186,7 +2186,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Directed Research", 
-    "sectionCode": 29395, 
+    "classNumber": 29395, 
     "section": "023-IND", 
     "instructor": "Richard Snodgrass", 
     "day": [
@@ -2200,7 +2200,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Directed Research", 
-    "sectionCode": 29396, 
+    "classNumber": 29396, 
     "section": "025-IND", 
     "instructor": "Gregory Andrews", 
     "day": [
@@ -2214,7 +2214,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Directed Research", 
-    "sectionCode": 29397, 
+    "classNumber": 29397, 
     "section": "044-IND", 
     "instructor": "Alon Efrat", 
     "day": [
@@ -2228,7 +2228,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Directed Research", 
-    "sectionCode": 29398, 
+    "classNumber": 29398, 
     "section": "045-IND", 
     "instructor": "John Kececioglu", 
     "day": [
@@ -2242,7 +2242,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Directed Research", 
-    "sectionCode": 29399, 
+    "classNumber": 29399, 
     "section": "046-IND", 
     "instructor": "Stephen Kobourov", 
     "day": [
@@ -2256,7 +2256,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Directed Research", 
-    "sectionCode": 29400, 
+    "classNumber": 29400, 
     "section": "050-IND", 
     "instructor": "Patrick Homer", 
     "day": [
@@ -2270,7 +2270,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Directed Research", 
-    "sectionCode": 29404, 
+    "classNumber": 29404, 
     "section": "055-IND", 
     "instructor": "Lester McCann", 
     "day": [
@@ -2284,7 +2284,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Directed Research", 
-    "sectionCode": 29406, 
+    "classNumber": 29406, 
     "section": "057-IND", 
     "instructor": "Christopher Gniady", 
     "day": [
@@ -2298,7 +2298,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Directed Research", 
-    "sectionCode": 29407, 
+    "classNumber": 29407, 
     "section": "058-IND", 
     "instructor": "Beichuan Zhang", 
     "day": [
@@ -2312,7 +2312,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Directed Research", 
-    "sectionCode": 29408, 
+    "classNumber": 29408, 
     "section": "062-IND", 
     "instructor": "David Lowenthal", 
     "day": [
@@ -2326,7 +2326,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Directed Research", 
-    "sectionCode": 51544, 
+    "classNumber": 51544, 
     "section": "065-IND", 
     "instructor": "Thienne Johnson", 
     "day": [
@@ -2340,7 +2340,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Directed Research", 
-    "sectionCode": 57266, 
+    "classNumber": 57266, 
     "section": "067-IND", 
     "instructor": "Carlos Scheidegger", 
     "day": [
@@ -2354,7 +2354,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Internship", 
-    "sectionCode": 29410, 
+    "classNumber": 29410, 
     "section": "010-IND", 
     "instructor": "Christian Collberg", 
     "day": [
@@ -2368,7 +2368,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Internship", 
-    "sectionCode": 29411, 
+    "classNumber": 29411, 
     "section": "011-IND", 
     "instructor": "Saumya Debray", 
     "day": [
@@ -2382,7 +2382,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Internship", 
-    "sectionCode": 29412, 
+    "classNumber": 29412, 
     "section": "012-IND", 
     "instructor": "Peter Downey", 
     "day": [
@@ -2396,7 +2396,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Internship", 
-    "sectionCode": 29413, 
+    "classNumber": 29413, 
     "section": "015-IND", 
     "instructor": "John Hartman", 
     "day": [
@@ -2410,7 +2410,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Internship", 
-    "sectionCode": 29414, 
+    "classNumber": 29414, 
     "section": "017-IND", 
     "instructor": "Richard Mercer", 
     "day": [
@@ -2424,7 +2424,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Internship", 
-    "sectionCode": 29415, 
+    "classNumber": 29415, 
     "section": "023-IND", 
     "instructor": "Richard Snodgrass", 
     "day": [
@@ -2438,7 +2438,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Internship", 
-    "sectionCode": 29416, 
+    "classNumber": 29416, 
     "section": "025-IND", 
     "instructor": "Gregory Andrews", 
     "day": [
@@ -2452,7 +2452,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Internship", 
-    "sectionCode": 29417, 
+    "classNumber": 29417, 
     "section": "044-IND", 
     "instructor": "Alon Efrat", 
     "day": [
@@ -2466,7 +2466,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Internship", 
-    "sectionCode": 29418, 
+    "classNumber": 29418, 
     "section": "045-IND", 
     "instructor": "John Kececioglu", 
     "day": [
@@ -2480,7 +2480,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Internship", 
-    "sectionCode": 29419, 
+    "classNumber": 29419, 
     "section": "046-IND", 
     "instructor": "Stephen Kobourov", 
     "day": [
@@ -2494,7 +2494,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Internship", 
-    "sectionCode": 29420, 
+    "classNumber": 29420, 
     "section": "050-IND", 
     "instructor": "Patrick Homer", 
     "day": [
@@ -2508,7 +2508,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Internship", 
-    "sectionCode": 29424, 
+    "classNumber": 29424, 
     "section": "055-IND", 
     "instructor": "Lester McCann", 
     "day": [
@@ -2522,7 +2522,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Internship", 
-    "sectionCode": 29426, 
+    "classNumber": 29426, 
     "section": "057-IND", 
     "instructor": "Christopher Gniady", 
     "day": [
@@ -2536,7 +2536,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Internship", 
-    "sectionCode": 29427, 
+    "classNumber": 29427, 
     "section": "058-IND", 
     "instructor": "Beichuan Zhang", 
     "day": [
@@ -2550,7 +2550,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Internship", 
-    "sectionCode": 40172, 
+    "classNumber": 40172, 
     "section": "062-IND", 
     "instructor": "David Lowenthal", 
     "day": [
@@ -2564,7 +2564,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Honors Thesis", 
-    "sectionCode": 29429, 
+    "classNumber": 29429, 
     "section": "010-IND", 
     "instructor": "Christian Collberg", 
     "day": [
@@ -2578,7 +2578,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Honors Thesis", 
-    "sectionCode": 29430, 
+    "classNumber": 29430, 
     "section": "011-IND", 
     "instructor": "Saumya Debray", 
     "day": [
@@ -2592,7 +2592,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Honors Thesis", 
-    "sectionCode": 29431, 
+    "classNumber": 29431, 
     "section": "012-IND", 
     "instructor": "Peter Downey", 
     "day": [
@@ -2606,7 +2606,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Honors Thesis", 
-    "sectionCode": 29432, 
+    "classNumber": 29432, 
     "section": "015-IND", 
     "instructor": "John Hartman", 
     "day": [
@@ -2620,7 +2620,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Honors Thesis", 
-    "sectionCode": 29433, 
+    "classNumber": 29433, 
     "section": "017-IND", 
     "instructor": "Richard Mercer", 
     "day": [
@@ -2634,7 +2634,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Honors Thesis", 
-    "sectionCode": 29435, 
+    "classNumber": 29435, 
     "section": "023-IND", 
     "instructor": "Richard Snodgrass", 
     "day": [
@@ -2648,7 +2648,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Honors Thesis", 
-    "sectionCode": 29436, 
+    "classNumber": 29436, 
     "section": "025-IND", 
     "instructor": "Gregory Andrews", 
     "day": [
@@ -2662,7 +2662,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Honors Thesis", 
-    "sectionCode": 29437, 
+    "classNumber": 29437, 
     "section": "044-IND", 
     "instructor": "Alon Efrat", 
     "day": [
@@ -2676,7 +2676,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Honors Thesis", 
-    "sectionCode": 29438, 
+    "classNumber": 29438, 
     "section": "045-IND", 
     "instructor": "John Kececioglu", 
     "day": [
@@ -2690,7 +2690,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Honors Thesis", 
-    "sectionCode": 29439, 
+    "classNumber": 29439, 
     "section": "046-IND", 
     "instructor": "Stephen Kobourov", 
     "day": [
@@ -2704,7 +2704,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Honors Thesis", 
-    "sectionCode": 29440, 
+    "classNumber": 29440, 
     "section": "050-IND", 
     "instructor": "Patrick Homer", 
     "day": [
@@ -2718,7 +2718,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Honors Thesis", 
-    "sectionCode": 29443, 
+    "classNumber": 29443, 
     "section": "053-IND", 
     "instructor": "Sandiway Fong", 
     "day": [
@@ -2732,7 +2732,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Honors Thesis", 
-    "sectionCode": 29444, 
+    "classNumber": 29444, 
     "section": "055-IND", 
     "instructor": "Lester McCann", 
     "day": [
@@ -2746,7 +2746,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Honors Thesis", 
-    "sectionCode": 29445, 
+    "classNumber": 29445, 
     "section": "056-IND", 
     "instructor": "Hong Hua", 
     "day": [
@@ -2760,7 +2760,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Honors Thesis", 
-    "sectionCode": 29446, 
+    "classNumber": 29446, 
     "section": "057-IND", 
     "instructor": "Christopher Gniady", 
     "day": [
@@ -2774,7 +2774,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Honors Thesis", 
-    "sectionCode": 29447, 
+    "classNumber": 29447, 
     "section": "058-IND", 
     "instructor": "Beichuan Zhang", 
     "day": [
@@ -2788,7 +2788,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Honors Thesis", 
-    "sectionCode": 40174, 
+    "classNumber": 40174, 
     "section": "062-IND", 
     "instructor": "David Lowenthal", 
     "day": [
@@ -2802,7 +2802,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Honors Thesis", 
-    "sectionCode": 48129, 
+    "classNumber": 48129, 
     "section": "065-IND", 
     "instructor": "Thienne Johnson", 
     "day": [
@@ -2816,7 +2816,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Honors Thesis", 
-    "sectionCode": 57265, 
+    "classNumber": 57265, 
     "section": "067-IND", 
     "instructor": "Carlos Scheidegger", 
     "day": [
@@ -2830,7 +2830,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Honors Thesis", 
-    "sectionCode": 66566, 
+    "classNumber": 66566, 
     "section": "072-IND", 
     "instructor": "Katherine Isaacs", 
     "day": [
@@ -2844,7 +2844,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Honors Thesis", 
-    "sectionCode": 66603, 
+    "classNumber": 66603, 
     "section": "073-IND", 
     "instructor": "Ravi Sethi", 
     "day": [
@@ -2858,7 +2858,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 29449, 
+    "classNumber": 29449, 
     "section": "010-IND", 
     "instructor": "Christian Collberg", 
     "day": [
@@ -2872,7 +2872,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 29450, 
+    "classNumber": 29450, 
     "section": "011-IND", 
     "instructor": "Saumya Debray", 
     "day": [
@@ -2886,7 +2886,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 29451, 
+    "classNumber": 29451, 
     "section": "012-IND", 
     "instructor": "Peter Downey", 
     "day": [
@@ -2900,7 +2900,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 29452, 
+    "classNumber": 29452, 
     "section": "015-IND", 
     "instructor": "John Hartman", 
     "day": [
@@ -2914,7 +2914,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 29453, 
+    "classNumber": 29453, 
     "section": "017-IND", 
     "instructor": "Richard Mercer", 
     "day": [
@@ -2928,7 +2928,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 29454, 
+    "classNumber": 29454, 
     "section": "023-IND", 
     "instructor": "Richard Snodgrass", 
     "day": [
@@ -2942,7 +2942,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 29455, 
+    "classNumber": 29455, 
     "section": "025-IND", 
     "instructor": "Gregory Andrews", 
     "day": [
@@ -2956,7 +2956,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 29456, 
+    "classNumber": 29456, 
     "section": "044-IND", 
     "instructor": "Alon Efrat", 
     "day": [
@@ -2970,7 +2970,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 29457, 
+    "classNumber": 29457, 
     "section": "045-IND", 
     "instructor": "John Kececioglu", 
     "day": [
@@ -2984,7 +2984,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 29458, 
+    "classNumber": 29458, 
     "section": "046-IND", 
     "instructor": "Stephen Kobourov", 
     "day": [
@@ -2998,7 +2998,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 29459, 
+    "classNumber": 29459, 
     "section": "050-IND", 
     "instructor": "Patrick Homer", 
     "day": [
@@ -3012,7 +3012,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 29462, 
+    "classNumber": 29462, 
     "section": "053-IND", 
     "instructor": "Sandiway Fong", 
     "day": [
@@ -3026,7 +3026,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 29463, 
+    "classNumber": 29463, 
     "section": "055-IND", 
     "instructor": "Lester McCann", 
     "day": [
@@ -3040,7 +3040,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 29464, 
+    "classNumber": 29464, 
     "section": "056-IND", 
     "instructor": "Hong Hua", 
     "day": [
@@ -3054,7 +3054,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 29465, 
+    "classNumber": 29465, 
     "section": "057-IND", 
     "instructor": "Christopher Gniady", 
     "day": [
@@ -3068,7 +3068,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 29466, 
+    "classNumber": 29466, 
     "section": "058-IND", 
     "instructor": "Beichuan Zhang", 
     "day": [
@@ -3082,7 +3082,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 40175, 
+    "classNumber": 40175, 
     "section": "062-IND", 
     "instructor": "David Lowenthal", 
     "day": [
@@ -3096,7 +3096,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 62041, 
+    "classNumber": 62041, 
     "section": "067-IND", 
     "instructor": "Carlos Scheidegger", 
     "day": [
@@ -3110,7 +3110,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 57423, 
+    "classNumber": 57423, 
     "section": "070-IND", 
     "instructor": "Todd Proebsting", 
     "day": [
@@ -3124,7 +3124,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Honors Independent Study", 
-    "sectionCode": 29468, 
+    "classNumber": 29468, 
     "section": "010-IND", 
     "instructor": "Christian Collberg", 
     "day": [
@@ -3138,7 +3138,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Honors Independent Study", 
-    "sectionCode": 29469, 
+    "classNumber": 29469, 
     "section": "011-IND", 
     "instructor": "Saumya Debray", 
     "day": [
@@ -3152,7 +3152,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Honors Independent Study", 
-    "sectionCode": 29470, 
+    "classNumber": 29470, 
     "section": "012-IND", 
     "instructor": "Peter Downey", 
     "day": [
@@ -3166,7 +3166,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Honors Independent Study", 
-    "sectionCode": 29471, 
+    "classNumber": 29471, 
     "section": "015-IND", 
     "instructor": "John Hartman", 
     "day": [
@@ -3180,7 +3180,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Honors Independent Study", 
-    "sectionCode": 29472, 
+    "classNumber": 29472, 
     "section": "017-IND", 
     "instructor": "Richard Mercer", 
     "day": [
@@ -3194,7 +3194,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Honors Independent Study", 
-    "sectionCode": 29473, 
+    "classNumber": 29473, 
     "section": "023-IND", 
     "instructor": "Richard Snodgrass", 
     "day": [
@@ -3208,7 +3208,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Honors Independent Study", 
-    "sectionCode": 29474, 
+    "classNumber": 29474, 
     "section": "025-IND", 
     "instructor": "Gregory Andrews", 
     "day": [
@@ -3222,7 +3222,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Honors Independent Study", 
-    "sectionCode": 29475, 
+    "classNumber": 29475, 
     "section": "044-IND", 
     "instructor": "Alon Efrat", 
     "day": [
@@ -3236,7 +3236,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Honors Independent Study", 
-    "sectionCode": 29476, 
+    "classNumber": 29476, 
     "section": "045-IND", 
     "instructor": "John Kececioglu", 
     "day": [
@@ -3250,7 +3250,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Honors Independent Study", 
-    "sectionCode": 29477, 
+    "classNumber": 29477, 
     "section": "046-IND", 
     "instructor": "Stephen Kobourov", 
     "day": [
@@ -3264,7 +3264,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Honors Independent Study", 
-    "sectionCode": 29478, 
+    "classNumber": 29478, 
     "section": "050-IND", 
     "instructor": "Patrick Homer", 
     "day": [
@@ -3278,7 +3278,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Honors Independent Study", 
-    "sectionCode": 29481, 
+    "classNumber": 29481, 
     "section": "053-IND", 
     "instructor": "Sandiway Fong", 
     "day": [
@@ -3292,7 +3292,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Honors Independent Study", 
-    "sectionCode": 29482, 
+    "classNumber": 29482, 
     "section": "055-IND", 
     "instructor": "Lester McCann", 
     "day": [
@@ -3306,7 +3306,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Honors Independent Study", 
-    "sectionCode": 29483, 
+    "classNumber": 29483, 
     "section": "056-IND", 
     "instructor": "Hong Hua", 
     "day": [
@@ -3320,7 +3320,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Honors Independent Study", 
-    "sectionCode": 29484, 
+    "classNumber": 29484, 
     "section": "057-IND", 
     "instructor": "Christopher Gniady", 
     "day": [
@@ -3334,7 +3334,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Honors Independent Study", 
-    "sectionCode": 29485, 
+    "classNumber": 29485, 
     "section": "058-IND", 
     "instructor": "Beichuan Zhang", 
     "day": [
@@ -3348,7 +3348,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Honors Independent Study", 
-    "sectionCode": 40176, 
+    "classNumber": 40176, 
     "section": "062-IND", 
     "instructor": "David Lowenthal", 
     "day": [
@@ -3362,7 +3362,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Honors Independent Study", 
-    "sectionCode": 67779, 
+    "classNumber": 67779, 
     "section": "068-IND", 
     "instructor": "Mihai Surdeanu", 
     "day": [
@@ -3376,7 +3376,7 @@ var data =
     "end": "9:50", 
     "location": "Communication, Rm 113", 
     "title": "Symbolic Logic", 
-    "sectionCode": 46348, 
+    "classNumber": 46348, 
     "section": "001-LEC", 
     "instructor": "Jason Turner", 
     "day": [
@@ -3392,7 +3392,7 @@ var data =
     "end": "16:45", 
     "location": "McClelland Park, Rm 102", 
     "title": "Computational Linguistics", 
-    "sectionCode": 43140, 
+    "classNumber": 43140, 
     "section": "001-LEC", 
     "instructor": "Sandiway Fong", 
     "day": [
@@ -3407,7 +3407,7 @@ var data =
     "end": "15:15", 
     "location": "Communication, Rm 113", 
     "title": "Statistical Natural Language Processing", 
-    "sectionCode": 50172, 
+    "classNumber": 50172, 
     "section": "001-LEC", 
     "instructor": "Mihai Surdeanu", 
     "day": [
@@ -3422,7 +3422,7 @@ var data =
     "end": "15:15", 
     "location": "R P Harvill Bldg, Rm 305", 
     "title": "Information Systems Analysis and Design", 
-    "sectionCode": 43194, 
+    "classNumber": 43194, 
     "section": "001-LEC", 
     "instructor": "Rich Yueh", 
     "day": [
@@ -3437,7 +3437,7 @@ var data =
     "end": "16:45", 
     "location": "Gould-Simpson, Rm 906", 
     "title": "Advanced Data Visualization", 
-    "sectionCode": 65930, 
+    "classNumber": 65930, 
     "section": "001-LEC", 
     "instructor": "Carlos Scheidegger", 
     "day": [
@@ -3452,7 +3452,7 @@ var data =
     "end": "10:45", 
     "location": "Gould-Simpson, Rm 906", 
     "title": "Design and Analysis of Algorithms", 
-    "sectionCode": 56217, 
+    "classNumber": 56217, 
     "section": "001-LEC", 
     "instructor": "Stephen Kobourov", 
     "day": [
@@ -3467,7 +3467,7 @@ var data =
     "end": "13:45", 
     "location": "Gould-Simpson, Rm 906", 
     "title": "Advanced Operating Systems", 
-    "sectionCode": 29487, 
+    "classNumber": 29487, 
     "section": "001-LEC", 
     "instructor": "Christopher Gniady", 
     "day": [
@@ -3482,7 +3482,7 @@ var data =
     "end": "12:15", 
     "location": "Gould-Simpson, Rm 906", 
     "title": "Database Systems Implementation", 
-    "sectionCode": 65928, 
+    "classNumber": 65928, 
     "section": "001-LEC", 
     "instructor": "Richard Snodgrass", 
     "day": [
@@ -3497,7 +3497,7 @@ var data =
     "end": "15:15", 
     "location": "Gould-Simpson, Rm 906", 
     "title": "Computer Security", 
-    "sectionCode": 53796, 
+    "classNumber": 53796, 
     "section": "001-LEC", 
     "instructor": "Christian Collberg", 
     "day": [
@@ -3512,7 +3512,7 @@ var data =
     "end": "12:15", 
     "location": "Gittings Bldg, Rm 201", 
     "title": "Computer-Aided Logic Design", 
-    "sectionCode": 43021, 
+    "classNumber": 43021, 
     "section": "001-LEC", 
     "instructor": "Tosiron Adegbija", 
     "day": [
@@ -3527,7 +3527,7 @@ var data =
     "end": "12:15", 
     "location": "Mathematics, Rm 501", 
     "title": "Numerical Analysis", 
-    "sectionCode": 43133, 
+    "classNumber": 43133, 
     "section": "001-LEC", 
     "instructor": "Moysey Brio", 
     "day": [
@@ -3542,7 +3542,7 @@ var data =
     "end": "13:50", 
     "location": "Gould-Simpson, Rm 701", 
     "title": "Introduction to Computer Vision", 
-    "sectionCode": 59114, 
+    "classNumber": 59114, 
     "section": "001-LEC", 
     "instructor": "Jacobus Barnard", 
     "day": [
@@ -3558,7 +3558,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Preceptorship", 
-    "sectionCode": 29488, 
+    "classNumber": 29488, 
     "section": "001-IND", 
     "instructor": "Staff", 
     "day": [
@@ -3572,7 +3572,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Preceptorship", 
-    "sectionCode": 29489, 
+    "classNumber": 29489, 
     "section": "028-IND", 
     "instructor": "Denise Westbrook", 
     "day": [
@@ -3586,7 +3586,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Internship", 
-    "sectionCode": 29490, 
+    "classNumber": 29490, 
     "section": "001-IND", 
     "instructor": "Staff", 
     "day": [
@@ -3600,7 +3600,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 29507, 
+    "classNumber": 29507, 
     "section": "001-IND", 
     "instructor": "Staff", 
     "day": [
@@ -3614,7 +3614,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 48699, 
+    "classNumber": 48699, 
     "section": "065-IND", 
     "instructor": "Thienne Johnson", 
     "day": [
@@ -3628,7 +3628,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 56468, 
+    "classNumber": 56468, 
     "section": "067-IND", 
     "instructor": "Carlos Scheidegger", 
     "day": [
@@ -3642,7 +3642,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 56748, 
+    "classNumber": 56748, 
     "section": "068-IND", 
     "instructor": "Mihai Surdeanu", 
     "day": [
@@ -3656,7 +3656,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 57425, 
+    "classNumber": 57425, 
     "section": "070-IND", 
     "instructor": "Todd Proebsting", 
     "day": [
@@ -3670,7 +3670,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 62314, 
+    "classNumber": 62314, 
     "section": "072-IND", 
     "instructor": "Katherine Isaacs", 
     "day": [
@@ -3684,7 +3684,7 @@ var data =
     "end": "15:15", 
     "location": "Gould-Simpson, Rm 737", 
     "title": "Advanced Topics in Software Systems", 
-    "sectionCode": 56218, 
+    "classNumber": 56218, 
     "section": "001-LEC", 
     "instructor": "Joshua Levine", 
     "day": [
@@ -3699,7 +3699,7 @@ var data =
     "end": "12:15", 
     "location": "Gould-Simpson, Rm 906", 
     "title": "Advanced Topics in Computing", 
-    "sectionCode": 29525, 
+    "classNumber": 29525, 
     "section": "001-CLQ", 
     "instructor": "Richard Snodgrass", 
     "day": [
@@ -3714,7 +3714,7 @@ var data =
     "end": "12:15", 
     "location": "Gould-Simpson, Rm 906", 
     "title": "Advanced Topic: Doctoral Minor Colloquium", 
-    "sectionCode": 29526, 
+    "classNumber": 29526, 
     "section": "001-CLQ", 
     "instructor": "Richard Snodgrass", 
     "day": [
@@ -3729,7 +3729,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Advanced Topic: Doctoral Colloquium", 
-    "sectionCode": 29527, 
+    "classNumber": 29527, 
     "section": "001-CLQ", 
     "instructor": "Staff", 
     "day": [
@@ -3743,7 +3743,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Advanced Topic: Doctoral Colloquium", 
-    "sectionCode": 56315, 
+    "classNumber": 56315, 
     "section": "067-CLQ", 
     "instructor": "Carlos Scheidegger", 
     "day": [
@@ -3757,7 +3757,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Advanced Topic: Doctoral Colloquium", 
-    "sectionCode": 56314, 
+    "classNumber": 56314, 
     "section": "068-CLQ", 
     "instructor": "Mihai Surdeanu", 
     "day": [
@@ -3771,7 +3771,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Advanced Topic: Doctoral Colloquium", 
-    "sectionCode": 56968, 
+    "classNumber": 56968, 
     "section": "069-CLQ", 
     "instructor": "Michelle Strout", 
     "day": [
@@ -3785,7 +3785,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Advanced Topic: Doctoral Colloquium", 
-    "sectionCode": 61927, 
+    "classNumber": 61927, 
     "section": "071-CLQ", 
     "instructor": "Joshua Levine", 
     "day": [
@@ -3799,7 +3799,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Advanced Topic: Doctoral Colloquium", 
-    "sectionCode": 62039, 
+    "classNumber": 62039, 
     "section": "072-CLQ", 
     "instructor": "Katherine Isaacs", 
     "day": [
@@ -3813,7 +3813,7 @@ var data =
     "end": "11:30", 
     "location": "Douglass, Rm 216", 
     "title": "Topics in Computational Linguistics", 
-    "sectionCode": 65218, 
+    "classNumber": 65218, 
     "section": "001-SEM", 
     "instructor": "Sandiway Fong", 
     "day": [
@@ -3827,7 +3827,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 29545, 
+    "classNumber": 29545, 
     "section": "001-IND", 
     "instructor": "Staff", 
     "day": [
@@ -3841,7 +3841,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 54589, 
+    "classNumber": 54589, 
     "section": "065-IND", 
     "instructor": "Thienne Johnson", 
     "day": [
@@ -3855,7 +3855,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 61875, 
+    "classNumber": 61875, 
     "section": "068-IND", 
     "instructor": "Mihai Surdeanu", 
     "day": [
@@ -3869,7 +3869,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 56967, 
+    "classNumber": 56967, 
     "section": "069-IND", 
     "instructor": "Michelle Strout", 
     "day": [
@@ -3883,7 +3883,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Research", 
-    "sectionCode": 29562, 
+    "classNumber": 29562, 
     "section": "001-IND", 
     "instructor": "Staff", 
     "day": [
@@ -3897,7 +3897,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Research", 
-    "sectionCode": 66570, 
+    "classNumber": 66570, 
     "section": "067-IND", 
     "instructor": "Carlos Scheidegger", 
     "day": [
@@ -3911,7 +3911,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Research", 
-    "sectionCode": 61928, 
+    "classNumber": 61928, 
     "section": "071-IND", 
     "instructor": "Staff", 
     "day": [
@@ -3925,7 +3925,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Thesis", 
-    "sectionCode": 29579, 
+    "classNumber": 29579, 
     "section": "001-IND", 
     "instructor": "Staff", 
     "day": [
@@ -3939,7 +3939,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Thesis", 
-    "sectionCode": 29580, 
+    "classNumber": 29580, 
     "section": "010-IND", 
     "instructor": "Christian Collberg", 
     "day": [
@@ -3953,7 +3953,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Thesis", 
-    "sectionCode": 29581, 
+    "classNumber": 29581, 
     "section": "011-IND", 
     "instructor": "Saumya Debray", 
     "day": [
@@ -3967,7 +3967,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Thesis", 
-    "sectionCode": 29582, 
+    "classNumber": 29582, 
     "section": "012-IND", 
     "instructor": "Peter Downey", 
     "day": [
@@ -3981,7 +3981,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Thesis", 
-    "sectionCode": 29583, 
+    "classNumber": 29583, 
     "section": "015-IND", 
     "instructor": "John Hartman", 
     "day": [
@@ -3995,7 +3995,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Thesis", 
-    "sectionCode": 29584, 
+    "classNumber": 29584, 
     "section": "018-IND", 
     "instructor": "Bongki Moon", 
     "day": [
@@ -4009,7 +4009,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Thesis", 
-    "sectionCode": 29585, 
+    "classNumber": 29585, 
     "section": "023-IND", 
     "instructor": "Richard Snodgrass", 
     "day": [
@@ -4023,7 +4023,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Thesis", 
-    "sectionCode": 29586, 
+    "classNumber": 29586, 
     "section": "025-IND", 
     "instructor": "Gregory Andrews", 
     "day": [
@@ -4037,7 +4037,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Thesis", 
-    "sectionCode": 40195, 
+    "classNumber": 40195, 
     "section": "028-IND", 
     "instructor": "Denise Westbrook", 
     "day": [
@@ -4051,7 +4051,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Thesis", 
-    "sectionCode": 29587, 
+    "classNumber": 29587, 
     "section": "044-IND", 
     "instructor": "Alon Efrat", 
     "day": [
@@ -4065,7 +4065,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Thesis", 
-    "sectionCode": 29588, 
+    "classNumber": 29588, 
     "section": "045-IND", 
     "instructor": "John Kececioglu", 
     "day": [
@@ -4079,7 +4079,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Thesis", 
-    "sectionCode": 29589, 
+    "classNumber": 29589, 
     "section": "046-IND", 
     "instructor": "Stephen Kobourov", 
     "day": [
@@ -4093,7 +4093,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Thesis", 
-    "sectionCode": 29590, 
+    "classNumber": 29590, 
     "section": "051-IND", 
     "instructor": "Carol Soderlund", 
     "day": [
@@ -4107,7 +4107,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Thesis", 
-    "sectionCode": 29591, 
+    "classNumber": 29591, 
     "section": "052-IND", 
     "instructor": "Jacobus Barnard", 
     "day": [
@@ -4121,7 +4121,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Thesis", 
-    "sectionCode": 29592, 
+    "classNumber": 29592, 
     "section": "053-IND", 
     "instructor": "Sandiway Fong", 
     "day": [
@@ -4135,7 +4135,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Thesis", 
-    "sectionCode": 29593, 
+    "classNumber": 29593, 
     "section": "056-IND", 
     "instructor": "Hong Hua", 
     "day": [
@@ -4149,7 +4149,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Thesis", 
-    "sectionCode": 29594, 
+    "classNumber": 29594, 
     "section": "057-IND", 
     "instructor": "Christopher Gniady", 
     "day": [
@@ -4163,7 +4163,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Thesis", 
-    "sectionCode": 29595, 
+    "classNumber": 29595, 
     "section": "058-IND", 
     "instructor": "Beichuan Zhang", 
     "day": [
@@ -4177,7 +4177,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Thesis", 
-    "sectionCode": 42355, 
+    "classNumber": 42355, 
     "section": "059-IND", 
     "instructor": "Amar Gupta", 
     "day": [
@@ -4191,7 +4191,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Thesis", 
-    "sectionCode": 40196, 
+    "classNumber": 40196, 
     "section": "060-IND", 
     "instructor": "Paul Cohen", 
     "day": [
@@ -4205,7 +4205,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Thesis", 
-    "sectionCode": 40197, 
+    "classNumber": 40197, 
     "section": "061-IND", 
     "instructor": "Clayton Morrison", 
     "day": [
@@ -4219,7 +4219,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Thesis", 
-    "sectionCode": 40198, 
+    "classNumber": 40198, 
     "section": "062-IND", 
     "instructor": "David Lowenthal", 
     "day": [
@@ -4233,7 +4233,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Thesis", 
-    "sectionCode": 42356, 
+    "classNumber": 42356, 
     "section": "063-IND", 
     "instructor": "Carole Beal", 
     "day": [
@@ -4247,7 +4247,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Thesis", 
-    "sectionCode": 40830, 
+    "classNumber": 40830, 
     "section": "064-IND", 
     "instructor": "Ian Fasel", 
     "day": [
@@ -4261,7 +4261,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Thesis", 
-    "sectionCode": 60144, 
+    "classNumber": 60144, 
     "section": "068-IND", 
     "instructor": "Mihai Surdeanu", 
     "day": [
@@ -4275,7 +4275,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Thesis", 
-    "sectionCode": 61913, 
+    "classNumber": 61913, 
     "section": "069-IND", 
     "instructor": "Michelle Strout", 
     "day": [
@@ -4289,7 +4289,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Thesis", 
-    "sectionCode": 61362, 
+    "classNumber": 61362, 
     "section": "071-IND", 
     "instructor": "Katherine Isaacs", 
     "day": [
@@ -4303,7 +4303,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Dissertation", 
-    "sectionCode": 29596, 
+    "classNumber": 29596, 
     "section": "001-IND", 
     "instructor": "Staff", 
     "day": [
@@ -4317,7 +4317,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Dissertation", 
-    "sectionCode": 29597, 
+    "classNumber": 29597, 
     "section": "010-IND", 
     "instructor": "Christian Collberg", 
     "day": [
@@ -4331,7 +4331,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Dissertation", 
-    "sectionCode": 29598, 
+    "classNumber": 29598, 
     "section": "011-IND", 
     "instructor": "Saumya Debray", 
     "day": [
@@ -4345,7 +4345,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Dissertation", 
-    "sectionCode": 29599, 
+    "classNumber": 29599, 
     "section": "012-IND", 
     "instructor": "Peter Downey", 
     "day": [
@@ -4359,7 +4359,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Dissertation", 
-    "sectionCode": 29600, 
+    "classNumber": 29600, 
     "section": "015-IND", 
     "instructor": "John Hartman", 
     "day": [
@@ -4373,7 +4373,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Dissertation", 
-    "sectionCode": 29601, 
+    "classNumber": 29601, 
     "section": "018-IND", 
     "instructor": "Bongki Moon", 
     "day": [
@@ -4387,7 +4387,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Dissertation", 
-    "sectionCode": 29602, 
+    "classNumber": 29602, 
     "section": "023-IND", 
     "instructor": "Richard Snodgrass", 
     "day": [
@@ -4401,7 +4401,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Dissertation", 
-    "sectionCode": 29603, 
+    "classNumber": 29603, 
     "section": "025-IND", 
     "instructor": "Gregory Andrews", 
     "day": [
@@ -4415,7 +4415,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Dissertation", 
-    "sectionCode": 40199, 
+    "classNumber": 40199, 
     "section": "028-IND", 
     "instructor": "Denise Westbrook", 
     "day": [
@@ -4429,7 +4429,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Dissertation", 
-    "sectionCode": 29604, 
+    "classNumber": 29604, 
     "section": "044-IND", 
     "instructor": "Alon Efrat", 
     "day": [
@@ -4443,7 +4443,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Dissertation", 
-    "sectionCode": 29605, 
+    "classNumber": 29605, 
     "section": "045-IND", 
     "instructor": "John Kececioglu", 
     "day": [
@@ -4457,7 +4457,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Dissertation", 
-    "sectionCode": 29606, 
+    "classNumber": 29606, 
     "section": "046-IND", 
     "instructor": "Stephen Kobourov", 
     "day": [
@@ -4471,7 +4471,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Dissertation", 
-    "sectionCode": 29607, 
+    "classNumber": 29607, 
     "section": "051-IND", 
     "instructor": "Carol Soderlund", 
     "day": [
@@ -4485,7 +4485,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Dissertation", 
-    "sectionCode": 29608, 
+    "classNumber": 29608, 
     "section": "052-IND", 
     "instructor": "Jacobus Barnard", 
     "day": [
@@ -4499,7 +4499,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Dissertation", 
-    "sectionCode": 29609, 
+    "classNumber": 29609, 
     "section": "053-IND", 
     "instructor": "Sandiway Fong", 
     "day": [
@@ -4513,7 +4513,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Dissertation", 
-    "sectionCode": 29610, 
+    "classNumber": 29610, 
     "section": "056-IND", 
     "instructor": "Hong Hua", 
     "day": [
@@ -4527,7 +4527,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Dissertation", 
-    "sectionCode": 29611, 
+    "classNumber": 29611, 
     "section": "057-IND", 
     "instructor": "Christopher Gniady", 
     "day": [
@@ -4541,7 +4541,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Dissertation", 
-    "sectionCode": 29612, 
+    "classNumber": 29612, 
     "section": "058-IND", 
     "instructor": "Beichuan Zhang", 
     "day": [
@@ -4555,7 +4555,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Dissertation", 
-    "sectionCode": 42393, 
+    "classNumber": 42393, 
     "section": "059-IND", 
     "instructor": "Amar Gupta", 
     "day": [
@@ -4569,7 +4569,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Dissertation", 
-    "sectionCode": 29613, 
+    "classNumber": 29613, 
     "section": "060-IND", 
     "instructor": "Paul Cohen", 
     "day": [
@@ -4583,7 +4583,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Dissertation", 
-    "sectionCode": 40200, 
+    "classNumber": 40200, 
     "section": "061-IND", 
     "instructor": "Clayton Morrison", 
     "day": [
@@ -4597,7 +4597,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Dissertation", 
-    "sectionCode": 40201, 
+    "classNumber": 40201, 
     "section": "062-IND", 
     "instructor": "David Lowenthal", 
     "day": [
@@ -4611,7 +4611,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Dissertation", 
-    "sectionCode": 42394, 
+    "classNumber": 42394, 
     "section": "063-IND", 
     "instructor": "Carole Beal", 
     "day": [
@@ -4625,7 +4625,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Dissertation", 
-    "sectionCode": 40831, 
+    "classNumber": 40831, 
     "section": "064-IND", 
     "instructor": "Ian Fasel", 
     "day": [
@@ -4639,7 +4639,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Dissertation", 
-    "sectionCode": 57267, 
+    "classNumber": 57267, 
     "section": "068-IND", 
     "instructor": "Mihai Surdeanu", 
     "day": [
@@ -4653,7 +4653,7 @@ var data =
     "end": "10:45", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 55313, 
+    "classNumber": 55313, 
     "section": "001-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -4668,7 +4668,7 @@ var data =
     "end": "10:45", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 55314, 
+    "classNumber": 55314, 
     "section": "002-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -4683,7 +4683,7 @@ var data =
     "end": "10:45", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 55316, 
+    "classNumber": 55316, 
     "section": "003-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -4698,7 +4698,7 @@ var data =
     "end": "10:45", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 55317, 
+    "classNumber": 55317, 
     "section": "004-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -4713,7 +4713,7 @@ var data =
     "end": "12:15", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 55319, 
+    "classNumber": 55319, 
     "section": "005-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -4728,7 +4728,7 @@ var data =
     "end": "12:15", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 55320, 
+    "classNumber": 55320, 
     "section": "006-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -4743,7 +4743,7 @@ var data =
     "end": "12:15", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 55321, 
+    "classNumber": 55321, 
     "section": "007-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -4758,7 +4758,7 @@ var data =
     "end": "12:15", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 55322, 
+    "classNumber": 55322, 
     "section": "008-LAB", 
     "instructor": "Mark Barnard", 
     "day": [
@@ -4773,7 +4773,7 @@ var data =
     "end": "13:45", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 55323, 
+    "classNumber": 55323, 
     "section": "009-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -4788,7 +4788,7 @@ var data =
     "end": "13:45", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 55324, 
+    "classNumber": 55324, 
     "section": "010-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -4803,7 +4803,7 @@ var data =
     "end": "13:45", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 55325, 
+    "classNumber": 55325, 
     "section": "011-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -4818,7 +4818,7 @@ var data =
     "end": "13:45", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 55328, 
+    "classNumber": 55328, 
     "section": "012-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -4833,7 +4833,7 @@ var data =
     "end": "15:15", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 55329, 
+    "classNumber": 55329, 
     "section": "013-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -4848,7 +4848,7 @@ var data =
     "end": "15:15", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 55330, 
+    "classNumber": 55330, 
     "section": "014-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -4863,7 +4863,7 @@ var data =
     "end": "15:15", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 55331, 
+    "classNumber": 55331, 
     "section": "015-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -4878,7 +4878,7 @@ var data =
     "end": "15:15", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 55332, 
+    "classNumber": 55332, 
     "section": "016-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -4893,7 +4893,7 @@ var data =
     "end": "15:15", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 55333, 
+    "classNumber": 55333, 
     "section": "017-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -4908,7 +4908,7 @@ var data =
     "end": "16:45", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 55334, 
+    "classNumber": 55334, 
     "section": "018-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -4923,7 +4923,7 @@ var data =
     "end": "16:45", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 55335, 
+    "classNumber": 55335, 
     "section": "019-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -4938,7 +4938,7 @@ var data =
     "end": "16:45", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 55336, 
+    "classNumber": 55336, 
     "section": "020-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -4953,7 +4953,7 @@ var data =
     "end": "16:45", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 55337, 
+    "classNumber": 55337, 
     "section": "021-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -4968,7 +4968,7 @@ var data =
     "end": "16:45", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 55338, 
+    "classNumber": 55338, 
     "section": "022-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -4983,7 +4983,7 @@ var data =
     "end": "18:15", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 55339, 
+    "classNumber": 55339, 
     "section": "023-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -4998,7 +4998,7 @@ var data =
     "end": "18:15", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 55340, 
+    "classNumber": 55340, 
     "section": "024-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -5013,7 +5013,7 @@ var data =
     "end": "18:15", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 55341, 
+    "classNumber": 55341, 
     "section": "025-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -5028,7 +5028,7 @@ var data =
     "end": "18:15", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 55342, 
+    "classNumber": 55342, 
     "section": "026-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -5043,7 +5043,7 @@ var data =
     "end": "18:15", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 55343, 
+    "classNumber": 55343, 
     "section": "027-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -5058,7 +5058,7 @@ var data =
     "end": "10:45", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 55344, 
+    "classNumber": 55344, 
     "section": "028-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -5073,7 +5073,7 @@ var data =
     "end": "10:45", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 55345, 
+    "classNumber": 55345, 
     "section": "029-LAB", 
     "instructor": "Bradford Hamrick,", 
     "day": [
@@ -5088,7 +5088,7 @@ var data =
     "end": "10:45", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 55346, 
+    "classNumber": 55346, 
     "section": "030-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -5103,7 +5103,7 @@ var data =
     "end": "10:45", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 55347, 
+    "classNumber": 55347, 
     "section": "031-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -5118,7 +5118,7 @@ var data =
     "end": "12:15", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 55348, 
+    "classNumber": 55348, 
     "section": "032-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -5133,7 +5133,7 @@ var data =
     "end": "12:15", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 55349, 
+    "classNumber": 55349, 
     "section": "033-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -5148,7 +5148,7 @@ var data =
     "end": "12:15", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 55350, 
+    "classNumber": 55350, 
     "section": "034-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -5163,7 +5163,7 @@ var data =
     "end": "12:15", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 55351, 
+    "classNumber": 55351, 
     "section": "035-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -5178,7 +5178,7 @@ var data =
     "end": "13:45", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 55352, 
+    "classNumber": 55352, 
     "section": "036-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -5193,7 +5193,7 @@ var data =
     "end": "13:45", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 55860, 
+    "classNumber": 55860, 
     "section": "037-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -5208,7 +5208,7 @@ var data =
     "end": "13:45", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 55861, 
+    "classNumber": 55861, 
     "section": "038-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -5223,7 +5223,7 @@ var data =
     "end": "13:45", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 55862, 
+    "classNumber": 55862, 
     "section": "039-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -5238,7 +5238,7 @@ var data =
     "end": "15:15", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 55863, 
+    "classNumber": 55863, 
     "section": "040-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -5253,7 +5253,7 @@ var data =
     "end": "15:15", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 55864, 
+    "classNumber": 55864, 
     "section": "041-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -5268,7 +5268,7 @@ var data =
     "end": "15:15", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 55865, 
+    "classNumber": 55865, 
     "section": "042-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -5283,7 +5283,7 @@ var data =
     "end": "15:15", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 55866, 
+    "classNumber": 55866, 
     "section": "043-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -5298,7 +5298,7 @@ var data =
     "end": "15:15", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 55867, 
+    "classNumber": 55867, 
     "section": "044-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -5313,7 +5313,7 @@ var data =
     "end": "16:45", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 55868, 
+    "classNumber": 55868, 
     "section": "045-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -5328,7 +5328,7 @@ var data =
     "end": "16:45", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 55869, 
+    "classNumber": 55869, 
     "section": "046-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -5343,7 +5343,7 @@ var data =
     "end": "16:45", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 55870, 
+    "classNumber": 55870, 
     "section": "047-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -5358,7 +5358,7 @@ var data =
     "end": "16:45", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 55871, 
+    "classNumber": 55871, 
     "section": "048-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -5373,7 +5373,7 @@ var data =
     "end": "16:45", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 55872, 
+    "classNumber": 55872, 
     "section": "049-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -5388,7 +5388,7 @@ var data =
     "end": "18:15", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 55873, 
+    "classNumber": 55873, 
     "section": "050-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -5403,7 +5403,7 @@ var data =
     "end": "18:15", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 55874, 
+    "classNumber": 55874, 
     "section": "051-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -5418,7 +5418,7 @@ var data =
     "end": "18:15", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 55875, 
+    "classNumber": 55875, 
     "section": "052-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -5433,7 +5433,7 @@ var data =
     "end": "18:15", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 55876, 
+    "classNumber": 55876, 
     "section": "053-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -5448,7 +5448,7 @@ var data =
     "end": "18:15", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 55877, 
+    "classNumber": 55877, 
     "section": "054-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -5463,7 +5463,7 @@ var data =
     "end": "18:15", 
     "location": "R P Harvill Bldg, Rm 134", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 55878, 
+    "classNumber": 55878, 
     "section": "055-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -5478,7 +5478,7 @@ var data =
     "end": "18:15", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 55879, 
+    "classNumber": 55879, 
     "section": "056-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -5493,7 +5493,7 @@ var data =
     "end": "10:45", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 66389, 
+    "classNumber": 66389, 
     "section": "057-LAB", 
     "instructor": "Mark Barnard,", 
     "day": [
@@ -5508,7 +5508,7 @@ var data =
     "end": "10:45", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 66390, 
+    "classNumber": 66390, 
     "section": "058-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -5523,7 +5523,7 @@ var data =
     "end": "10:45", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 66392, 
+    "classNumber": 66392, 
     "section": "059-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -5538,7 +5538,7 @@ var data =
     "end": "12:15", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 66393, 
+    "classNumber": 66393, 
     "section": "060-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -5553,7 +5553,7 @@ var data =
     "end": "12:15", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 66394, 
+    "classNumber": 66394, 
     "section": "061-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -5568,7 +5568,7 @@ var data =
     "end": "12:15", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 66395, 
+    "classNumber": 66395, 
     "section": "062-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -5583,7 +5583,7 @@ var data =
     "end": "13:45", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 66405, 
+    "classNumber": 66405, 
     "section": "063-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -5598,7 +5598,7 @@ var data =
     "end": "13:45", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 66406, 
+    "classNumber": 66406, 
     "section": "064-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -5613,7 +5613,7 @@ var data =
     "end": "13:45", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 66408, 
+    "classNumber": 66408, 
     "section": "065-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -5628,7 +5628,7 @@ var data =
     "end": "15:15", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 66409, 
+    "classNumber": 66409, 
     "section": "066-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -5643,7 +5643,7 @@ var data =
     "end": "15:15", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 66410, 
+    "classNumber": 66410, 
     "section": "067-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -5658,7 +5658,7 @@ var data =
     "end": "15:15", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 66411, 
+    "classNumber": 66411, 
     "section": "068-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -5673,7 +5673,7 @@ var data =
     "end": "16:45", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 66412, 
+    "classNumber": 66412, 
     "section": "069-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -5688,7 +5688,7 @@ var data =
     "end": "16:45", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 66413, 
+    "classNumber": 66413, 
     "section": "070-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -5703,7 +5703,7 @@ var data =
     "end": "16:45", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 66414, 
+    "classNumber": 66414, 
     "section": "071-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -5718,7 +5718,7 @@ var data =
     "end": "18:15", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 66415, 
+    "classNumber": 66415, 
     "section": "072-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -5733,7 +5733,7 @@ var data =
     "end": "18:15", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 66416, 
+    "classNumber": 66416, 
     "section": "073-LAB", 
     "instructor": "Bradford Hamrick,", 
     "day": [
@@ -5748,7 +5748,7 @@ var data =
     "end": "18:00", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 66417, 
+    "classNumber": 66417, 
     "section": "074-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -5763,7 +5763,7 @@ var data =
     "end": "10:45", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 66418, 
+    "classNumber": 66418, 
     "section": "075-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -5778,7 +5778,7 @@ var data =
     "end": "10:45", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 66420, 
+    "classNumber": 66420, 
     "section": "076-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -5793,7 +5793,7 @@ var data =
     "end": "10:45", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 66422, 
+    "classNumber": 66422, 
     "section": "077-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -5808,7 +5808,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 55929, 
+    "classNumber": 55929, 
     "section": "101-LAB", 
     "instructor": "Mark Barnard,", 
     "day": [
@@ -5822,7 +5822,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Preparation for University-level Mathematics", 
-    "sectionCode": 55930, 
+    "classNumber": 55930, 
     "section": "102-LAB", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -5836,7 +5836,7 @@ var data =
     "end": "10:45", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics Part 1", 
-    "sectionCode": 56030, 
+    "classNumber": 56030, 
     "section": "401-DIS", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -5851,7 +5851,7 @@ var data =
     "end": "10:45", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics Part 1", 
-    "sectionCode": 56031, 
+    "classNumber": 56031, 
     "section": "402-DIS", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -5866,7 +5866,7 @@ var data =
     "end": "12:15", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics Part 1", 
-    "sectionCode": 56032, 
+    "classNumber": 56032, 
     "section": "403-DIS", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -5881,7 +5881,7 @@ var data =
     "end": "12:15", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics Part 1", 
-    "sectionCode": 56033, 
+    "classNumber": 56033, 
     "section": "404-DIS", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -5896,7 +5896,7 @@ var data =
     "end": "13:45", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics Part 1", 
-    "sectionCode": 56034, 
+    "classNumber": 56034, 
     "section": "405-DIS", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -5911,7 +5911,7 @@ var data =
     "end": "13:45", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics Part 1", 
-    "sectionCode": 56035, 
+    "classNumber": 56035, 
     "section": "406-DIS", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -5926,7 +5926,7 @@ var data =
     "end": "13:45", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics Part 1", 
-    "sectionCode": 56036, 
+    "classNumber": 56036, 
     "section": "407-DIS", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -5941,7 +5941,7 @@ var data =
     "end": "15:15", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics Part 1", 
-    "sectionCode": 56037, 
+    "classNumber": 56037, 
     "section": "408-DIS", 
     "instructor": "Bradford Hamrick,", 
     "day": [
@@ -5956,7 +5956,7 @@ var data =
     "end": "15:15", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics Part 1", 
-    "sectionCode": 56038, 
+    "classNumber": 56038, 
     "section": "409-DIS", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -5971,7 +5971,7 @@ var data =
     "end": "15:15", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics Part 1", 
-    "sectionCode": 56039, 
+    "classNumber": 56039, 
     "section": "410-DIS", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -5986,7 +5986,7 @@ var data =
     "end": "16:45", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics Part 1", 
-    "sectionCode": 56040, 
+    "classNumber": 56040, 
     "section": "411-DIS", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -6001,7 +6001,7 @@ var data =
     "end": "16:45", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics Part 1", 
-    "sectionCode": 56041, 
+    "classNumber": 56041, 
     "section": "412-DIS", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -6016,7 +6016,7 @@ var data =
     "end": "16:45", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics Part 1", 
-    "sectionCode": 56042, 
+    "classNumber": 56042, 
     "section": "413-DIS", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -6031,7 +6031,7 @@ var data =
     "end": "18:15", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics Part 1", 
-    "sectionCode": 56043, 
+    "classNumber": 56043, 
     "section": "414-DIS", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -6046,7 +6046,7 @@ var data =
     "end": "18:15", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics Part 1", 
-    "sectionCode": 56044, 
+    "classNumber": 56044, 
     "section": "415-DIS", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -6061,7 +6061,7 @@ var data =
     "end": "18:15", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics Part 1", 
-    "sectionCode": 56045, 
+    "classNumber": 56045, 
     "section": "416-DIS", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -6076,7 +6076,7 @@ var data =
     "end": "10:45", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics Part 1", 
-    "sectionCode": 56046, 
+    "classNumber": 56046, 
     "section": "417-DIS", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -6091,7 +6091,7 @@ var data =
     "end": "10:45", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics Part 1", 
-    "sectionCode": 56047, 
+    "classNumber": 56047, 
     "section": "418-DIS", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -6106,7 +6106,7 @@ var data =
     "end": "12:15", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics Part 1", 
-    "sectionCode": 56048, 
+    "classNumber": 56048, 
     "section": "419-DIS", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -6121,7 +6121,7 @@ var data =
     "end": "12:15", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics Part 1", 
-    "sectionCode": 56049, 
+    "classNumber": 56049, 
     "section": "420-DIS", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -6136,7 +6136,7 @@ var data =
     "end": "13:45", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics Part 1", 
-    "sectionCode": 56050, 
+    "classNumber": 56050, 
     "section": "421-DIS", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -6151,7 +6151,7 @@ var data =
     "end": "13:45", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics Part 1", 
-    "sectionCode": 56051, 
+    "classNumber": 56051, 
     "section": "422-DIS", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -6166,7 +6166,7 @@ var data =
     "end": "13:45", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics Part 1", 
-    "sectionCode": 56052, 
+    "classNumber": 56052, 
     "section": "423-DIS", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -6181,7 +6181,7 @@ var data =
     "end": "15:15", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics Part 1", 
-    "sectionCode": 56053, 
+    "classNumber": 56053, 
     "section": "424-DIS", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -6196,7 +6196,7 @@ var data =
     "end": "15:15", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics Part 1", 
-    "sectionCode": 56054, 
+    "classNumber": 56054, 
     "section": "425-DIS", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -6211,7 +6211,7 @@ var data =
     "end": "15:15", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics Part 1", 
-    "sectionCode": 56055, 
+    "classNumber": 56055, 
     "section": "426-DIS", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -6226,7 +6226,7 @@ var data =
     "end": "16:45", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics Part 1", 
-    "sectionCode": 56056, 
+    "classNumber": 56056, 
     "section": "427-DIS", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -6241,7 +6241,7 @@ var data =
     "end": "16:45", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics Part 1", 
-    "sectionCode": 56057, 
+    "classNumber": 56057, 
     "section": "428-DIS", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -6256,7 +6256,7 @@ var data =
     "end": "16:45", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics Part 1", 
-    "sectionCode": 56058, 
+    "classNumber": 56058, 
     "section": "429-DIS", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -6271,7 +6271,7 @@ var data =
     "end": "10:45", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics Part 1", 
-    "sectionCode": 56059, 
+    "classNumber": 56059, 
     "section": "430-DIS", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -6286,7 +6286,7 @@ var data =
     "end": "12:15", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics Part 1", 
-    "sectionCode": 56060, 
+    "classNumber": 56060, 
     "section": "431-DIS", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -6301,7 +6301,7 @@ var data =
     "end": "10:45", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics Part 1", 
-    "sectionCode": 56061, 
+    "classNumber": 56061, 
     "section": "432-DIS", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -6316,7 +6316,7 @@ var data =
     "end": "18:15", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics Part 1", 
-    "sectionCode": 56062, 
+    "classNumber": 56062, 
     "section": "433-DIS", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -6331,7 +6331,7 @@ var data =
     "end": "18:15", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics Part 1", 
-    "sectionCode": 56063, 
+    "classNumber": 56063, 
     "section": "434-DIS", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -6346,7 +6346,7 @@ var data =
     "end": "18:15", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics Part 1", 
-    "sectionCode": 56064, 
+    "classNumber": 56064, 
     "section": "435-DIS", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -6361,7 +6361,7 @@ var data =
     "end": "12:15", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics Part 1", 
-    "sectionCode": 56065, 
+    "classNumber": 56065, 
     "section": "436-DIS", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -6376,7 +6376,7 @@ var data =
     "end": "18:15", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics Part 1", 
-    "sectionCode": 56066, 
+    "classNumber": 56066, 
     "section": "437-DIS", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -6391,7 +6391,7 @@ var data =
     "end": "18:15", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics Part 1", 
-    "sectionCode": 56067, 
+    "classNumber": 56067, 
     "section": "438-DIS", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -6406,7 +6406,7 @@ var data =
     "end": "18:15", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics Part 1", 
-    "sectionCode": 56068, 
+    "classNumber": 56068, 
     "section": "439-DIS", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -6421,7 +6421,7 @@ var data =
     "end": "18:15", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics Part 1", 
-    "sectionCode": 56069, 
+    "classNumber": 56069, 
     "section": "440-DIS", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -6436,7 +6436,7 @@ var data =
     "end": "18:15", 
     "location": "Online", 
     "title": "Preparation for University-level Mathematics Part 1", 
-    "sectionCode": 66028, 
+    "classNumber": 66028, 
     "section": "442-DIS", 
     "instructor": "Mark Barnard", 
     "day": [
@@ -6451,7 +6451,7 @@ var data =
     "end": "8:50", 
     "location": "Ctr for ESL, Rm 103", 
     "title": "Mathematics in Modern Society", 
-    "sectionCode": 34024, 
+    "classNumber": 34024, 
     "section": "001-LEC", 
     "instructor": "Debra Wood", 
     "day": [
@@ -6467,7 +6467,7 @@ var data =
     "end": "13:45", 
     "location": "M Pacheco ILC, Rm 141", 
     "title": "Exploring and Understanding Data", 
-    "sectionCode": 65888, 
+    "classNumber": 65888, 
     "section": "001-LEC", 
     "instructor": "Andrew Gillette,", 
     "day": [
@@ -6482,7 +6482,7 @@ var data =
     "end": "8:50", 
     "location": "C E Chavez Bldg, Rm 103", 
     "title": "Applied College Algebra with Data Analysis", 
-    "sectionCode": 40809, 
+    "classNumber": 40809, 
     "section": "001-LEC", 
     "instructor": "Michael Rossetti", 
     "day": [
@@ -6498,7 +6498,7 @@ var data =
     "end": "9:50", 
     "location": "Engineering, Rm 308", 
     "title": "Applied College Algebra with Data Analysis", 
-    "sectionCode": 54927, 
+    "classNumber": 54927, 
     "section": "002-LEC", 
     "instructor": "Michael Rossetti", 
     "day": [
@@ -6514,7 +6514,7 @@ var data =
     "end": "13:50", 
     "location": "Psychology, Rm 305", 
     "title": "Applied College Algebra with Data Analysis", 
-    "sectionCode": 40810, 
+    "classNumber": 40810, 
     "section": "003-LEC", 
     "instructor": "Antonio Rubio", 
     "day": [
@@ -6530,7 +6530,7 @@ var data =
     "end": "14:50", 
     "location": "Engineering, Rm 308", 
     "title": "Applied College Algebra with Data Analysis", 
-    "sectionCode": 40811, 
+    "classNumber": 40811, 
     "section": "004-LEC", 
     "instructor": "Antonio Rubio", 
     "day": [
@@ -6546,7 +6546,7 @@ var data =
     "end": "19:30", 
     "location": "TBA", 
     "title": "Applied College Algebra with Data Analysis", 
-    "sectionCode": 46841, 
+    "classNumber": 46841, 
     "section": "005-LEC", 
     "instructor": "C E Chavez Bldg, Rm 301", 
     "day": [
@@ -6560,7 +6560,7 @@ var data =
     "end": "10:50", 
     "location": "Elec & Comp Engr, Rm 102", 
     "title": "Plane Trigonometry", 
-    "sectionCode": 34025, 
+    "classNumber": 34025, 
     "section": "001-LEC", 
     "instructor": "Michael Rossetti", 
     "day": [
@@ -6575,7 +6575,7 @@ var data =
     "end": "14:50", 
     "location": "Psychology, Rm 305", 
     "title": "Plane Trigonometry", 
-    "sectionCode": 34027, 
+    "classNumber": 34027, 
     "section": "003-LEC", 
     "instructor": "Stephen Reyes", 
     "day": [
@@ -6590,7 +6590,7 @@ var data =
     "end": "14:50", 
     "location": "Psychology, Rm 207", 
     "title": "Plane Trigonometry", 
-    "sectionCode": 34028, 
+    "classNumber": 34028, 
     "section": "004-LEC", 
     "instructor": "Staff", 
     "day": [
@@ -6605,7 +6605,7 @@ var data =
     "end": "11:50", 
     "location": "Psychology, Rm 305", 
     "title": "Plane Trigonometry", 
-    "sectionCode": 48411, 
+    "classNumber": 48411, 
     "section": "008-LEC", 
     "instructor": "Stephen Reyes", 
     "day": [
@@ -6620,7 +6620,7 @@ var data =
     "end": "12:50", 
     "location": "Psychology, Rm 205", 
     "title": "Plane Trigonometry", 
-    "sectionCode": 48480, 
+    "classNumber": 48480, 
     "section": "009-LEC", 
     "instructor": "Staff", 
     "day": [
@@ -6635,7 +6635,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "College Algebra Concepts and Applications", 
-    "sectionCode": 34030, 
+    "classNumber": 34030, 
     "section": "001-LEC", 
     "instructor": "Staff", 
     "day": [
@@ -6649,7 +6649,7 @@ var data =
     "end": "8:50", 
     "location": "TBA", 
     "title": "College Algebra Concepts and Applications", 
-    "sectionCode": 54928, 
+    "classNumber": 54928, 
     "section": "002-LEC", 
     "instructor": "R P Harvill Bldg, Rm 332B", 
     "day": [
@@ -6664,7 +6664,7 @@ var data =
     "end": "8:50", 
     "location": "TBA", 
     "title": "College Algebra Concepts and Applications", 
-    "sectionCode": 34031, 
+    "classNumber": 34031, 
     "section": "003-LEC", 
     "instructor": "R P Harvill Bldg, Rm 319", 
     "day": [
@@ -6679,7 +6679,7 @@ var data =
     "end": "9:50", 
     "location": "TBA", 
     "title": "College Algebra Concepts and Applications", 
-    "sectionCode": 34032, 
+    "classNumber": 34032, 
     "section": "004-LEC", 
     "instructor": "Phys-Atmos Sci, Rm 304", 
     "day": [
@@ -6694,7 +6694,7 @@ var data =
     "end": "9:50", 
     "location": "TBA", 
     "title": "College Algebra Concepts and Applications", 
-    "sectionCode": 54930, 
+    "classNumber": 54930, 
     "section": "005-LEC", 
     "instructor": "Education, Rm 308", 
     "day": [
@@ -6709,7 +6709,7 @@ var data =
     "end": "10:50", 
     "location": "TBA", 
     "title": "College Algebra Concepts and Applications", 
-    "sectionCode": 34033, 
+    "classNumber": 34033, 
     "section": "006-LEC", 
     "instructor": "C E Chavez Bldg, Rm 303", 
     "day": [
@@ -6724,7 +6724,7 @@ var data =
     "end": "10:50", 
     "location": "TBA", 
     "title": "College Algebra Concepts and Applications", 
-    "sectionCode": 34034, 
+    "classNumber": 34034, 
     "section": "007-LEC", 
     "instructor": "Psychology, Rm 204", 
     "day": [
@@ -6739,7 +6739,7 @@ var data =
     "end": "10:50", 
     "location": "TBA", 
     "title": "College Algebra Concepts and Applications", 
-    "sectionCode": 34035, 
+    "classNumber": 34035, 
     "section": "008-LEC", 
     "instructor": "R P Harvill Bldg, Rm 316", 
     "day": [
@@ -6754,7 +6754,7 @@ var data =
     "end": "12:50", 
     "location": "TBA", 
     "title": "College Algebra Concepts and Applications", 
-    "sectionCode": 34036, 
+    "classNumber": 34036, 
     "section": "009-LEC", 
     "instructor": "Biol Sci West, Rm 219", 
     "day": [
@@ -6769,7 +6769,7 @@ var data =
     "end": "14:50", 
     "location": "TBA", 
     "title": "College Algebra Concepts and Applications", 
-    "sectionCode": 34037, 
+    "classNumber": 34037, 
     "section": "010-LEC", 
     "instructor": "C E Chavez Bldg, Rm 103", 
     "day": [
@@ -6784,7 +6784,7 @@ var data =
     "end": "12:50", 
     "location": "R P Harvill Bldg, Rm 404", 
     "title": "College Algebra Concepts and Applications", 
-    "sectionCode": 34038, 
+    "classNumber": 34038, 
     "section": "011-LEC", 
     "instructor": "Staff", 
     "day": [
@@ -6800,7 +6800,7 @@ var data =
     "end": "13:50", 
     "location": "TBA", 
     "title": "College Algebra Concepts and Applications", 
-    "sectionCode": 34039, 
+    "classNumber": 34039, 
     "section": "012-LEC", 
     "instructor": "Biol Sci West, Rm 237", 
     "day": [
@@ -6815,7 +6815,7 @@ var data =
     "end": "15:50", 
     "location": "TBA", 
     "title": "College Algebra Concepts and Applications", 
-    "sectionCode": 34040, 
+    "classNumber": 34040, 
     "section": "013-LEC", 
     "instructor": "C E Chavez Bldg, Rm 109", 
     "day": [
@@ -6830,7 +6830,7 @@ var data =
     "end": "13:20", 
     "location": "TBA", 
     "title": "College Algebra Concepts and Applications", 
-    "sectionCode": 34041, 
+    "classNumber": 34041, 
     "section": "014-LEC", 
     "instructor": "Shantz, Rm 242E", 
     "day": [
@@ -6845,7 +6845,7 @@ var data =
     "end": "15:50", 
     "location": "TBA", 
     "title": "College Algebra Concepts and Applications", 
-    "sectionCode": 34042, 
+    "classNumber": 34042, 
     "section": "015-LEC", 
     "instructor": "C E Chavez Bldg, Rm 105", 
     "day": [
@@ -6860,7 +6860,7 @@ var data =
     "end": "8:50", 
     "location": "TBA", 
     "title": "College Algebra Concepts and Applications", 
-    "sectionCode": 34043, 
+    "classNumber": 34043, 
     "section": "016-LEC", 
     "instructor": "Engineering, Rm 308", 
     "day": [
@@ -6875,7 +6875,7 @@ var data =
     "end": "16:20", 
     "location": "TBA", 
     "title": "College Algebra Concepts and Applications", 
-    "sectionCode": 34044, 
+    "classNumber": 34044, 
     "section": "017-LEC", 
     "instructor": "R P Harvill Bldg, Rm 332B", 
     "day": [
@@ -6890,7 +6890,7 @@ var data =
     "end": "8:50", 
     "location": "TBA", 
     "title": "College Algebra Concepts and Applications", 
-    "sectionCode": 45980, 
+    "classNumber": 45980, 
     "section": "018-LEC", 
     "instructor": "Education, Rm 333", 
     "day": [
@@ -6905,7 +6905,7 @@ var data =
     "end": "8:50", 
     "location": "TBA", 
     "title": "College Algebra Concepts and Applications", 
-    "sectionCode": 45981, 
+    "classNumber": 45981, 
     "section": "019-LEC", 
     "instructor": "C E Chavez Bldg, Rm 308", 
     "day": [
@@ -6920,7 +6920,7 @@ var data =
     "end": "8:50", 
     "location": "TBA", 
     "title": "College Algebra Concepts and Applications", 
-    "sectionCode": 34045, 
+    "classNumber": 34045, 
     "section": "020-LEC", 
     "instructor": "C E Chavez Bldg, Rm 109", 
     "day": [
@@ -6935,7 +6935,7 @@ var data =
     "end": "9:50", 
     "location": "TBA", 
     "title": "College Algebra Concepts and Applications", 
-    "sectionCode": 34046, 
+    "classNumber": 34046, 
     "section": "022-LEC", 
     "instructor": "C E Chavez Bldg, Rm 316", 
     "day": [
@@ -6950,7 +6950,7 @@ var data =
     "end": "9:50", 
     "location": "TBA", 
     "title": "College Algebra Concepts and Applications", 
-    "sectionCode": 34047, 
+    "classNumber": 34047, 
     "section": "023-LEC", 
     "instructor": "C E Chavez Bldg, Rm 304", 
     "day": [
@@ -6965,7 +6965,7 @@ var data =
     "end": "10:50", 
     "location": "TBA", 
     "title": "College Algebra Concepts and Applications", 
-    "sectionCode": 34048, 
+    "classNumber": 34048, 
     "section": "024-LEC", 
     "instructor": "Civil Engineering, Rm 201", 
     "day": [
@@ -6980,7 +6980,7 @@ var data =
     "end": "10:50", 
     "location": "TBA", 
     "title": "College Algebra Concepts and Applications", 
-    "sectionCode": 34050, 
+    "classNumber": 34050, 
     "section": "026-LEC", 
     "instructor": "Psychology, Rm 307", 
     "day": [
@@ -6995,7 +6995,7 @@ var data =
     "end": "11:50", 
     "location": "TBA", 
     "title": "College Algebra Concepts and Applications", 
-    "sectionCode": 34051, 
+    "classNumber": 34051, 
     "section": "027-LEC", 
     "instructor": "Education, Rm 333", 
     "day": [
@@ -7010,7 +7010,7 @@ var data =
     "end": "11:50", 
     "location": "TBA", 
     "title": "College Algebra Concepts and Applications", 
-    "sectionCode": 34052, 
+    "classNumber": 34052, 
     "section": "028-LEC", 
     "instructor": "Psychology, Rm 205", 
     "day": [
@@ -7025,7 +7025,7 @@ var data =
     "end": "9:50", 
     "location": "TBA", 
     "title": "College Algebra Concepts and Applications", 
-    "sectionCode": 34053, 
+    "classNumber": 34053, 
     "section": "029-LEC", 
     "instructor": "Psychology, Rm 307", 
     "day": [
@@ -7040,7 +7040,7 @@ var data =
     "end": "12:50", 
     "location": "TBA", 
     "title": "College Algebra Concepts and Applications", 
-    "sectionCode": 34054, 
+    "classNumber": 34054, 
     "section": "030-LEC", 
     "instructor": "Education, Rm 333", 
     "day": [
@@ -7055,7 +7055,7 @@ var data =
     "end": "15:50", 
     "location": "TBA", 
     "title": "College Algebra Concepts and Applications", 
-    "sectionCode": 34055, 
+    "classNumber": 34055, 
     "section": "031-LEC", 
     "instructor": "C E Chavez Bldg, Rm 103", 
     "day": [
@@ -7070,7 +7070,7 @@ var data =
     "end": "11:50", 
     "location": "TBA", 
     "title": "College Algebra Concepts and Applications", 
-    "sectionCode": 34056, 
+    "classNumber": 34056, 
     "section": "033-LEC", 
     "instructor": "R P Harvill Bldg, Rm 332B", 
     "day": [
@@ -7085,7 +7085,7 @@ var data =
     "end": "13:50", 
     "location": "TBA", 
     "title": "College Algebra Concepts and Applications", 
-    "sectionCode": 34057, 
+    "classNumber": 34057, 
     "section": "034-LEC", 
     "instructor": "Phys-Atmos Sci, Rm 304", 
     "day": [
@@ -7100,7 +7100,7 @@ var data =
     "end": "14:50", 
     "location": "TBA", 
     "title": "College Algebra Concepts and Applications", 
-    "sectionCode": 34058, 
+    "classNumber": 34058, 
     "section": "035-LEC", 
     "instructor": "Psychology, Rm 205", 
     "day": [
@@ -7115,7 +7115,7 @@ var data =
     "end": "14:50", 
     "location": "TBA", 
     "title": "College Algebra Concepts and Applications", 
-    "sectionCode": 34059, 
+    "classNumber": 34059, 
     "section": "036-LEC", 
     "instructor": "Psychology, Rm 204", 
     "day": [
@@ -7130,7 +7130,7 @@ var data =
     "end": "14:50", 
     "location": "TBA", 
     "title": "College Algebra Concepts and Applications", 
-    "sectionCode": 34060, 
+    "classNumber": 34060, 
     "section": "037-LEC", 
     "instructor": "C E Chavez Bldg, Rm 104", 
     "day": [
@@ -7145,7 +7145,7 @@ var data =
     "end": "14:50", 
     "location": "TBA", 
     "title": "College Algebra Concepts and Applications", 
-    "sectionCode": 34061, 
+    "classNumber": 34061, 
     "section": "038-LEC", 
     "instructor": "Biol Sci West, Rm 210", 
     "day": [
@@ -7160,7 +7160,7 @@ var data =
     "end": "15:50", 
     "location": "TBA", 
     "title": "College Algebra Concepts and Applications", 
-    "sectionCode": 47525, 
+    "classNumber": 47525, 
     "section": "039-LEC", 
     "instructor": "Biol Sci West, Rm 210", 
     "day": [
@@ -7175,7 +7175,7 @@ var data =
     "end": "13:20", 
     "location": "TBA", 
     "title": "College Algebra Concepts and Applications", 
-    "sectionCode": 34063, 
+    "classNumber": 34063, 
     "section": "041-LEC", 
     "instructor": "Biol Sci West, Rm 237", 
     "day": [
@@ -7190,7 +7190,7 @@ var data =
     "end": "17:50", 
     "location": "TBA", 
     "title": "College Algebra Concepts and Applications", 
-    "sectionCode": 54931, 
+    "classNumber": 54931, 
     "section": "042-LEC", 
     "instructor": "Biol Sci West, Rm 210", 
     "day": [
@@ -7205,7 +7205,7 @@ var data =
     "end": "16:50", 
     "location": "TBA", 
     "title": "College Algebra Concepts and Applications", 
-    "sectionCode": 54932, 
+    "classNumber": 54932, 
     "section": "043-LEC", 
     "instructor": "Engineering, Rm 308", 
     "day": [
@@ -7220,7 +7220,7 @@ var data =
     "end": "9:50", 
     "location": "TBA", 
     "title": "College Algebra Concepts and Applications", 
-    "sectionCode": 45982, 
+    "classNumber": 45982, 
     "section": "044-LEC", 
     "instructor": "Psychology, Rm 305", 
     "day": [
@@ -7235,7 +7235,7 @@ var data =
     "end": "11:50", 
     "location": "TBA", 
     "title": "College Algebra Concepts and Applications", 
-    "sectionCode": 53878, 
+    "classNumber": 53878, 
     "section": "045-LEC", 
     "instructor": "Phys-Atmos Sci, Rm 220", 
     "day": [
@@ -7250,7 +7250,7 @@ var data =
     "end": "18:50", 
     "location": "TBA", 
     "title": "College Algebra Concepts and Applications", 
-    "sectionCode": 45983, 
+    "classNumber": 45983, 
     "section": "046-LEC", 
     "instructor": "Biol Sci West, Rm 210", 
     "day": [
@@ -7265,7 +7265,7 @@ var data =
     "end": "8:50", 
     "location": "TBA", 
     "title": "College Algebra Concepts and Applications", 
-    "sectionCode": 54933, 
+    "classNumber": 54933, 
     "section": "047-LEC", 
     "instructor": "C E Chavez Bldg, Rm 308", 
     "day": [
@@ -7280,7 +7280,7 @@ var data =
     "end": "11:50", 
     "location": "TBA", 
     "title": "College Algebra Concepts and Applications", 
-    "sectionCode": 48317, 
+    "classNumber": 48317, 
     "section": "048-LEC", 
     "instructor": "Psychology, Rm 204", 
     "day": [
@@ -7295,7 +7295,7 @@ var data =
     "end": "8:50", 
     "location": "TBA", 
     "title": "College Algebra Concepts and Applications", 
-    "sectionCode": 50054, 
+    "classNumber": 50054, 
     "section": "049-LEC", 
     "instructor": "C E Chavez Bldg, Rm 109", 
     "day": [
@@ -7310,7 +7310,7 @@ var data =
     "end": "8:50", 
     "location": "TBA", 
     "title": "College Algebra Concepts and Applications", 
-    "sectionCode": 48351, 
+    "classNumber": 48351, 
     "section": "050-LEC", 
     "instructor": "C E Chavez Bldg, Rm 105", 
     "day": [
@@ -7325,7 +7325,7 @@ var data =
     "end": "9:50", 
     "location": "TBA", 
     "title": "College Algebra Concepts and Applications", 
-    "sectionCode": 48408, 
+    "classNumber": 48408, 
     "section": "051-LEC", 
     "instructor": "Psychology, Rm 207", 
     "day": [
@@ -7340,7 +7340,7 @@ var data =
     "end": "12:50", 
     "location": "TBA", 
     "title": "College Algebra Concepts and Applications", 
-    "sectionCode": 48409, 
+    "classNumber": 48409, 
     "section": "052-LEC", 
     "instructor": "Saguaro Hall, Rm 101", 
     "day": [
@@ -7356,7 +7356,7 @@ var data =
     "end": "16:50", 
     "location": "TBA", 
     "title": "College Algebra Concepts and Applications", 
-    "sectionCode": 53403, 
+    "classNumber": 53403, 
     "section": "054-LEC", 
     "instructor": "Biol Sci West, Rm 210", 
     "day": [
@@ -7371,7 +7371,7 @@ var data =
     "end": "17:50", 
     "location": "TBA", 
     "title": "College Algebra Concepts and Applications", 
-    "sectionCode": 53402, 
+    "classNumber": 53402, 
     "section": "055-LEC", 
     "instructor": "C E Chavez Bldg, Rm 105", 
     "day": [
@@ -7386,7 +7386,7 @@ var data =
     "end": "8:50", 
     "location": "TBA", 
     "title": "College Algebra Concepts and Applications", 
-    "sectionCode": 34064, 
+    "classNumber": 34064, 
     "section": "056-LEC", 
     "instructor": "Chemistry, Rm 209", 
     "day": [
@@ -7401,7 +7401,7 @@ var data =
     "end": "9:50", 
     "location": "TBA", 
     "title": "College Algebra Concepts and Applications", 
-    "sectionCode": 54934, 
+    "classNumber": 54934, 
     "section": "057-LEC", 
     "instructor": "Psychology, Rm 206", 
     "day": [
@@ -7416,7 +7416,7 @@ var data =
     "end": "13:50", 
     "location": "Saguaro Hall, Rm 225", 
     "title": "College Algebra Concepts and Applications", 
-    "sectionCode": 54160, 
+    "classNumber": 54160, 
     "section": "059-LEC", 
     "instructor": "Brenae Bailey", 
     "day": [
@@ -7432,7 +7432,7 @@ var data =
     "end": "17:50", 
     "location": "TBA", 
     "title": "College Algebra Concepts and Applications", 
-    "sectionCode": 56903, 
+    "classNumber": 56903, 
     "section": "060-LEC", 
     "instructor": "Biol Sci West, Rm 219", 
     "day": [
@@ -7447,7 +7447,7 @@ var data =
     "end": "12:50", 
     "location": "Saguaro Hall, Rm 225", 
     "title": "College Algebra Concepts and Applications", 
-    "sectionCode": 56904, 
+    "classNumber": 56904, 
     "section": "061-LEC", 
     "instructor": "Brenae Bailey", 
     "day": [
@@ -7463,7 +7463,7 @@ var data =
     "end": "12:15", 
     "location": "Saguaro Hall, Rm 114", 
     "title": "College Algebra Concepts and Applications", 
-    "sectionCode": 65153, 
+    "classNumber": 65153, 
     "section": "064-LEC", 
     "instructor": "Staff", 
     "day": [
@@ -7478,7 +7478,7 @@ var data =
     "end": "13:50", 
     "location": "R P Harvill Bldg, Rm 404", 
     "title": "College Algebra Concepts and Applications", 
-    "sectionCode": 65155, 
+    "classNumber": 65155, 
     "section": "066-LEC", 
     "instructor": "Staff", 
     "day": [
@@ -7494,7 +7494,7 @@ var data =
     "end": "13:50", 
     "location": "Saguaro Hall, Rm 101", 
     "title": "College Algebra Concepts and Applications", 
-    "sectionCode": 65765, 
+    "classNumber": 65765, 
     "section": "067-LEC", 
     "instructor": "Erzsebet Lugosi,", 
     "day": [
@@ -7510,7 +7510,7 @@ var data =
     "end": "13:45", 
     "location": "M Pacheco ILC, Rm 125", 
     "title": "College Algebra Concepts and Applications", 
-    "sectionCode": 67194, 
+    "classNumber": 67194, 
     "section": "068-LEC", 
     "instructor": "Lanbo Fang", 
     "day": [
@@ -7524,7 +7524,7 @@ var data =
     "end": "13:45", 
     "location": "TBA", 
     "title": "College Algebra Concepts and Applications", 
-    "sectionCode": 67195, 
+    "classNumber": 67195, 
     "section": "069-LEC", 
     "instructor": "M Pacheco ILC, Rm 125", 
     "day": [
@@ -7538,7 +7538,7 @@ var data =
     "end": "10:45", 
     "location": "TBA", 
     "title": "College Algebra Concepts and Applications", 
-    "sectionCode": 67196, 
+    "classNumber": 67196, 
     "section": "070-LEC", 
     "instructor": "Modern Languages, Rm 310", 
     "day": [
@@ -7552,7 +7552,7 @@ var data =
     "end": "10:45", 
     "location": "TBA", 
     "title": "College Algebra Concepts and Applications", 
-    "sectionCode": 67197, 
+    "classNumber": 67197, 
     "section": "071-LEC", 
     "instructor": "Modern Languages, Rm 310", 
     "day": [
@@ -7566,7 +7566,7 @@ var data =
     "end": "9:15", 
     "location": "TBA", 
     "title": "College Algebra Concepts and Applications", 
-    "sectionCode": 67212, 
+    "classNumber": 67212, 
     "section": "072-LEC", 
     "instructor": "M Pacheco ILC, Rm 141", 
     "day": [
@@ -7580,7 +7580,7 @@ var data =
     "end": "9:15", 
     "location": "TBA", 
     "title": "College Algebra Concepts and Applications", 
-    "sectionCode": 67224, 
+    "classNumber": 67224, 
     "section": "073-LEC", 
     "instructor": "M Pacheco ILC, Rm 141", 
     "day": [
@@ -7594,7 +7594,7 @@ var data =
     "end": "TBA", 
     "location": "Online", 
     "title": "College Algebra Concepts and Applications", 
-    "sectionCode": 57457, 
+    "classNumber": 57457, 
     "section": "101-LEC", 
     "instructor": "Staff", 
     "day": [
@@ -7608,7 +7608,7 @@ var data =
     "end": "TBA", 
     "location": "Online", 
     "title": "College Algebra Concepts and Applications", 
-    "sectionCode": 61865, 
+    "classNumber": 61865, 
     "section": "102-LEC", 
     "instructor": "Staff", 
     "day": [
@@ -7622,7 +7622,7 @@ var data =
     "end": "9:15", 
     "location": "Chemistry, Rm 111", 
     "title": "Elements of Calculus", 
-    "sectionCode": 34065, 
+    "classNumber": 34065, 
     "section": "001-LEC", 
     "instructor": "Bruce Macmillan", 
     "day": [
@@ -7637,7 +7637,7 @@ var data =
     "end": "15:50", 
     "location": "Engineering, Rm 308", 
     "title": "Calculus Concepts for Business", 
-    "sectionCode": 50255, 
+    "classNumber": 50255, 
     "section": "001-LEC", 
     "instructor": "Erzsebet Lugosi", 
     "day": [
@@ -7653,7 +7653,7 @@ var data =
     "end": "10:50", 
     "location": "R P Harvill Bldg, Rm 318", 
     "title": "Calculus Concepts for Business", 
-    "sectionCode": 50256, 
+    "classNumber": 50256, 
     "section": "002-LEC", 
     "instructor": "Anthony Kling", 
     "day": [
@@ -7669,7 +7669,7 @@ var data =
     "end": "12:50", 
     "location": "C E Chavez Bldg, Rm 104", 
     "title": "Calculus Concepts for Business", 
-    "sectionCode": 53404, 
+    "classNumber": 53404, 
     "section": "003-LEC", 
     "instructor": "Kathleen Lackow", 
     "day": [
@@ -7685,7 +7685,7 @@ var data =
     "end": "17:45", 
     "location": "R P Harvill Bldg, Rm 101", 
     "title": "Calculus Concepts for Business", 
-    "sectionCode": 47829, 
+    "classNumber": 47829, 
     "section": "004-LEC", 
     "instructor": "Stan Swierczek", 
     "day": [
@@ -7700,7 +7700,7 @@ var data =
     "end": "16:45", 
     "location": "Social Sciences, Rm 206", 
     "title": "Calculus Concepts for Business", 
-    "sectionCode": 47831, 
+    "classNumber": 47831, 
     "section": "005-LEC", 
     "instructor": "Aaron Ekstrom", 
     "day": [
@@ -7715,7 +7715,7 @@ var data =
     "end": "13:45", 
     "location": "Modern Languages, Rm 413", 
     "title": "Calculus Concepts for Business", 
-    "sectionCode": 50269, 
+    "classNumber": 50269, 
     "section": "007-LEC", 
     "instructor": "Aaron Ekstrom", 
     "day": [
@@ -7730,7 +7730,7 @@ var data =
     "end": "12:15", 
     "location": "Psychology, Rm 307", 
     "title": "Calculus Concepts for Business", 
-    "sectionCode": 50270, 
+    "classNumber": 50270, 
     "section": "008-LEC", 
     "instructor": "Philip Strzelecki", 
     "day": [
@@ -7745,7 +7745,7 @@ var data =
     "end": "13:50", 
     "location": "Chemistry, Rm 209", 
     "title": "Calculus Concepts for Business", 
-    "sectionCode": 50271, 
+    "classNumber": 50271, 
     "section": "009-LEC", 
     "instructor": "Ira Lackow", 
     "day": [
@@ -7761,7 +7761,7 @@ var data =
     "end": "14:50", 
     "location": "Chemistry, Rm 209", 
     "title": "Calculus Concepts for Business", 
-    "sectionCode": 50272, 
+    "classNumber": 50272, 
     "section": "010-LEC", 
     "instructor": "Ira Lackow", 
     "day": [
@@ -7777,7 +7777,7 @@ var data =
     "end": "13:50", 
     "location": "Engineering, Rm 307", 
     "title": "Calculus Concepts for Business", 
-    "sectionCode": 61630, 
+    "classNumber": 61630, 
     "section": "011-LEC", 
     "instructor": "Kathleen Lackow", 
     "day": [
@@ -7793,7 +7793,7 @@ var data =
     "end": "12:50", 
     "location": "Gittings Bldg, Rm 207", 
     "title": "Calculus Concepts for Business", 
-    "sectionCode": 61575, 
+    "classNumber": 61575, 
     "section": "012-LEC", 
     "instructor": "Staff", 
     "day": [
@@ -7809,7 +7809,7 @@ var data =
     "end": "TBA", 
     "location": "Online", 
     "title": "Calculus Concepts for Business", 
-    "sectionCode": 66288, 
+    "classNumber": 66288, 
     "section": "101-LEC", 
     "instructor": "Steven Brownstein", 
     "day": [
@@ -7823,7 +7823,7 @@ var data =
     "end": "8:50", 
     "location": "Phys-Atmos Sci, Rm 318", 
     "title": "Calculus Preparation", 
-    "sectionCode": 34066, 
+    "classNumber": 34066, 
     "section": "001-LEC", 
     "instructor": "Thomas Harris", 
     "day": [
@@ -7841,7 +7841,7 @@ var data =
     "end": "8:50", 
     "location": "Education, Rm 441A", 
     "title": "Calculus Preparation", 
-    "sectionCode": 54938, 
+    "classNumber": 54938, 
     "section": "002-LEC", 
     "instructor": "Kenneth Yamamoto", 
     "day": [
@@ -7859,7 +7859,7 @@ var data =
     "end": "9:50", 
     "location": "Phys-Atmos Sci, Rm 318", 
     "title": "Calculus Preparation", 
-    "sectionCode": 50055, 
+    "classNumber": 50055, 
     "section": "003-LEC", 
     "instructor": "Utkarsh Agrawal", 
     "day": [
@@ -7877,7 +7877,7 @@ var data =
     "end": "9:50", 
     "location": "Phys-Atmos Sci, Rm 314", 
     "title": "Calculus Preparation", 
-    "sectionCode": 53405, 
+    "classNumber": 53405, 
     "section": "004-LEC", 
     "instructor": "Jessica Pillow", 
     "day": [
@@ -7895,7 +7895,7 @@ var data =
     "end": "9:50", 
     "location": "Phys-Atmos Sci, Rm 312", 
     "title": "Calculus Preparation", 
-    "sectionCode": 47531, 
+    "classNumber": 47531, 
     "section": "005-LEC", 
     "instructor": "Stephen Reyes", 
     "day": [
@@ -7913,7 +7913,7 @@ var data =
     "end": "10:50", 
     "location": "Phys-Atmos Sci, Rm 318", 
     "title": "Calculus Preparation", 
-    "sectionCode": 53406, 
+    "classNumber": 53406, 
     "section": "006-LEC", 
     "instructor": "Stephen Reyes", 
     "day": [
@@ -7931,7 +7931,7 @@ var data =
     "end": "10:50", 
     "location": "R P Harvill Bldg, Rm 313", 
     "title": "Calculus Preparation", 
-    "sectionCode": 45986, 
+    "classNumber": 45986, 
     "section": "007-LEC", 
     "instructor": "Jeffrey Craig", 
     "day": [
@@ -7949,7 +7949,7 @@ var data =
     "end": "11:50", 
     "location": "R P Harvill Bldg, Rm 208", 
     "title": "Calculus Preparation", 
-    "sectionCode": 34067, 
+    "classNumber": 34067, 
     "section": "008-LEC", 
     "instructor": "Jeffrey Craig", 
     "day": [
@@ -7967,7 +7967,7 @@ var data =
     "end": "11:50", 
     "location": "Phys-Atmos Sci, Rm 314", 
     "title": "Calculus Preparation", 
-    "sectionCode": 53407, 
+    "classNumber": 53407, 
     "section": "009-LEC", 
     "instructor": "Janice Takagi", 
     "day": [
@@ -7985,7 +7985,7 @@ var data =
     "end": "12:50", 
     "location": "Phys-Atmos Sci, Rm 318", 
     "title": "Calculus Preparation", 
-    "sectionCode": 53408, 
+    "classNumber": 53408, 
     "section": "010-LEC", 
     "instructor": "Alyssa Turnquist", 
     "day": [
@@ -8003,7 +8003,7 @@ var data =
     "end": "12:50", 
     "location": "Phys-Atmos Sci, Rm 314", 
     "title": "Calculus Preparation", 
-    "sectionCode": 54939, 
+    "classNumber": 54939, 
     "section": "011-LEC", 
     "instructor": "Kyle Priver", 
     "day": [
@@ -8021,7 +8021,7 @@ var data =
     "end": "12:50", 
     "location": "Phys-Atmos Sci, Rm 312", 
     "title": "Calculus Preparation", 
-    "sectionCode": 34068, 
+    "classNumber": 34068, 
     "section": "012-LEC", 
     "instructor": "Sheng-Chi Shih", 
     "day": [
@@ -8039,7 +8039,7 @@ var data =
     "end": "13:50", 
     "location": "Phys-Atmos Sci, Rm 318", 
     "title": "Calculus Preparation", 
-    "sectionCode": 45995, 
+    "classNumber": 45995, 
     "section": "013-LEC", 
     "instructor": "Kyung Mi Chung", 
     "day": [
@@ -8057,7 +8057,7 @@ var data =
     "end": "13:50", 
     "location": "Phys-Atmos Sci, Rm 312", 
     "title": "Calculus Preparation", 
-    "sectionCode": 34069, 
+    "classNumber": 34069, 
     "section": "014-LEC", 
     "instructor": "Lindsay Swift", 
     "day": [
@@ -8075,7 +8075,7 @@ var data =
     "end": "14:50", 
     "location": "Phys-Atmos Sci, Rm 318", 
     "title": "Calculus Preparation", 
-    "sectionCode": 34070, 
+    "classNumber": 34070, 
     "section": "015-LEC", 
     "instructor": "Steven Foster", 
     "day": [
@@ -8093,7 +8093,7 @@ var data =
     "end": "14:50", 
     "location": "R P Harvill Bldg, Rm 313", 
     "title": "Calculus Preparation", 
-    "sectionCode": 54940, 
+    "classNumber": 54940, 
     "section": "016-LEC", 
     "instructor": "Robert Banks", 
     "day": [
@@ -8111,7 +8111,7 @@ var data =
     "end": "15:50", 
     "location": "Phys-Atmos Sci, Rm 318", 
     "title": "Calculus Preparation", 
-    "sectionCode": 34071, 
+    "classNumber": 34071, 
     "section": "017-LEC", 
     "instructor": "Steven Foster", 
     "day": [
@@ -8129,7 +8129,7 @@ var data =
     "end": "17:05", 
     "location": "Phys-Atmos Sci, Rm 318", 
     "title": "Calculus Preparation", 
-    "sectionCode": 47533, 
+    "classNumber": 47533, 
     "section": "018-LEC", 
     "instructor": "Eric Elert", 
     "day": [
@@ -8146,7 +8146,7 @@ var data =
     "end": "17:05", 
     "location": "R P Harvill Bldg, Rm 313", 
     "title": "Calculus Preparation", 
-    "sectionCode": 50056, 
+    "classNumber": 50056, 
     "section": "019-LEC", 
     "instructor": "Jared McBride", 
     "day": [
@@ -8163,7 +8163,7 @@ var data =
     "end": "18:20", 
     "location": "Phys-Atmos Sci, Rm 318", 
     "title": "Calculus Preparation", 
-    "sectionCode": 50059, 
+    "classNumber": 50059, 
     "section": "020-LEC", 
     "instructor": "Madhav Kaushish", 
     "day": [
@@ -8180,7 +8180,7 @@ var data =
     "end": "15:50", 
     "location": "Phys-Atmos Sci, Rm 314", 
     "title": "Calculus Preparation", 
-    "sectionCode": 66715, 
+    "classNumber": 66715, 
     "section": "021-LEC", 
     "instructor": "Sarah Andrews", 
     "day": [
@@ -8198,7 +8198,7 @@ var data =
     "end": "8:50", 
     "location": "Phys-Atmos Sci, Rm 312", 
     "title": "Calculus Preparation", 
-    "sectionCode": 66716, 
+    "classNumber": 66716, 
     "section": "022-LEC", 
     "instructor": "Kenneth Plackowski", 
     "day": [
@@ -8216,7 +8216,7 @@ var data =
     "end": "8:50", 
     "location": "Phys-Atmos Sci, Rm 404", 
     "title": "Functions for Calculus", 
-    "sectionCode": 47832, 
+    "classNumber": 47832, 
     "section": "001-LEC", 
     "instructor": "Janice Takagi", 
     "day": [
@@ -8234,7 +8234,7 @@ var data =
     "end": "8:50", 
     "location": "R P Harvill Bldg, Rm 208", 
     "title": "Functions for Calculus", 
-    "sectionCode": 47899, 
+    "classNumber": 47899, 
     "section": "002-LEC", 
     "instructor": "Faith Bridges", 
     "day": [
@@ -8252,7 +8252,7 @@ var data =
     "end": "8:50", 
     "location": "Phys-Atmos Sci, Rm 314", 
     "title": "Functions for Calculus", 
-    "sectionCode": 47896, 
+    "classNumber": 47896, 
     "section": "003-LEC", 
     "instructor": "John Awalt", 
     "day": [
@@ -8270,7 +8270,7 @@ var data =
     "end": "8:50", 
     "location": "Education, Rm 441A", 
     "title": "Functions for Calculus", 
-    "sectionCode": 47897, 
+    "classNumber": 47897, 
     "section": "004-LEC", 
     "instructor": "Rachel Neville", 
     "day": [
@@ -8288,7 +8288,7 @@ var data =
     "end": "9:50", 
     "location": "Phys-Atmos Sci, Rm 404", 
     "title": "Functions for Calculus", 
-    "sectionCode": 47898, 
+    "classNumber": 47898, 
     "section": "005-LEC", 
     "instructor": "Janice Takagi", 
     "day": [
@@ -8306,7 +8306,7 @@ var data =
     "end": "9:50", 
     "location": "R P Harvill Bldg, Rm 208", 
     "title": "Functions for Calculus", 
-    "sectionCode": 47900, 
+    "classNumber": 47900, 
     "section": "006-LEC", 
     "instructor": "Faith Bridges", 
     "day": [
@@ -8324,7 +8324,7 @@ var data =
     "end": "9:50", 
     "location": "Phys-Atmos Sci, Rm 314", 
     "title": "Functions for Calculus", 
-    "sectionCode": 47901, 
+    "classNumber": 47901, 
     "section": "007-LEC", 
     "instructor": "John Awalt", 
     "day": [
@@ -8342,7 +8342,7 @@ var data =
     "end": "9:50", 
     "location": "Education, Rm 441A", 
     "title": "Functions for Calculus", 
-    "sectionCode": 47902, 
+    "classNumber": 47902, 
     "section": "008-LEC", 
     "instructor": "Minh Tuan Kha", 
     "day": [
@@ -8360,7 +8360,7 @@ var data =
     "end": "10:50", 
     "location": "Phys-Atmos Sci, Rm 404", 
     "title": "Functions for Calculus", 
-    "sectionCode": 47903, 
+    "classNumber": 47903, 
     "section": "009-LEC", 
     "instructor": "Debra Wood", 
     "day": [
@@ -8378,7 +8378,7 @@ var data =
     "end": "10:50", 
     "location": "R P Harvill Bldg, Rm 208", 
     "title": "Functions for Calculus", 
-    "sectionCode": 47904, 
+    "classNumber": 47904, 
     "section": "010-LEC", 
     "instructor": "Faith Bridges", 
     "day": [
@@ -8396,7 +8396,7 @@ var data =
     "end": "10:50", 
     "location": "Phys-Atmos Sci, Rm 314", 
     "title": "Functions for Calculus", 
-    "sectionCode": 47847, 
+    "classNumber": 47847, 
     "section": "011-LEC", 
     "instructor": "Nataliya Sandler", 
     "day": [
@@ -8414,7 +8414,7 @@ var data =
     "end": "10:50", 
     "location": "R P Harvill Bldg, Rm 313", 
     "title": "Functions for Calculus", 
-    "sectionCode": 47905, 
+    "classNumber": 47905, 
     "section": "012-LEC", 
     "instructor": "Donna Krawczyk", 
     "day": [
@@ -8432,7 +8432,7 @@ var data =
     "end": "11:50", 
     "location": "Phys-Atmos Sci, Rm 404", 
     "title": "Functions for Calculus", 
-    "sectionCode": 50060, 
+    "classNumber": 50060, 
     "section": "013-LEC", 
     "instructor": "Douglas Clark", 
     "day": [
@@ -8450,7 +8450,7 @@ var data =
     "end": "11:50", 
     "location": "R P Harvill Bldg, Rm 208", 
     "title": "Functions for Calculus", 
-    "sectionCode": 48039, 
+    "classNumber": 48039, 
     "section": "014-LEC", 
     "instructor": "John Awalt", 
     "day": [
@@ -8468,7 +8468,7 @@ var data =
     "end": "11:50", 
     "location": "Phys-Atmos Sci, Rm 314", 
     "title": "Functions for Calculus", 
-    "sectionCode": 48042, 
+    "classNumber": 48042, 
     "section": "015-LEC", 
     "instructor": "Debra Wood", 
     "day": [
@@ -8486,7 +8486,7 @@ var data =
     "end": "12:50", 
     "location": "Phys-Atmos Sci, Rm 404", 
     "title": "Functions for Calculus", 
-    "sectionCode": 48043, 
+    "classNumber": 48043, 
     "section": "016-LEC", 
     "instructor": "Steven Foster", 
     "day": [
@@ -8504,7 +8504,7 @@ var data =
     "end": "12:50", 
     "location": "R P Harvill Bldg, Rm 208", 
     "title": "Functions for Calculus", 
-    "sectionCode": 48044, 
+    "classNumber": 48044, 
     "section": "017-LEC", 
     "instructor": "Michael Rossetti", 
     "day": [
@@ -8522,7 +8522,7 @@ var data =
     "end": "12:50", 
     "location": "Phys-Atmos Sci, Rm 314", 
     "title": "Functions for Calculus", 
-    "sectionCode": 48045, 
+    "classNumber": 48045, 
     "section": "018-LEC", 
     "instructor": "Mariamma Varghese", 
     "day": [
@@ -8540,7 +8540,7 @@ var data =
     "end": "12:50", 
     "location": "Education, Rm 441A", 
     "title": "Functions for Calculus", 
-    "sectionCode": 53409, 
+    "classNumber": 53409, 
     "section": "019-LEC", 
     "instructor": "John Awalt", 
     "day": [
@@ -8558,7 +8558,7 @@ var data =
     "end": "13:50", 
     "location": "Phys-Atmos Sci, Rm 404", 
     "title": "Functions for Calculus", 
-    "sectionCode": 48046, 
+    "classNumber": 48046, 
     "section": "020-LEC", 
     "instructor": "Nataliya Sandler", 
     "day": [
@@ -8576,7 +8576,7 @@ var data =
     "end": "13:50", 
     "location": "R P Harvill Bldg, Rm 208", 
     "title": "Functions for Calculus", 
-    "sectionCode": 48047, 
+    "classNumber": 48047, 
     "section": "021-LEC", 
     "instructor": "Michael Rossetti", 
     "day": [
@@ -8594,7 +8594,7 @@ var data =
     "end": "13:50", 
     "location": "Phys-Atmos Sci, Rm 314", 
     "title": "Functions for Calculus", 
-    "sectionCode": 48430, 
+    "classNumber": 48430, 
     "section": "022-LEC", 
     "instructor": "Janice Takagi", 
     "day": [
@@ -8612,7 +8612,7 @@ var data =
     "end": "13:50", 
     "location": "Phys-Atmos Sci, Rm 312", 
     "title": "Functions for Calculus", 
-    "sectionCode": 50262, 
+    "classNumber": 50262, 
     "section": "023-LEC", 
     "instructor": "Mariamma Varghese", 
     "day": [
@@ -8630,7 +8630,7 @@ var data =
     "end": "14:50", 
     "location": "Phys-Atmos Sci, Rm 404", 
     "title": "Functions for Calculus", 
-    "sectionCode": 50263, 
+    "classNumber": 50263, 
     "section": "024-LEC", 
     "instructor": "Nataliya Sandler", 
     "day": [
@@ -8648,7 +8648,7 @@ var data =
     "end": "14:50", 
     "location": "R P Harvill Bldg, Rm 208", 
     "title": "Functions for Calculus", 
-    "sectionCode": 50264, 
+    "classNumber": 50264, 
     "section": "025-LEC", 
     "instructor": "Douglas Clark", 
     "day": [
@@ -8666,7 +8666,7 @@ var data =
     "end": "14:50", 
     "location": "Phys-Atmos Sci, Rm 314", 
     "title": "Functions for Calculus", 
-    "sectionCode": 50265, 
+    "classNumber": 50265, 
     "section": "026-LEC", 
     "instructor": "Janice Takagi", 
     "day": [
@@ -8684,7 +8684,7 @@ var data =
     "end": "15:50", 
     "location": "Phys-Atmos Sci, Rm 404", 
     "title": "Functions for Calculus", 
-    "sectionCode": 50266, 
+    "classNumber": 50266, 
     "section": "027-LEC", 
     "instructor": "Michael Rossetti", 
     "day": [
@@ -8702,7 +8702,7 @@ var data =
     "end": "15:50", 
     "location": "R P Harvill Bldg, Rm 208", 
     "title": "Functions for Calculus", 
-    "sectionCode": 50267, 
+    "classNumber": 50267, 
     "section": "028-LEC", 
     "instructor": "Douglas Clark", 
     "day": [
@@ -8720,7 +8720,7 @@ var data =
     "end": "15:50", 
     "location": "Phys-Atmos Sci, Rm 314", 
     "title": "Functions for Calculus", 
-    "sectionCode": 50268, 
+    "classNumber": 50268, 
     "section": "029-LEC", 
     "instructor": "Steven Foster", 
     "day": [
@@ -8738,7 +8738,7 @@ var data =
     "end": "17:05", 
     "location": "Phys-Atmos Sci, Rm 404", 
     "title": "Functions for Calculus", 
-    "sectionCode": 53660, 
+    "classNumber": 53660, 
     "section": "030-LEC", 
     "instructor": "Deirdre Smith", 
     "day": [
@@ -8755,7 +8755,7 @@ var data =
     "end": "17:05", 
     "location": "R P Harvill Bldg, Rm 208", 
     "title": "Functions for Calculus", 
-    "sectionCode": 54156, 
+    "classNumber": 54156, 
     "section": "031-LEC", 
     "instructor": "Staff", 
     "day": [
@@ -8772,7 +8772,7 @@ var data =
     "end": "18:20", 
     "location": "Phys-Atmos Sci, Rm 404", 
     "title": "Functions for Calculus", 
-    "sectionCode": 56935, 
+    "classNumber": 56935, 
     "section": "032-LEC", 
     "instructor": "Brandon Tippings", 
     "day": [
@@ -8789,7 +8789,7 @@ var data =
     "end": "8:50", 
     "location": "Phys-Atmos Sci, Rm 404", 
     "title": "First-Semester Calculus", 
-    "sectionCode": 47907, 
+    "classNumber": 47907, 
     "section": "001-LEC", 
     "instructor": "Rachel Neville", 
     "day": [
@@ -8807,7 +8807,7 @@ var data =
     "end": "8:50", 
     "location": "R P Harvill Bldg, Rm 208", 
     "title": "First-Semester Calculus", 
-    "sectionCode": 47867, 
+    "classNumber": 47867, 
     "section": "002-LEC", 
     "instructor": "John Awalt", 
     "day": [
@@ -8825,7 +8825,7 @@ var data =
     "end": "8:50", 
     "location": "Phys-Atmos Sci, Rm 314", 
     "title": "First-Semester Calculus", 
-    "sectionCode": 47910, 
+    "classNumber": 47910, 
     "section": "003-LEC", 
     "instructor": "Christopher Jewell", 
     "day": [
@@ -8843,7 +8843,7 @@ var data =
     "end": "9:50", 
     "location": "Phys-Atmos Sci, Rm 404", 
     "title": "First-Semester Calculus", 
-    "sectionCode": 47940, 
+    "classNumber": 47940, 
     "section": "004-LEC", 
     "instructor": "Faith Bridges", 
     "day": [
@@ -8861,7 +8861,7 @@ var data =
     "end": "9:50", 
     "location": "R P Harvill Bldg, Rm 208", 
     "title": "First-Semester Calculus", 
-    "sectionCode": 47928, 
+    "classNumber": 47928, 
     "section": "005-LEC", 
     "instructor": "John Awalt", 
     "day": [
@@ -8879,7 +8879,7 @@ var data =
     "end": "9:50", 
     "location": "Education, Rm 441A", 
     "title": "First-Semester Calculus", 
-    "sectionCode": 50065, 
+    "classNumber": 50065, 
     "section": "006-LEC", 
     "instructor": "Minh Tuan Kha", 
     "day": [
@@ -8897,7 +8897,7 @@ var data =
     "end": "10:50", 
     "location": "Phys-Atmos Sci, Rm 404", 
     "title": "First-Semester Calculus", 
-    "sectionCode": 50062, 
+    "classNumber": 50062, 
     "section": "007-LEC", 
     "instructor": "Faith Bridges", 
     "day": [
@@ -8915,7 +8915,7 @@ var data =
     "end": "10:50", 
     "location": "R P Harvill Bldg, Rm 208", 
     "title": "First-Semester Calculus", 
-    "sectionCode": 47929, 
+    "classNumber": 47929, 
     "section": "008-LEC", 
     "instructor": "Angela Kraft", 
     "day": [
@@ -8933,7 +8933,7 @@ var data =
     "end": "11:50", 
     "location": "Phys-Atmos Sci, Rm 404", 
     "title": "First-Semester Calculus", 
-    "sectionCode": 47930, 
+    "classNumber": 47930, 
     "section": "009-LEC", 
     "instructor": "Christopher Jewell", 
     "day": [
@@ -8951,7 +8951,7 @@ var data =
     "end": "11:50", 
     "location": "Phys-Atmos Sci, Rm 318", 
     "title": "First-Semester Calculus", 
-    "sectionCode": 47941, 
+    "classNumber": 47941, 
     "section": "010-LEC", 
     "instructor": "Jonathan Taylor", 
     "day": [
@@ -8969,7 +8969,7 @@ var data =
     "end": "12:50", 
     "location": "Phys-Atmos Sci, Rm 404", 
     "title": "First-Semester Calculus", 
-    "sectionCode": 47931, 
+    "classNumber": 47931, 
     "section": "011-LEC", 
     "instructor": "Michael Gilbert", 
     "day": [
@@ -8987,7 +8987,7 @@ var data =
     "end": "12:50", 
     "location": "R P Harvill Bldg, Rm 208", 
     "title": "First-Semester Calculus", 
-    "sectionCode": 47932, 
+    "classNumber": 47932, 
     "section": "012-LEC", 
     "instructor": "Debra Wood", 
     "day": [
@@ -9005,7 +9005,7 @@ var data =
     "end": "12:50", 
     "location": "Education, Rm 441A", 
     "title": "First-Semester Calculus", 
-    "sectionCode": 47942, 
+    "classNumber": 47942, 
     "section": "013-LEC", 
     "instructor": "Ewa Romanowska", 
     "day": [
@@ -9023,7 +9023,7 @@ var data =
     "end": "13:50", 
     "location": "Phys-Atmos Sci, Rm 404", 
     "title": "First-Semester Calculus", 
-    "sectionCode": 47933, 
+    "classNumber": 47933, 
     "section": "014-LEC", 
     "instructor": "Michael Gilbert", 
     "day": [
@@ -9041,7 +9041,7 @@ var data =
     "end": "13:50", 
     "location": "R P Harvill Bldg, Rm 208", 
     "title": "First-Semester Calculus", 
-    "sectionCode": 47934, 
+    "classNumber": 47934, 
     "section": "015-LEC", 
     "instructor": "Douglas Clark", 
     "day": [
@@ -9059,7 +9059,7 @@ var data =
     "end": "14:50", 
     "location": "Phys-Atmos Sci, Rm 404", 
     "title": "First-Semester Calculus", 
-    "sectionCode": 53627, 
+    "classNumber": 53627, 
     "section": "016-LEC", 
     "instructor": "Zhaorui Luo", 
     "day": [
@@ -9077,7 +9077,7 @@ var data =
     "end": "14:50", 
     "location": "R P Harvill Bldg, Rm 208", 
     "title": "First-Semester Calculus", 
-    "sectionCode": 53629, 
+    "classNumber": 53629, 
     "section": "017-LEC", 
     "instructor": "Douglas Clark", 
     "day": [
@@ -9095,7 +9095,7 @@ var data =
     "end": "15:50", 
     "location": "Phys-Atmos Sci, Rm 404", 
     "title": "First-Semester Calculus", 
-    "sectionCode": 47935, 
+    "classNumber": 47935, 
     "section": "018-LEC", 
     "instructor": "Mitchell Wilson", 
     "day": [
@@ -9113,7 +9113,7 @@ var data =
     "end": "15:50", 
     "location": "R P Harvill Bldg, Rm 208", 
     "title": "First-Semester Calculus", 
-    "sectionCode": 47936, 
+    "classNumber": 47936, 
     "section": "019-LEC", 
     "instructor": "Austin Nickel", 
     "day": [
@@ -9131,7 +9131,7 @@ var data =
     "end": "17:05", 
     "location": "Phys-Atmos Sci, Rm 404", 
     "title": "First-Semester Calculus", 
-    "sectionCode": 50064, 
+    "classNumber": 50064, 
     "section": "020-LEC", 
     "instructor": "Staff", 
     "day": [
@@ -9148,7 +9148,7 @@ var data =
     "end": "17:05", 
     "location": "Phys-Atmos Sci, Rm 314", 
     "title": "First-Semester Calculus", 
-    "sectionCode": 47937, 
+    "classNumber": 47937, 
     "section": "021-LEC", 
     "instructor": "Deirdre Smith", 
     "day": [
@@ -9165,7 +9165,7 @@ var data =
     "end": "18:20", 
     "location": "Phys-Atmos Sci, Rm 404", 
     "title": "First-Semester Calculus", 
-    "sectionCode": 47938, 
+    "classNumber": 47938, 
     "section": "022-LEC", 
     "instructor": "Deirdre Smith", 
     "day": [
@@ -9182,7 +9182,7 @@ var data =
     "end": "18:20", 
     "location": "R P Harvill Bldg, Rm 208", 
     "title": "First-Semester Calculus", 
-    "sectionCode": 47939, 
+    "classNumber": 47939, 
     "section": "023-LEC", 
     "instructor": "Staff", 
     "day": [
@@ -9199,7 +9199,7 @@ var data =
     "end": "17:05", 
     "location": "R P Harvill Bldg, Rm 208", 
     "title": "First-Semester Calculus", 
-    "sectionCode": 54157, 
+    "classNumber": 54157, 
     "section": "024-LEC", 
     "instructor": "Staff", 
     "day": [
@@ -9216,7 +9216,7 @@ var data =
     "end": "18:20", 
     "location": "Phys-Atmos Sci, Rm 314", 
     "title": "First-Semester Calculus", 
-    "sectionCode": 54974, 
+    "classNumber": 54974, 
     "section": "025-LEC", 
     "instructor": "Brandon Tippings", 
     "day": [
@@ -9233,7 +9233,7 @@ var data =
     "end": "10:50", 
     "location": "Phys-Atmos Sci, Rm 314", 
     "title": "First-Semester Calculus", 
-    "sectionCode": 54205, 
+    "classNumber": 54205, 
     "section": "026-LEC", 
     "instructor": "Janice Takagi", 
     "day": [
@@ -9251,7 +9251,7 @@ var data =
     "end": "14:50", 
     "location": "Phys-Atmos Sci, Rm 314", 
     "title": "First-Semester Calculus", 
-    "sectionCode": 54206, 
+    "classNumber": 54206, 
     "section": "027-LEC", 
     "instructor": "Mitchell Wilson", 
     "day": [
@@ -9269,7 +9269,7 @@ var data =
     "end": "13:50", 
     "location": "Phys-Atmos Sci, Rm 314", 
     "title": "First-Semester Calculus", 
-    "sectionCode": 57412, 
+    "classNumber": 57412, 
     "section": "028-LEC", 
     "instructor": "Andrew MacLaughlin", 
     "day": [
@@ -9287,7 +9287,7 @@ var data =
     "end": "9:50", 
     "location": "Psychology, Rm 205", 
     "title": "Calculus I", 
-    "sectionCode": 47539, 
+    "classNumber": 47539, 
     "section": "001-LEC", 
     "instructor": "Hathurusinghege Piyaratne", 
     "day": [
@@ -9303,7 +9303,7 @@ var data =
     "end": "10:50", 
     "location": "Biol Sci West, Rm 237", 
     "title": "Calculus I", 
-    "sectionCode": 34072, 
+    "classNumber": 34072, 
     "section": "002-LEC", 
     "instructor": "Ngoc Do", 
     "day": [
@@ -9319,7 +9319,7 @@ var data =
     "end": "10:45", 
     "location": "Communication, Rm 311", 
     "title": "Calculus I", 
-    "sectionCode": 34073, 
+    "classNumber": 34073, 
     "section": "003-LEC", 
     "instructor": "Guanying Peng", 
     "day": [
@@ -9334,7 +9334,7 @@ var data =
     "end": "12:50", 
     "location": "C E Chavez Bldg, Rm 308", 
     "title": "Calculus I", 
-    "sectionCode": 40885, 
+    "classNumber": 40885, 
     "section": "005-LEC", 
     "instructor": "Eugenia Rosu", 
     "day": [
@@ -9350,7 +9350,7 @@ var data =
     "end": "13:45", 
     "location": "Psychology, Rm 305", 
     "title": "Calculus I", 
-    "sectionCode": 47540, 
+    "classNumber": 47540, 
     "section": "006-LEC", 
     "instructor": "Yongtao Cheng", 
     "day": [
@@ -9365,7 +9365,7 @@ var data =
     "end": "12:15", 
     "location": "Elec & Comp Engr, Rm 107", 
     "title": "Calculus I", 
-    "sectionCode": 48305, 
+    "classNumber": 48305, 
     "section": "007-LEC", 
     "instructor": "Houssam Abdul-rahman", 
     "day": [
@@ -9380,7 +9380,7 @@ var data =
     "end": "9:50", 
     "location": "Psychology, Rm 204", 
     "title": "Calculus I", 
-    "sectionCode": 48310, 
+    "classNumber": 48310, 
     "section": "008-LEC", 
     "instructor": "Jianfei Xue", 
     "day": [
@@ -9396,7 +9396,7 @@ var data =
     "end": "12:50", 
     "location": "C E Chavez Bldg, Rm 109", 
     "title": "Calculus I", 
-    "sectionCode": 48479, 
+    "classNumber": 48479, 
     "section": "009-LEC", 
     "instructor": "Hathurusinghege Piyaratne", 
     "day": [
@@ -9412,7 +9412,7 @@ var data =
     "end": "13:50", 
     "location": "Psychology, Rm 307", 
     "title": "Calculus I", 
-    "sectionCode": 54054, 
+    "classNumber": 54054, 
     "section": "010-LEC", 
     "instructor": "Donna Krawczyk", 
     "day": [
@@ -9428,7 +9428,7 @@ var data =
     "end": "12:50", 
     "location": "R P Harvill Bldg, Rm 411", 
     "title": "Calculus I", 
-    "sectionCode": 56457, 
+    "classNumber": 56457, 
     "section": "011-LEC", 
     "instructor": "Staff", 
     "day": [
@@ -9444,7 +9444,7 @@ var data =
     "end": "10:45", 
     "location": "C E Chavez Bldg, Rm 303", 
     "title": "Calculus I", 
-    "sectionCode": 56638, 
+    "classNumber": 56638, 
     "section": "012-LEC", 
     "instructor": "Brandon Levin", 
     "day": [
@@ -9459,7 +9459,7 @@ var data =
     "end": "13:45", 
     "location": "Psychology, Rm 207", 
     "title": "Calculus II", 
-    "sectionCode": 53631, 
+    "classNumber": 53631, 
     "section": "001-LEC", 
     "instructor": "Liang Wu", 
     "day": [
@@ -9474,7 +9474,7 @@ var data =
     "end": "12:50", 
     "location": "C E Chavez Bldg, Rm 105", 
     "title": "Calculus II", 
-    "sectionCode": 34075, 
+    "classNumber": 34075, 
     "section": "002-LEC", 
     "instructor": "Staff", 
     "day": [
@@ -9490,7 +9490,7 @@ var data =
     "end": "9:50", 
     "location": "Modern Languages, Rm 314", 
     "title": "Calculus II", 
-    "sectionCode": 34076, 
+    "classNumber": 34076, 
     "section": "003-LEC", 
     "instructor": "Jason Quinones,", 
     "day": [
@@ -9506,7 +9506,7 @@ var data =
     "end": "10:50", 
     "location": "R P Harvill Bldg, Rm 332B", 
     "title": "Calculus II", 
-    "sectionCode": 50066, 
+    "classNumber": 50066, 
     "section": "005-LEC", 
     "instructor": "Theodore Laetsch", 
     "day": [
@@ -9522,7 +9522,7 @@ var data =
     "end": "11:50", 
     "location": "Biol Sci West, Rm 210", 
     "title": "Calculus II", 
-    "sectionCode": 34079, 
+    "classNumber": 34079, 
     "section": "006-LEC", 
     "instructor": "Yi Hu", 
     "day": [
@@ -9538,7 +9538,7 @@ var data =
     "end": "11:50", 
     "location": "R P Harvill Bldg, Rm 319", 
     "title": "Calculus II", 
-    "sectionCode": 34078, 
+    "classNumber": 34078, 
     "section": "007-LEC", 
     "instructor": "William Conway", 
     "day": [
@@ -9554,7 +9554,7 @@ var data =
     "end": "12:50", 
     "location": "C E Chavez Bldg, Rm 103", 
     "title": "Calculus II", 
-    "sectionCode": 34080, 
+    "classNumber": 34080, 
     "section": "008-LEC", 
     "instructor": "Shankar Venkataramani", 
     "day": [
@@ -9570,7 +9570,7 @@ var data =
     "end": "13:50", 
     "location": "Psychology, Rm 207", 
     "title": "Calculus II", 
-    "sectionCode": 34081, 
+    "classNumber": 34081, 
     "section": "009-LEC", 
     "instructor": "Kirti Joshi", 
     "day": [
@@ -9586,7 +9586,7 @@ var data =
     "end": "13:50", 
     "location": "Biol Sci West, Rm 219", 
     "title": "Calculus II", 
-    "sectionCode": 34082, 
+    "classNumber": 34082, 
     "section": "010-LEC", 
     "instructor": "Leonid Friedlander", 
     "day": [
@@ -9602,7 +9602,7 @@ var data =
     "end": "14:50", 
     "location": "Education, Rm 333", 
     "title": "Calculus II", 
-    "sectionCode": 47547, 
+    "classNumber": 47547, 
     "section": "011-LEC", 
     "instructor": "Kirti Joshi", 
     "day": [
@@ -9618,7 +9618,7 @@ var data =
     "end": "14:50", 
     "location": "C E Chavez Bldg, Rm 308", 
     "title": "Calculus II", 
-    "sectionCode": 55232, 
+    "classNumber": 55232, 
     "section": "012-LEC", 
     "instructor": "William Conway", 
     "day": [
@@ -9634,7 +9634,7 @@ var data =
     "end": "9:15", 
     "location": "C E Chavez Bldg, Rm 103", 
     "title": "Calculus II", 
-    "sectionCode": 53633, 
+    "classNumber": 53633, 
     "section": "013-LEC", 
     "instructor": "William Lippitt", 
     "day": [
@@ -9649,7 +9649,7 @@ var data =
     "end": "13:45", 
     "location": "Psychology, Rm 206", 
     "title": "Calculus II", 
-    "sectionCode": 34084, 
+    "classNumber": 34084, 
     "section": "016-LEC", 
     "instructor": "Sunder Sethuraman", 
     "day": [
@@ -9664,7 +9664,7 @@ var data =
     "end": "15:15", 
     "location": "C E Chavez Bldg, Rm 308", 
     "title": "Calculus II", 
-    "sectionCode": 34085, 
+    "classNumber": 34085, 
     "section": "017-LEC", 
     "instructor": "Robert Jenkins", 
     "day": [
@@ -9679,7 +9679,7 @@ var data =
     "end": "15:15", 
     "location": "Social Sciences, Rm 222", 
     "title": "Calculus II", 
-    "sectionCode": 46017, 
+    "classNumber": 46017, 
     "section": "018-LEC", 
     "instructor": "Kyle Pounder", 
     "day": [
@@ -9694,7 +9694,7 @@ var data =
     "end": "10:50", 
     "location": "R P Harvill Bldg, Rm 319", 
     "title": "Calculus II", 
-    "sectionCode": 40888, 
+    "classNumber": 40888, 
     "section": "020-LEC", 
     "instructor": "William Conway", 
     "day": [
@@ -9710,7 +9710,7 @@ var data =
     "end": "12:15", 
     "location": "McClelland Park, Rm 101", 
     "title": "Calculus II", 
-    "sectionCode": 40903, 
+    "classNumber": 40903, 
     "section": "022-LEC", 
     "instructor": "Angelica Gonzalez", 
     "day": [
@@ -9725,7 +9725,7 @@ var data =
     "end": "9:50", 
     "location": "R P Harvill Bldg, Rm 332B", 
     "title": "Basic Statistics", 
-    "sectionCode": 46577, 
+    "classNumber": 46577, 
     "section": "001-LEC", 
     "instructor": "Justin Crum", 
     "day": [
@@ -9741,7 +9741,7 @@ var data =
     "end": "8:50", 
     "location": "Biol Sci West, Rm 210", 
     "title": "Basic Statistics", 
-    "sectionCode": 46578, 
+    "classNumber": 46578, 
     "section": "002-LEC", 
     "instructor": "Matthew Fox", 
     "day": [
@@ -9757,7 +9757,7 @@ var data =
     "end": "10:50", 
     "location": "Phys-Atmos Sci, Rm 414", 
     "title": "Basic Statistics", 
-    "sectionCode": 60711, 
+    "classNumber": 60711, 
     "section": "003-LEC", 
     "instructor": "Wieke Deboer", 
     "day": [
@@ -9773,7 +9773,7 @@ var data =
     "end": "9:50", 
     "location": "Shantz, Rm 242E", 
     "title": "Basic Statistics", 
-    "sectionCode": 55305, 
+    "classNumber": 55305, 
     "section": "004-LEC", 
     "instructor": "Wieke Deboer", 
     "day": [
@@ -9789,7 +9789,7 @@ var data =
     "end": "13:50", 
     "location": "Psychology, Rm 206", 
     "title": "Basic Statistics", 
-    "sectionCode": 55306, 
+    "classNumber": 55306, 
     "section": "005-LEC", 
     "instructor": "Philip Hoskins", 
     "day": [
@@ -9805,7 +9805,7 @@ var data =
     "end": "16:50", 
     "location": "Gould-Simpson, Rm 849", 
     "title": "Tutoring in the Schools", 
-    "sectionCode": 34086, 
+    "classNumber": 34086, 
     "section": "001-SEM", 
     "instructor": "Mary Hosten", 
     "day": [
@@ -9819,7 +9819,7 @@ var data =
     "end": "18:50", 
     "location": "Math Teaching Lab, Rm 124", 
     "title": "Business Calculus Supplemental Instruction Seminar", 
-    "sectionCode": 66320, 
+    "classNumber": 66320, 
     "section": "001-SEM", 
     "instructor": "Aaron Ekstrom", 
     "day": [
@@ -9833,7 +9833,7 @@ var data =
     "end": "18:50", 
     "location": "Math Teaching Lab, Rm 124", 
     "title": "Business Calculus Supplemental Instruction Seminar", 
-    "sectionCode": 66321, 
+    "classNumber": 66321, 
     "section": "002-SEM", 
     "instructor": "Erzsebet Lugosi", 
     "day": [
@@ -9847,7 +9847,7 @@ var data =
     "end": "16:50", 
     "location": "Math Teaching Lab, Rm 124", 
     "title": "Precalculus Supplemental Instruction Seminar", 
-    "sectionCode": 46947, 
+    "classNumber": 46947, 
     "section": "001-SEM", 
     "instructor": "Faith Bridges", 
     "day": [
@@ -9861,7 +9861,7 @@ var data =
     "end": "18:50", 
     "location": "Math Teaching Lab, Rm 124", 
     "title": "Precalculus Supplemental Instruction Seminar", 
-    "sectionCode": 61669, 
+    "classNumber": 61669, 
     "section": "002-SEM", 
     "instructor": "Jonathan Ramalheira-Tsu", 
     "day": [
@@ -9875,7 +9875,7 @@ var data =
     "end": "18:50", 
     "location": "Math Teaching Lab, Rm 124", 
     "title": "Precalculus Supplemental Instruction Seminar", 
-    "sectionCode": 46948, 
+    "classNumber": 46948, 
     "section": "003-SEM", 
     "instructor": "Michael Gilbert", 
     "day": [
@@ -9889,7 +9889,7 @@ var data =
     "end": "17:50", 
     "location": "Math Teaching Lab, Rm 123", 
     "title": "Calculus I Supplemental Instruction Seminar", 
-    "sectionCode": 61657, 
+    "classNumber": 61657, 
     "section": "001-SEM", 
     "instructor": "Michael Gilbert", 
     "day": [
@@ -9903,7 +9903,7 @@ var data =
     "end": "16:50", 
     "location": "Math Teaching Lab, Rm 123", 
     "title": "Calculus II Supplemental Instruction Seminar", 
-    "sectionCode": 48413, 
+    "classNumber": 48413, 
     "section": "001-SEM", 
     "instructor": "William Lippitt", 
     "day": [
@@ -9917,7 +9917,7 @@ var data =
     "end": "17:50", 
     "location": "Math Teaching Lab, Rm 123", 
     "title": "Vector Calculus Supplemental Instruction Seminar", 
-    "sectionCode": 48442, 
+    "classNumber": 48442, 
     "section": "001-SEM", 
     "instructor": "Brenae Bailey", 
     "day": [
@@ -9931,7 +9931,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Vector Calculus Supplemental Instruction Seminar", 
-    "sectionCode": 55307, 
+    "classNumber": 55307, 
     "section": "002-SEM", 
     "instructor": "Staff", 
     "day": [
@@ -9945,7 +9945,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 34087, 
+    "classNumber": 34087, 
     "section": "001-IND", 
     "instructor": "Staff", 
     "day": [
@@ -9959,7 +9959,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Honors Independent Study", 
-    "sectionCode": 34088, 
+    "classNumber": 34088, 
     "section": "001-IND", 
     "instructor": "Staff", 
     "day": [
@@ -9973,7 +9973,7 @@ var data =
     "end": "10:50", 
     "location": "R P Harvill Bldg, Rm 404", 
     "title": "Introduction to Symbolic Logic", 
-    "sectionCode": 50485, 
+    "classNumber": 50485, 
     "section": "001-LEC", 
     "instructor": "Richard Healey", 
     "day": [
@@ -9989,7 +9989,7 @@ var data =
     "end": "TBA", 
     "location": "Online", 
     "title": "Introduction to Symbolic Logic", 
-    "sectionCode": 57645, 
+    "classNumber": 57645, 
     "section": "101-LEC", 
     "instructor": "Jonathan Weinberg", 
     "day": [
@@ -10003,7 +10003,7 @@ var data =
     "end": "16:45", 
     "location": "Math Teaching Lab, Rm 120", 
     "title": "Teaching Secondary Mathematics", 
-    "sectionCode": 43906, 
+    "classNumber": 43906, 
     "section": "001-LEC", 
     "instructor": "Cynthia Anhalt", 
     "day": [
@@ -10018,7 +10018,7 @@ var data =
     "end": "8:50", 
     "location": "Phys-Atmos Sci, Rm 412", 
     "title": "Vector Calculus", 
-    "sectionCode": 34089, 
+    "classNumber": 34089, 
     "section": "001-LEC", 
     "instructor": "Nataliya Sandler", 
     "day": [
@@ -10035,7 +10035,7 @@ var data =
     "end": "8:50", 
     "location": "R P Harvill Bldg, Rm 313", 
     "title": "Vector Calculus", 
-    "sectionCode": 50068, 
+    "classNumber": 50068, 
     "section": "002-LEC", 
     "instructor": "Mariamma Varghese", 
     "day": [
@@ -10052,7 +10052,7 @@ var data =
     "end": "12:50", 
     "location": "Phys-Atmos Sci, Rm 412", 
     "title": "Vector Calculus", 
-    "sectionCode": 34090, 
+    "classNumber": 34090, 
     "section": "003-LEC", 
     "instructor": "Christopher Jewell", 
     "day": [
@@ -10069,7 +10069,7 @@ var data =
     "end": "9:50", 
     "location": "Phys-Atmos Sci, Rm 412", 
     "title": "Vector Calculus", 
-    "sectionCode": 34091, 
+    "classNumber": 34091, 
     "section": "004-LEC", 
     "instructor": "Nataliya Sandler", 
     "day": [
@@ -10086,7 +10086,7 @@ var data =
     "end": "9:50", 
     "location": "R P Harvill Bldg, Rm 313", 
     "title": "Vector Calculus", 
-    "sectionCode": 34092, 
+    "classNumber": 34092, 
     "section": "005-LEC", 
     "instructor": "Mariamma Varghese", 
     "day": [
@@ -10103,7 +10103,7 @@ var data =
     "end": "14:50", 
     "location": "Phys-Atmos Sci, Rm 412", 
     "title": "Vector Calculus", 
-    "sectionCode": 61074, 
+    "classNumber": 61074, 
     "section": "006-LEC", 
     "instructor": "Ewa Romanowska", 
     "day": [
@@ -10120,7 +10120,7 @@ var data =
     "end": "11:50", 
     "location": "R P Harvill Bldg, Rm 313", 
     "title": "Vector Calculus", 
-    "sectionCode": 34093, 
+    "classNumber": 34093, 
     "section": "007-LEC", 
     "instructor": "Cody Gunton", 
     "day": [
@@ -10137,7 +10137,7 @@ var data =
     "end": "11:50", 
     "location": "Phys-Atmos Sci, Rm 412", 
     "title": "Vector Calculus", 
-    "sectionCode": 34094, 
+    "classNumber": 34094, 
     "section": "008-LEC", 
     "instructor": "May Yeap", 
     "day": [
@@ -10154,7 +10154,7 @@ var data =
     "end": "13:50", 
     "location": "Phys-Atmos Sci, Rm 412", 
     "title": "Vector Calculus", 
-    "sectionCode": 34095, 
+    "classNumber": 34095, 
     "section": "009-LEC", 
     "instructor": "Jingchen Niu", 
     "day": [
@@ -10171,7 +10171,7 @@ var data =
     "end": "13:50", 
     "location": "R P Harvill Bldg, Rm 313", 
     "title": "Vector Calculus", 
-    "sectionCode": 34096, 
+    "classNumber": 34096, 
     "section": "010-LEC", 
     "instructor": "Jonathan Taylor", 
     "day": [
@@ -10188,7 +10188,7 @@ var data =
     "end": "14:50", 
     "location": "Phys-Atmos Sci, Rm 312", 
     "title": "Vector Calculus", 
-    "sectionCode": 34097, 
+    "classNumber": 34097, 
     "section": "012-LEC", 
     "instructor": "May Yeap", 
     "day": [
@@ -10205,7 +10205,7 @@ var data =
     "end": "12:50", 
     "location": "R P Harvill Bldg, Rm 313", 
     "title": "Vector Calculus", 
-    "sectionCode": 34098, 
+    "classNumber": 34098, 
     "section": "013-LEC", 
     "instructor": "Jonathan Taylor", 
     "day": [
@@ -10222,7 +10222,7 @@ var data =
     "end": "15:50", 
     "location": "Phys-Atmos Sci, Rm 412", 
     "title": "Vector Calculus", 
-    "sectionCode": 34099, 
+    "classNumber": 34099, 
     "section": "014-LEC", 
     "instructor": "Ewa Romanowska", 
     "day": [
@@ -10239,7 +10239,7 @@ var data =
     "end": "10:50", 
     "location": "Phys-Atmos Sci, Rm 412", 
     "title": "Vector Calculus", 
-    "sectionCode": 54086, 
+    "classNumber": 54086, 
     "section": "015-LEC", 
     "instructor": "May Yeap", 
     "day": [
@@ -10256,7 +10256,7 @@ var data =
     "end": "16:50", 
     "location": "Phys-Atmos Sci, Rm 412", 
     "title": "Vector Calculus", 
-    "sectionCode": 55308, 
+    "classNumber": 55308, 
     "section": "016-LEC", 
     "instructor": "Staff", 
     "day": [
@@ -10273,7 +10273,7 @@ var data =
     "end": "15:30", 
     "location": "TBA", 
     "title": "Vector Calculus", 
-    "sectionCode": 56653, 
+    "classNumber": 56653, 
     "section": "017-LEC", 
     "instructor": "Psychology, Rm 204", 
     "day": [
@@ -10287,7 +10287,7 @@ var data =
     "end": "9:00", 
     "location": "Arbol de la Vida, Rm A117", 
     "title": "Vector Calculus", 
-    "sectionCode": 67524, 
+    "classNumber": 67524, 
     "section": "018-LEC", 
     "instructor": "Michael Gilbert", 
     "day": [
@@ -10302,7 +10302,7 @@ var data =
     "end": "13:50", 
     "location": "Psychology, Rm 204", 
     "title": "Discrete Mathematics in Computer Science", 
-    "sectionCode": 47551, 
+    "classNumber": 47551, 
     "section": "001-LEC", 
     "instructor": "Klaus Lux", 
     "day": [
@@ -10318,7 +10318,7 @@ var data =
     "end": "15:50", 
     "location": "Shantz, Rm 242E", 
     "title": "Discrete Mathematics in Computer Science", 
-    "sectionCode": 54207, 
+    "classNumber": 54207, 
     "section": "002-LEC", 
     "instructor": "Brenae Bailey", 
     "day": [
@@ -10334,7 +10334,7 @@ var data =
     "end": "12:50", 
     "location": "Psychology, Rm 207", 
     "title": "Discrete Mathematics in Computer Science", 
-    "sectionCode": 56669, 
+    "classNumber": 56669, 
     "section": "003-LEC", 
     "instructor": "Robert Indik", 
     "day": [
@@ -10350,7 +10350,7 @@ var data =
     "end": "12:15", 
     "location": "R P Harvill Bldg, Rm 150", 
     "title": "Introduction to Ordinary Differential Equations", 
-    "sectionCode": 34100, 
+    "classNumber": 34100, 
     "section": "001-LEC", 
     "instructor": "Qiu-Dong Wang", 
     "day": [
@@ -10365,7 +10365,7 @@ var data =
     "end": "8:50", 
     "location": "Aero & Mech Engr, Rm S336", 
     "title": "Introduction to Ordinary Differential Equations", 
-    "sectionCode": 42507, 
+    "classNumber": 42507, 
     "section": "001A-DIS", 
     "instructor": "Guangyu Hui", 
     "day": [
@@ -10379,7 +10379,7 @@ var data =
     "end": "9:50", 
     "location": "Chemistry, Rm 126", 
     "title": "Introduction to Ordinary Differential Equations", 
-    "sectionCode": 42508, 
+    "classNumber": 42508, 
     "section": "001B-DIS", 
     "instructor": "Jun Wang", 
     "day": [
@@ -10393,7 +10393,7 @@ var data =
     "end": "10:50", 
     "location": "Gittings Bldg, Rm 207", 
     "title": "Introduction to Ordinary Differential Equations", 
-    "sectionCode": 42509, 
+    "classNumber": 42509, 
     "section": "001C-DIS", 
     "instructor": "Jun Wang", 
     "day": [
@@ -10407,7 +10407,7 @@ var data =
     "end": "11:50", 
     "location": "Chemistry, Rm 126", 
     "title": "Introduction to Ordinary Differential Equations", 
-    "sectionCode": 42510, 
+    "classNumber": 42510, 
     "section": "001D-DIS", 
     "instructor": "Jun Wang", 
     "day": [
@@ -10421,7 +10421,7 @@ var data =
     "end": "13:50", 
     "location": "Gittings Bldg, Rm 207", 
     "title": "Introduction to Ordinary Differential Equations", 
-    "sectionCode": 42511, 
+    "classNumber": 42511, 
     "section": "001E-DIS", 
     "instructor": "Guangyu Hui", 
     "day": [
@@ -10435,7 +10435,7 @@ var data =
     "end": "14:50", 
     "location": "Aero & Mech Engr, Rm S336", 
     "title": "Introduction to Ordinary Differential Equations", 
-    "sectionCode": 42512, 
+    "classNumber": 42512, 
     "section": "001F-DIS", 
     "instructor": "Guangyu Hui", 
     "day": [
@@ -10449,7 +10449,7 @@ var data =
     "end": "16:50", 
     "location": "Aero & Mech Engr, Rm S336", 
     "title": "Introduction to Ordinary Differential Equations", 
-    "sectionCode": 55303, 
+    "classNumber": 55303, 
     "section": "001H-DIS", 
     "instructor": "Staff", 
     "day": [
@@ -10463,7 +10463,7 @@ var data =
     "end": "9:15", 
     "location": "Henry Koffler Bldg, Rm 204", 
     "title": "Introduction to Ordinary Differential Equations", 
-    "sectionCode": 65739, 
+    "classNumber": 65739, 
     "section": "002-LEC", 
     "instructor": "Jason Aubrey", 
     "day": [
@@ -10478,7 +10478,7 @@ var data =
     "end": "8:50", 
     "location": "Chemistry, Rm 126", 
     "title": "Introduction to Ordinary Differential Equations", 
-    "sectionCode": 65948, 
+    "classNumber": 65948, 
     "section": "002A-DIS", 
     "instructor": "Jonathan Ramalheira-Tsu", 
     "day": [
@@ -10492,7 +10492,7 @@ var data =
     "end": "15:50", 
     "location": "Phys-Atmos Sci, Rm 418", 
     "title": "Introduction to Ordinary Differential Equations", 
-    "sectionCode": 65949, 
+    "classNumber": 65949, 
     "section": "002B-DIS", 
     "instructor": "Zhuocheng Xiao", 
     "day": [
@@ -10506,7 +10506,7 @@ var data =
     "end": "10:50", 
     "location": "Education, Rm 318", 
     "title": "Introduction to Ordinary Differential Equations", 
-    "sectionCode": 65973, 
+    "classNumber": 65973, 
     "section": "002C-DIS", 
     "instructor": "Jonathan Ramalheira-Tsu", 
     "day": [
@@ -10520,7 +10520,7 @@ var data =
     "end": "11:50", 
     "location": "Phys-Atmos Sci, Rm 418", 
     "title": "Introduction to Ordinary Differential Equations", 
-    "sectionCode": 65951, 
+    "classNumber": 65951, 
     "section": "002D-DIS", 
     "instructor": "Zhuocheng Xiao", 
     "day": [
@@ -10534,7 +10534,7 @@ var data =
     "end": "12:50", 
     "location": "Phys-Atmos Sci, Rm 418", 
     "title": "Introduction to Ordinary Differential Equations", 
-    "sectionCode": 65954, 
+    "classNumber": 65954, 
     "section": "002E-DIS", 
     "instructor": "Jonathan Ramalheira-Tsu", 
     "day": [
@@ -10548,7 +10548,7 @@ var data =
     "end": "13:50", 
     "location": "Education, Rm 349", 
     "title": "Introduction to Ordinary Differential Equations", 
-    "sectionCode": 65975, 
+    "classNumber": 65975, 
     "section": "002F-DIS", 
     "instructor": "Staff", 
     "day": [
@@ -10562,7 +10562,7 @@ var data =
     "end": "14:50", 
     "location": "Phys-Atmos Sci, Rm 304", 
     "title": "Introduction to Ordinary Differential Equations", 
-    "sectionCode": 65956, 
+    "classNumber": 65956, 
     "section": "002G-DIS", 
     "instructor": "Staff", 
     "day": [
@@ -10576,7 +10576,7 @@ var data =
     "end": "15:50", 
     "location": "Psychology, Rm 306", 
     "title": "Introduction to Ordinary Differential Equations", 
-    "sectionCode": 65977, 
+    "classNumber": 65977, 
     "section": "002H-DIS", 
     "instructor": "Staff", 
     "day": [
@@ -10590,7 +10590,7 @@ var data =
     "end": "16:50", 
     "location": "Chemistry, Rm 126", 
     "title": "Introduction to Ordinary Differential Equations", 
-    "sectionCode": 65957, 
+    "classNumber": 65957, 
     "section": "002I-DIS", 
     "instructor": "Staff", 
     "day": [
@@ -10604,7 +10604,7 @@ var data =
     "end": "12:50", 
     "location": "Phys-Atmos Sci, Rm 414", 
     "title": "Introduction to Ordinary Differential Equations", 
-    "sectionCode": 61342, 
+    "classNumber": 61342, 
     "section": "003-LEC", 
     "instructor": "Qiu-Dong Wang", 
     "day": [
@@ -10620,7 +10620,7 @@ var data =
     "end": "9:15", 
     "location": "TBA", 
     "title": "Introduction to Statistics and Biostatistics", 
-    "sectionCode": 53641, 
+    "classNumber": 53641, 
     "section": "001-LEC", 
     "instructor": "Engineering, Rm 304", 
     "day": [
@@ -10634,7 +10634,7 @@ var data =
     "end": "9:45", 
     "location": "TBA", 
     "title": "Introduction to Statistics and Biostatistics", 
-    "sectionCode": 42400, 
+    "classNumber": 42400, 
     "section": "002-LEC", 
     "instructor": "Phys-Atmos Sci, Rm 412", 
     "day": [
@@ -10648,7 +10648,7 @@ var data =
     "end": "14:15", 
     "location": "TBA", 
     "title": "Introduction to Statistics and Biostatistics", 
-    "sectionCode": 46019, 
+    "classNumber": 46019, 
     "section": "003-LEC", 
     "instructor": "Phys-Atmos Sci, Rm 412", 
     "day": [
@@ -10662,7 +10662,7 @@ var data =
     "end": "12:15", 
     "location": "TBA", 
     "title": "Introduction to Statistics and Biostatistics", 
-    "sectionCode": 42401, 
+    "classNumber": 42401, 
     "section": "004-LEC", 
     "instructor": "Engineering, Rm 304", 
     "day": [
@@ -10676,7 +10676,7 @@ var data =
     "end": "15:15", 
     "location": "TBA", 
     "title": "Introduction to Statistics and Biostatistics", 
-    "sectionCode": 50069, 
+    "classNumber": 50069, 
     "section": "005-LEC", 
     "instructor": "Phys-Atmos Sci, Rm 418", 
     "day": [
@@ -10690,7 +10690,7 @@ var data =
     "end": "15:15", 
     "location": "TBA", 
     "title": "Introduction to Statistics and Biostatistics", 
-    "sectionCode": 53642, 
+    "classNumber": 53642, 
     "section": "006-LEC", 
     "instructor": "R P Harvill Bldg, Rm 105", 
     "day": [
@@ -10704,7 +10704,7 @@ var data =
     "end": "9:50", 
     "location": "C E Chavez Bldg, Rm 308", 
     "title": "Introduction to Statistics and Biostatistics", 
-    "sectionCode": 59591, 
+    "classNumber": 59591, 
     "section": "011-LEC", 
     "instructor": "Tracy Stepien", 
     "day": [
@@ -10720,7 +10720,7 @@ var data =
     "end": "10:50", 
     "location": "Engineering, Rm 308", 
     "title": "Introduction to Statistics and Biostatistics", 
-    "sectionCode": 59592, 
+    "classNumber": 59592, 
     "section": "012-LEC", 
     "instructor": "Tracy Stepien", 
     "day": [
@@ -10736,7 +10736,7 @@ var data =
     "end": "10:50", 
     "location": "Education, Rm 333", 
     "title": "Introduction to Statistics and Biostatistics", 
-    "sectionCode": 59593, 
+    "classNumber": 59593, 
     "section": "013-LEC", 
     "instructor": "Kerima Ratnayaka", 
     "day": [
@@ -10752,7 +10752,7 @@ var data =
     "end": "13:50", 
     "location": "Modern Languages, Rm 314", 
     "title": "Introduction to Statistics and Biostatistics", 
-    "sectionCode": 59594, 
+    "classNumber": 59594, 
     "section": "014-LEC", 
     "instructor": "Kevin Lin", 
     "day": [
@@ -10768,7 +10768,7 @@ var data =
     "end": "13:50", 
     "location": "Modern Languages, Rm 312", 
     "title": "Introduction to Statistics and Biostatistics", 
-    "sectionCode": 59595, 
+    "classNumber": 59595, 
     "section": "015-LEC", 
     "instructor": "Nicholas Kappler", 
     "day": [
@@ -10784,7 +10784,7 @@ var data =
     "end": "10:45", 
     "location": "Psychology, Rm 207", 
     "title": "Introduction to Statistics and Biostatistics", 
-    "sectionCode": 59596, 
+    "classNumber": 59596, 
     "section": "016-LEC", 
     "instructor": "Kyle Gwirtz", 
     "day": [
@@ -10799,7 +10799,7 @@ var data =
     "end": "10:45", 
     "location": "Psychology, Rm 206", 
     "title": "Introduction to Statistics and Biostatistics", 
-    "sectionCode": 59597, 
+    "classNumber": 59597, 
     "section": "017-LEC", 
     "instructor": "Deanna McDonald", 
     "day": [
@@ -10814,7 +10814,7 @@ var data =
     "end": "13:45", 
     "location": "Psychology, Rm 205", 
     "title": "Introduction to Statistics and Biostatistics", 
-    "sectionCode": 59598, 
+    "classNumber": 59598, 
     "section": "018-LEC", 
     "instructor": "Deanna McDonald", 
     "day": [
@@ -10829,7 +10829,7 @@ var data =
     "end": "13:45", 
     "location": "Psychology, Rm 204", 
     "title": "Introduction to Statistics and Biostatistics", 
-    "sectionCode": 59599, 
+    "classNumber": 59599, 
     "section": "019-LEC", 
     "instructor": "Antonio Rubio", 
     "day": [
@@ -10844,7 +10844,7 @@ var data =
     "end": "15:15", 
     "location": "C E Chavez Bldg, Rm 105", 
     "title": "Introduction to Statistics and Biostatistics", 
-    "sectionCode": 59600, 
+    "classNumber": 59600, 
     "section": "020-LEC", 
     "instructor": "Antonio Rubio", 
     "day": [
@@ -10859,7 +10859,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Internship", 
-    "sectionCode": 34107, 
+    "classNumber": 34107, 
     "section": "001-IND", 
     "instructor": "Staff", 
     "day": [
@@ -10873,7 +10873,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 34108, 
+    "classNumber": 34108, 
     "section": "001-IND", 
     "instructor": "Staff", 
     "day": [
@@ -10887,7 +10887,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Honors Independent Study", 
-    "sectionCode": 34109, 
+    "classNumber": 34109, 
     "section": "001-IND", 
     "instructor": "Staff", 
     "day": [
@@ -10901,7 +10901,7 @@ var data =
     "end": "18:45", 
     "location": "Math Teaching Lab, Rm 120", 
     "title": "Understanding Elementary Mathematics (A)", 
-    "sectionCode": 47549, 
+    "classNumber": 47549, 
     "section": "001-LEC", 
     "instructor": "Marta Civil", 
     "day": [
@@ -10915,7 +10915,7 @@ var data =
     "end": "11:50", 
     "location": "Math Teaching Lab, Rm 120", 
     "title": "Understanding Elementary Mathematics (A)", 
-    "sectionCode": 34110, 
+    "classNumber": 34110, 
     "section": "002-LEC", 
     "instructor": "Rebecca Mcgraw", 
     "day": [
@@ -10931,7 +10931,7 @@ var data =
     "end": "9:15", 
     "location": "Math Teaching Lab, Rm 120", 
     "title": "Understanding Elementary Mathematics (A)", 
-    "sectionCode": 34111, 
+    "classNumber": 34111, 
     "section": "003-LEC", 
     "instructor": "Lynette Guzman", 
     "day": [
@@ -10946,7 +10946,7 @@ var data =
     "end": "12:15", 
     "location": "Math Teaching Lab, Rm 120", 
     "title": "Understanding Elementary Mathematics (A)", 
-    "sectionCode": 47550, 
+    "classNumber": 47550, 
     "section": "004-LEC", 
     "instructor": "Aubrey Neihaus", 
     "day": [
@@ -10961,7 +10961,7 @@ var data =
     "end": "13:15", 
     "location": "Math Teaching Lab, Rm 120", 
     "title": "Understanding Elementary Mathematics (B)", 
-    "sectionCode": 50070, 
+    "classNumber": 50070, 
     "section": "001-LEC", 
     "instructor": "Jennifer Eli", 
     "day": [
@@ -10976,7 +10976,7 @@ var data =
     "end": "10:45", 
     "location": "Math Teaching Lab, Rm 120", 
     "title": "Understanding Elementary Mathematics (B)", 
-    "sectionCode": 34112, 
+    "classNumber": 34112, 
     "section": "002-LEC", 
     "instructor": "Janet Liston", 
     "day": [
@@ -10991,7 +10991,7 @@ var data =
     "end": "13:45", 
     "location": "Math Teaching Lab, Rm 120", 
     "title": "Understanding Elementary Mathematics (B)", 
-    "sectionCode": 67080, 
+    "classNumber": 67080, 
     "section": "003-LEC", 
     "instructor": "Janet Liston", 
     "day": [
@@ -11006,7 +11006,7 @@ var data =
     "end": "9:50", 
     "location": "Haury Anthro Bldg, Rm 216", 
     "title": "Applied Linear Algebra", 
-    "sectionCode": 34122, 
+    "classNumber": 34122, 
     "section": "001-LEC", 
     "instructor": "Guillermo Uribe", 
     "day": [
@@ -11022,7 +11022,7 @@ var data =
     "end": "10:50", 
     "location": "Engineering, Rm 311", 
     "title": "Inroduction to Linear Algebra", 
-    "sectionCode": 55706, 
+    "classNumber": 55706, 
     "section": "001-LEC", 
     "instructor": "Matthew Wheeler", 
     "day": [
@@ -11038,7 +11038,7 @@ var data =
     "end": "10:50", 
     "location": "Engineering, Rm 307", 
     "title": "Inroduction to Linear Algebra", 
-    "sectionCode": 55707, 
+    "classNumber": 55707, 
     "section": "002-LEC", 
     "instructor": "Jeremy Booher", 
     "day": [
@@ -11054,7 +11054,7 @@ var data =
     "end": "12:50", 
     "location": "Engineering, Rm 311", 
     "title": "Inroduction to Linear Algebra", 
-    "sectionCode": 55708, 
+    "classNumber": 55708, 
     "section": "003-LEC", 
     "instructor": "Matthew Wheeler", 
     "day": [
@@ -11070,7 +11070,7 @@ var data =
     "end": "9:15", 
     "location": "Shantz, Rm 242E", 
     "title": "Inroduction to Linear Algebra", 
-    "sectionCode": 55709, 
+    "classNumber": 55709, 
     "section": "004-LEC", 
     "instructor": "Daniel Rossi", 
     "day": [
@@ -11085,7 +11085,7 @@ var data =
     "end": "13:45", 
     "location": "R P Harvill Bldg, Rm 411", 
     "title": "Inroduction to Linear Algebra", 
-    "sectionCode": 55710, 
+    "classNumber": 55710, 
     "section": "005-LEC", 
     "instructor": "Guadalupe Lozano", 
     "day": [
@@ -11100,7 +11100,7 @@ var data =
     "end": "13:45", 
     "location": "Social Sciences, Rm 312", 
     "title": "Inroduction to Linear Algebra", 
-    "sectionCode": 55711, 
+    "classNumber": 55711, 
     "section": "006-LEC", 
     "instructor": "Amanda Young", 
     "day": [
@@ -11115,7 +11115,7 @@ var data =
     "end": "12:50", 
     "location": "Engineering, Rm 307", 
     "title": "Inroduction to Linear Algebra", 
-    "sectionCode": 56785, 
+    "classNumber": 56785, 
     "section": "007-LEC", 
     "instructor": "Jeremy Booher", 
     "day": [
@@ -11131,7 +11131,7 @@ var data =
     "end": "15:15", 
     "location": "R P Harvill Bldg, Rm 411", 
     "title": "Inroduction to Linear Algebra", 
-    "sectionCode": 61534, 
+    "classNumber": 61534, 
     "section": "008-LEC", 
     "instructor": "Guadalupe Lozano", 
     "day": [
@@ -11146,7 +11146,7 @@ var data =
     "end": "14:50", 
     "location": "R P Harvill Bldg, Rm 319", 
     "title": "Inroduction to Linear Algebra", 
-    "sectionCode": 66228, 
+    "classNumber": 66228, 
     "section": "009-LEC", 
     "instructor": "Mikhail Stepanov", 
     "day": [
@@ -11162,7 +11162,7 @@ var data =
     "end": "9:50", 
     "location": "C E Chavez Bldg, Rm 109", 
     "title": "Mathematical Analysis for Engineers", 
-    "sectionCode": 42506, 
+    "classNumber": 42506, 
     "section": "001-LEC", 
     "instructor": "Marek Rychlik", 
     "day": [
@@ -11178,7 +11178,7 @@ var data =
     "end": "13:50", 
     "location": "R P Harvill Bldg, Rm 332B", 
     "title": "Mathematical Analysis for Engineers", 
-    "sectionCode": 34113, 
+    "classNumber": 34113, 
     "section": "002-LEC", 
     "instructor": "Mikhail Stepanov", 
     "day": [
@@ -11194,7 +11194,7 @@ var data =
     "end": "10:50", 
     "location": "Psychology, Rm 205", 
     "title": "Formal Mathematical Reasoning and Writing", 
-    "sectionCode": 34114, 
+    "classNumber": 34114, 
     "section": "001-LEC", 
     "instructor": "Daniel Madden", 
     "day": [
@@ -11210,7 +11210,7 @@ var data =
     "end": "11:50", 
     "location": "Engineering, Rm 308", 
     "title": "Formal Mathematical Reasoning and Writing", 
-    "sectionCode": 55239, 
+    "classNumber": 55239, 
     "section": "002-LEC", 
     "instructor": "Theodore Laetsch", 
     "day": [
@@ -11226,7 +11226,7 @@ var data =
     "end": "12:50", 
     "location": "Engineering, Rm 308", 
     "title": "Formal Mathematical Reasoning and Writing", 
-    "sectionCode": 60153, 
+    "classNumber": 60153, 
     "section": "003-LEC", 
     "instructor": "Theodore Laetsch", 
     "day": [
@@ -11242,7 +11242,7 @@ var data =
     "end": "13:50", 
     "location": "Shantz, Rm 242E", 
     "title": "Formal Mathematical Reasoning and Writing", 
-    "sectionCode": 42402, 
+    "classNumber": 42402, 
     "section": "004-LEC", 
     "instructor": "Sunhi Choi", 
     "day": [
@@ -11258,7 +11258,7 @@ var data =
     "end": "10:50", 
     "location": "Math Teaching Lab, Rm 120", 
     "title": "Topics in Geometry", 
-    "sectionCode": 34115, 
+    "classNumber": 34115, 
     "section": "001-LEC", 
     "instructor": "Rebecca Mcgraw", 
     "day": [
@@ -11274,7 +11274,7 @@ var data =
     "end": "13:45", 
     "location": "Phys-Atmos Sci, Rm 220", 
     "title": "Analysis of Ordinary Differential Equations", 
-    "sectionCode": 60401, 
+    "classNumber": 60401, 
     "section": "001-LEC", 
     "instructor": "Ibrahim Fatkullin", 
     "day": [
@@ -11289,7 +11289,7 @@ var data =
     "end": "10:45", 
     "location": "Psychology, Rm 205", 
     "title": "Analysis of Ordinary Differential Equations", 
-    "sectionCode": 40805, 
+    "classNumber": 40805, 
     "section": "002-LEC", 
     "instructor": "Jim Cushing", 
     "day": [
@@ -11304,7 +11304,7 @@ var data =
     "end": "13:45", 
     "location": "R P Harvill Bldg, Rm 319", 
     "title": "Analysis of Ordinary Differential Equations", 
-    "sectionCode": 54330, 
+    "classNumber": 54330, 
     "section": "003-LEC", 
     "instructor": "Ildar Gabitov", 
     "day": [
@@ -11319,7 +11319,7 @@ var data =
     "end": "15:50", 
     "location": "R P Harvill Bldg, Rm 319", 
     "title": "Introduction to Probability Theory", 
-    "sectionCode": 65643, 
+    "classNumber": 65643, 
     "section": "001-LEC", 
     "instructor": "Aaron Ekstrom", 
     "day": [
@@ -11335,7 +11335,7 @@ var data =
     "end": "10:45", 
     "location": "C E Chavez Bldg, Rm 301", 
     "title": "Introduction to Statistical Methods", 
-    "sectionCode": 39870, 
+    "classNumber": 39870, 
     "section": "001-LEC", 
     "instructor": "Joseph Watkins,", 
     "day": [
@@ -11350,7 +11350,7 @@ var data =
     "end": "12:50", 
     "location": "Mathematics, Rm 101", 
     "title": "Preceptorship", 
-    "sectionCode": 60349, 
+    "classNumber": 60349, 
     "section": "001-IND", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -11364,7 +11364,7 @@ var data =
     "end": "13:50", 
     "location": "Mathematics, Rm 101", 
     "title": "Preceptorship", 
-    "sectionCode": 60619, 
+    "classNumber": 60619, 
     "section": "002-IND", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -11378,7 +11378,7 @@ var data =
     "end": "11:50", 
     "location": "Mathematics, Rm 101", 
     "title": "Preceptorship", 
-    "sectionCode": 60827, 
+    "classNumber": 60827, 
     "section": "003-IND", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -11392,7 +11392,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Preceptorship", 
-    "sectionCode": 60836, 
+    "classNumber": 60836, 
     "section": "004-IND", 
     "instructor": "Sarah Hoffman", 
     "day": [
@@ -11406,7 +11406,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Preceptorship", 
-    "sectionCode": 61992, 
+    "classNumber": 61992, 
     "section": "005-IND", 
     "instructor": "Michelle Mioduski Woodward", 
     "day": [
@@ -11420,7 +11420,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Directed Research", 
-    "sectionCode": 61792, 
+    "classNumber": 61792, 
     "section": "001-IND", 
     "instructor": "Aditya Adiredja", 
     "day": [
@@ -11434,7 +11434,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Directed Research", 
-    "sectionCode": 62286, 
+    "classNumber": 62286, 
     "section": "002-IND", 
     "instructor": "Staff", 
     "day": [
@@ -11448,7 +11448,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Internship", 
-    "sectionCode": 34116, 
+    "classNumber": 34116, 
     "section": "001-IND", 
     "instructor": "Staff", 
     "day": [
@@ -11462,7 +11462,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Internship", 
-    "sectionCode": 51795, 
+    "classNumber": 51795, 
     "section": "002-IND", 
     "instructor": "Staff", 
     "day": [
@@ -11476,7 +11476,7 @@ var data =
     "end": "16:50", 
     "location": "Math Teaching Lab, Rm 124", 
     "title": "Wildcat Proofs Workshop", 
-    "sectionCode": 61762, 
+    "classNumber": 61762, 
     "section": "001-SEM", 
     "instructor": "Amanda Young", 
     "day": [
@@ -11490,7 +11490,7 @@ var data =
     "end": "15:30", 
     "location": "Math Teaching Lab, Rm 124", 
     "title": "Topics in Undergraduate Mathematics", 
-    "sectionCode": 67617, 
+    "classNumber": 67617, 
     "section": "001-SEM", 
     "instructor": "Antonio Iniguez,", 
     "day": [
@@ -11504,7 +11504,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Topics in Undergraduate Mathematics", 
-    "sectionCode": 67620, 
+    "classNumber": 67620, 
     "section": "002-SEM", 
     "instructor": "Antonio Iniguez,", 
     "day": [
@@ -11518,7 +11518,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 34117, 
+    "classNumber": 34117, 
     "section": "001-IND", 
     "instructor": "Staff", 
     "day": [
@@ -11532,7 +11532,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 48153, 
+    "classNumber": 48153, 
     "section": "002-IND", 
     "instructor": "Staff", 
     "day": [
@@ -11546,7 +11546,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 48154, 
+    "classNumber": 48154, 
     "section": "003-IND", 
     "instructor": "Staff", 
     "day": [
@@ -11560,7 +11560,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 51597, 
+    "classNumber": 51597, 
     "section": "004-IND", 
     "instructor": "Staff", 
     "day": [
@@ -11574,7 +11574,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 51599, 
+    "classNumber": 51599, 
     "section": "005-IND", 
     "instructor": "Staff", 
     "day": [
@@ -11588,7 +11588,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 51600, 
+    "classNumber": 51600, 
     "section": "006-IND", 
     "instructor": "Staff", 
     "day": [
@@ -11602,7 +11602,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Honors Independent Study", 
-    "sectionCode": 34118, 
+    "classNumber": 34118, 
     "section": "001-IND", 
     "instructor": "Staff", 
     "day": [
@@ -11616,7 +11616,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Honors Independent Study", 
-    "sectionCode": 51705, 
+    "classNumber": 51705, 
     "section": "002-IND", 
     "instructor": "Staff", 
     "day": [
@@ -11630,7 +11630,7 @@ var data =
     "end": "9:50", 
     "location": "Communication, Rm 113", 
     "title": "Symbolic Logic", 
-    "sectionCode": 46347, 
+    "classNumber": 46347, 
     "section": "001-LEC", 
     "instructor": "Jason Turner", 
     "day": [
@@ -11646,7 +11646,7 @@ var data =
     "end": "17:15", 
     "location": "R P Harvill Bldg, Rm 319", 
     "title": "History of Mathematics", 
-    "sectionCode": 34119, 
+    "classNumber": 34119, 
     "section": "001-LEC", 
     "instructor": "Daniel Madden", 
     "day": [
@@ -11661,7 +11661,7 @@ var data =
     "end": "15:15", 
     "location": "Math Teaching Lab, Rm 120", 
     "title": "Methods of Teaching Mathematics in Secondary Schools", 
-    "sectionCode": 34120, 
+    "classNumber": 34120, 
     "section": "001-LEC", 
     "instructor": "Jose Fonseca", 
     "day": [
@@ -11676,7 +11676,7 @@ var data =
     "end": "15:15", 
     "location": "Math Teaching Lab, Rm 120", 
     "title": "Synthesis of Mathematical Concepts", 
-    "sectionCode": 34121, 
+    "classNumber": 34121, 
     "section": "001-LEC", 
     "instructor": "Aditya Adiredja", 
     "day": [
@@ -11691,7 +11691,7 @@ var data =
     "end": "12:50", 
     "location": "Biol Sci West, Rm 237", 
     "title": "Linear Algebra", 
-    "sectionCode": 34123, 
+    "classNumber": 34123, 
     "section": "001-LEC", 
     "instructor": "Ngoc Do", 
     "day": [
@@ -11707,7 +11707,7 @@ var data =
     "end": "11:50", 
     "location": "C E Chavez Bldg, Rm 109", 
     "title": "Introduction to Abstract Algebra", 
-    "sectionCode": 34124, 
+    "classNumber": 34124, 
     "section": "001-LEC", 
     "instructor": "Klaus Lux", 
     "day": [
@@ -11723,7 +11723,7 @@ var data =
     "end": "9:15", 
     "location": "Biol Sci West, Rm 210", 
     "title": "Advanced Applied Mathematics", 
-    "sectionCode": 34125, 
+    "classNumber": 34125, 
     "section": "001-LEC", 
     "instructor": "Douglas Pickrell", 
     "day": [
@@ -11738,7 +11738,7 @@ var data =
     "end": "10:45", 
     "location": "Engineering, Rm 308", 
     "title": "Advanced Applied Mathematics", 
-    "sectionCode": 34126, 
+    "classNumber": 34126, 
     "section": "002-LEC", 
     "instructor": "Robert Jenkins", 
     "day": [
@@ -11753,7 +11753,7 @@ var data =
     "end": "9:50", 
     "location": "Biol Sci West, Rm 210", 
     "title": "Real Analysis of One Variable", 
-    "sectionCode": 34127, 
+    "classNumber": 34127, 
     "section": "001-LEC", 
     "instructor": "Lidia Mrad", 
     "day": [
@@ -11769,7 +11769,7 @@ var data =
     "end": "10:50", 
     "location": "Biol Sci West, Rm 219", 
     "title": "Real Analysis of One Variable", 
-    "sectionCode": 34128, 
+    "classNumber": 34128, 
     "section": "002-LEC", 
     "instructor": "Joceline Lega", 
     "day": [
@@ -11785,7 +11785,7 @@ var data =
     "end": "14:50", 
     "location": "C E Chavez Bldg, Rm 109", 
     "title": "Ordinary Differential Equations and Stability Theory", 
-    "sectionCode": 40796, 
+    "classNumber": 40796, 
     "section": "001-LEC", 
     "instructor": "Karl Glasner", 
     "day": [
@@ -11801,7 +11801,7 @@ var data =
     "end": "15:15", 
     "location": "C E Chavez Bldg, Rm 103", 
     "title": "Theory of Probability", 
-    "sectionCode": 34129, 
+    "classNumber": 34129, 
     "section": "001-LEC", 
     "instructor": "Houssam Abdul-rahman", 
     "day": [
@@ -11816,7 +11816,7 @@ var data =
     "end": "13:50", 
     "location": "Engineering, Rm 308", 
     "title": "Theory of Probability", 
-    "sectionCode": 34130, 
+    "classNumber": 34130, 
     "section": "002-LEC", 
     "instructor": "Thomas Kennedy", 
     "day": [
@@ -11832,7 +11832,7 @@ var data =
     "end": "9:15", 
     "location": "Engineering, Rm 311", 
     "title": "Theory of Statistics", 
-    "sectionCode": 43478, 
+    "classNumber": 43478, 
     "section": "001-LEC", 
     "instructor": "Ning Hao", 
     "day": [
@@ -11847,7 +11847,7 @@ var data =
     "end": "10:45", 
     "location": "Modern Languages, Rm 312", 
     "title": "Mathematical Principles of Numerical Analysis", 
-    "sectionCode": 43132, 
+    "classNumber": 43132, 
     "section": "001-LEC", 
     "instructor": "Ibrahim Fatkullin", 
     "day": [
@@ -11862,7 +11862,7 @@ var data =
     "end": "18:30", 
     "location": "Env & Nat Rsrcs Phas2, Rm S395", 
     "title": "Preceptorship", 
-    "sectionCode": 62188, 
+    "classNumber": 62188, 
     "section": "001-IND", 
     "instructor": "Gabriela Jaramillo,", 
     "day": [
@@ -11876,7 +11876,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Directed Research", 
-    "sectionCode": 67715, 
+    "classNumber": 67715, 
     "section": "001-IND", 
     "instructor": "Gabriela Jaramillo", 
     "day": [
@@ -11890,7 +11890,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Directed Research", 
-    "sectionCode": 67803, 
+    "classNumber": 67803, 
     "section": "002-IND", 
     "instructor": "Douglas Pickrell", 
     "day": [
@@ -11904,7 +11904,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Internship", 
-    "sectionCode": 34131, 
+    "classNumber": 34131, 
     "section": "001-IND", 
     "instructor": "Staff", 
     "day": [
@@ -11918,7 +11918,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Secondary Mathematics Student Teaching Practicum", 
-    "sectionCode": 43907, 
+    "classNumber": 43907, 
     "section": "001-PRA", 
     "instructor": "Cynthia Anhalt", 
     "day": [
@@ -11932,7 +11932,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Senior Capstone", 
-    "sectionCode": 34132, 
+    "classNumber": 34132, 
     "section": "001-IND", 
     "instructor": "Staff", 
     "day": [
@@ -11946,7 +11946,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Honors Thesis", 
-    "sectionCode": 34133, 
+    "classNumber": 34133, 
     "section": "001-IND", 
     "instructor": "Jiawei Zhang", 
     "day": [
@@ -11960,7 +11960,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Honors Thesis", 
-    "sectionCode": 34134, 
+    "classNumber": 34134, 
     "section": "002-IND", 
     "instructor": "Karl Glasner", 
     "day": [
@@ -11974,7 +11974,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Honors Thesis", 
-    "sectionCode": 34135, 
+    "classNumber": 34135, 
     "section": "003-IND", 
     "instructor": "Julio Cardenas Rodriguez", 
     "day": [
@@ -11988,7 +11988,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Honors Thesis", 
-    "sectionCode": 41102, 
+    "classNumber": 41102, 
     "section": "004-IND", 
     "instructor": "Staff", 
     "day": [
@@ -12002,7 +12002,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Honors Thesis", 
-    "sectionCode": 47172, 
+    "classNumber": 47172, 
     "section": "005-IND", 
     "instructor": "Staff", 
     "day": [
@@ -12016,7 +12016,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Honors Thesis", 
-    "sectionCode": 47177, 
+    "classNumber": 47177, 
     "section": "006-IND", 
     "instructor": "Staff", 
     "day": [
@@ -12030,7 +12030,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Honors Thesis", 
-    "sectionCode": 47210, 
+    "classNumber": 47210, 
     "section": "007-IND", 
     "instructor": "Staff", 
     "day": [
@@ -12044,7 +12044,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 34136, 
+    "classNumber": 34136, 
     "section": "001-IND", 
     "instructor": "Matthias Morzfeld", 
     "day": [
@@ -12058,7 +12058,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 34137, 
+    "classNumber": 34137, 
     "section": "002-IND", 
     "instructor": "Staff", 
     "day": [
@@ -12072,7 +12072,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 34138, 
+    "classNumber": 34138, 
     "section": "003-IND", 
     "instructor": "Staff", 
     "day": [
@@ -12086,7 +12086,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 48518, 
+    "classNumber": 48518, 
     "section": "004-IND", 
     "instructor": "Staff", 
     "day": [
@@ -12100,7 +12100,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Honors Independent Study", 
-    "sectionCode": 34139, 
+    "classNumber": 34139, 
     "section": "001-IND", 
     "instructor": "Staff", 
     "day": [
@@ -12114,7 +12114,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Honors Independent Study", 
-    "sectionCode": 47055, 
+    "classNumber": 47055, 
     "section": "002-IND", 
     "instructor": "Staff", 
     "day": [
@@ -12128,7 +12128,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Honors Independent Study", 
-    "sectionCode": 47191, 
+    "classNumber": 47191, 
     "section": "003-IND", 
     "instructor": "Staff", 
     "day": [
@@ -12142,7 +12142,7 @@ var data =
     "end": "9:50", 
     "location": "Communication, Rm 113", 
     "title": "Symbolic Logic", 
-    "sectionCode": 43101, 
+    "classNumber": 43101, 
     "section": "001-LEC", 
     "instructor": "Jason Turner", 
     "day": [
@@ -12158,7 +12158,7 @@ var data =
     "end": "17:15", 
     "location": "R P Harvill Bldg, Rm 319", 
     "title": "History of Mathematics", 
-    "sectionCode": 34140, 
+    "classNumber": 34140, 
     "section": "001-LEC", 
     "instructor": "Daniel Madden", 
     "day": [
@@ -12173,7 +12173,7 @@ var data =
     "end": "18:45", 
     "location": "Math Teaching Lab, Rm 120", 
     "title": "Research on the Teaching of Mathematics", 
-    "sectionCode": 59890, 
+    "classNumber": 59890, 
     "section": "001-LEC", 
     "instructor": "Staff", 
     "day": [
@@ -12187,7 +12187,7 @@ var data =
     "end": "13:45", 
     "location": "Mathematics, Rm 501", 
     "title": "Algebra", 
-    "sectionCode": 34141, 
+    "classNumber": 34141, 
     "section": "001-LEC", 
     "instructor": "Jack Hall", 
     "day": [
@@ -12202,7 +12202,7 @@ var data =
     "end": "12:50", 
     "location": "Math Teaching Lab, Rm 124", 
     "title": "Linear Algebra", 
-    "sectionCode": 34142, 
+    "classNumber": 34142, 
     "section": "001-LEC", 
     "instructor": "Yi Hu", 
     "day": [
@@ -12218,7 +12218,7 @@ var data =
     "end": "12:15", 
     "location": "Mathematics, Rm 514", 
     "title": "Algebraic Number Theory", 
-    "sectionCode": 65077, 
+    "classNumber": 65077, 
     "section": "001-LEC", 
     "instructor": "Hang Xue", 
     "day": [
@@ -12233,7 +12233,7 @@ var data =
     "end": "11:50", 
     "location": "C E Chavez Bldg, Rm 109", 
     "title": "Introduction to Abstract Algebra", 
-    "sectionCode": 34143, 
+    "classNumber": 34143, 
     "section": "001-LEC", 
     "instructor": "Klaus Lux", 
     "day": [
@@ -12249,7 +12249,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Topics in Algebra", 
-    "sectionCode": 34144, 
+    "classNumber": 34144, 
     "section": "001-LEC", 
     "instructor": "Staff", 
     "day": [
@@ -12263,7 +12263,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Topics in Number Theory and Combinatorics", 
-    "sectionCode": 34145, 
+    "classNumber": 34145, 
     "section": "001-LEC", 
     "instructor": "Staff", 
     "day": [
@@ -12277,7 +12277,7 @@ var data =
     "end": "14:50", 
     "location": "Mathematics, Rm 501", 
     "title": "Complex Analysis", 
-    "sectionCode": 59861, 
+    "classNumber": 59861, 
     "section": "001-LEC", 
     "instructor": "Leonid Friedlander", 
     "day": [
@@ -12293,7 +12293,7 @@ var data =
     "end": "9:15", 
     "location": "Biol Sci West, Rm 210", 
     "title": "Advanced Applied Mathematics", 
-    "sectionCode": 34146, 
+    "classNumber": 34146, 
     "section": "001-LEC", 
     "instructor": "Douglas Pickrell", 
     "day": [
@@ -12308,7 +12308,7 @@ var data =
     "end": "10:45", 
     "location": "Engineering, Rm 308", 
     "title": "Advanced Applied Mathematics", 
-    "sectionCode": 34147, 
+    "classNumber": 34147, 
     "section": "002-LEC", 
     "instructor": "Robert Jenkins", 
     "day": [
@@ -12323,7 +12323,7 @@ var data =
     "end": "10:50", 
     "location": "Mathematics, Rm 501", 
     "title": "Real Analysis", 
-    "sectionCode": 34148, 
+    "classNumber": 34148, 
     "section": "001-LEC", 
     "instructor": "Robert Sims", 
     "day": [
@@ -12339,7 +12339,7 @@ var data =
     "end": "9:50", 
     "location": "Biol Sci West, Rm 210", 
     "title": "Real Analysis of One Variable", 
-    "sectionCode": 34149, 
+    "classNumber": 34149, 
     "section": "001-LEC", 
     "instructor": "Lidia Mrad", 
     "day": [
@@ -12355,7 +12355,7 @@ var data =
     "end": "10:50", 
     "location": "Math Teaching Lab, Rm 124", 
     "title": "Real Analysis of One Variable", 
-    "sectionCode": 56902, 
+    "classNumber": 56902, 
     "section": "002-LEC", 
     "instructor": "Thomas Kennedy", 
     "day": [
@@ -12371,7 +12371,7 @@ var data =
     "end": "11:50", 
     "location": "Mathematics, Rm 501", 
     "title": "Principles of Analysis", 
-    "sectionCode": 34150, 
+    "classNumber": 34150, 
     "section": "001-LEC", 
     "instructor": "Sunhi Choi", 
     "day": [
@@ -12387,7 +12387,7 @@ var data =
     "end": "13:50", 
     "location": "Mathematics, Rm 514", 
     "title": "Banach and Hilbert Spaces", 
-    "sectionCode": 53659, 
+    "classNumber": 53659, 
     "section": "001-LEC", 
     "instructor": "Marek Rychlik", 
     "day": [
@@ -12403,7 +12403,7 @@ var data =
     "end": "10:45", 
     "location": "Env & Nat Rsrcs Phas2, Rm S395", 
     "title": "Topics in Modern Analysis", 
-    "sectionCode": 34151, 
+    "classNumber": 34151, 
     "section": "001-LEC", 
     "instructor": "Matthias Morzfeld", 
     "day": [
@@ -12418,7 +12418,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Topics in Modern Analysis", 
-    "sectionCode": 66331, 
+    "classNumber": 66331, 
     "section": "002-LEC", 
     "instructor": "Staff", 
     "day": [
@@ -12432,7 +12432,7 @@ var data =
     "end": "10:45", 
     "location": "Mathematics, Rm 501", 
     "title": "Topology-Geometry", 
-    "sectionCode": 34152, 
+    "classNumber": 34152, 
     "section": "001-LEC", 
     "instructor": "David Glickenstein", 
     "day": [
@@ -12447,7 +12447,7 @@ var data =
     "end": "9:50", 
     "location": "Mathematics, Rm 501", 
     "title": "Global Differential Geometry", 
-    "sectionCode": 65081, 
+    "classNumber": 65081, 
     "section": "001-LEC", 
     "instructor": "Sergey Cherkis", 
     "day": [
@@ -12463,7 +12463,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Topics in Geometry and Topology", 
-    "sectionCode": 34153, 
+    "classNumber": 34153, 
     "section": "001-LEC", 
     "instructor": "Staff", 
     "day": [
@@ -12477,7 +12477,7 @@ var data =
     "end": "12:15", 
     "location": "Math Teaching Lab, Rm 124", 
     "title": "Introduction to Mathematical Physics", 
-    "sectionCode": 42848, 
+    "classNumber": 42848, 
     "section": "001-LEC", 
     "instructor": "Douglas Pickrell", 
     "day": [
@@ -12492,7 +12492,7 @@ var data =
     "end": "15:15", 
     "location": "Math Teaching Lab, Rm 124", 
     "title": "Partial Differential Equations", 
-    "sectionCode": 65078, 
+    "classNumber": 65078, 
     "section": "001-LEC", 
     "instructor": "Jan Wehr", 
     "day": [
@@ -12507,7 +12507,7 @@ var data =
     "end": "16:15", 
     "location": "Mathematics, Rm 514", 
     "title": "Dynamical Systems and Chaos", 
-    "sectionCode": 65079, 
+    "classNumber": 65079, 
     "section": "001-LEC", 
     "instructor": "Kevin Lin", 
     "day": [
@@ -12522,7 +12522,7 @@ var data =
     "end": "11:50", 
     "location": "Math Teaching Lab, Rm 124", 
     "title": "Probability Math", 
-    "sectionCode": 42851, 
+    "classNumber": 42851, 
     "section": "001-LEC", 
     "instructor": "Shankar Venkataramani", 
     "day": [
@@ -12538,7 +12538,7 @@ var data =
     "end": "12:15", 
     "location": "Communication, Rm 311", 
     "title": "Theory of Probability", 
-    "sectionCode": 42853, 
+    "classNumber": 42853, 
     "section": "001-LEC", 
     "instructor": "Yue Niu", 
     "day": [
@@ -12553,7 +12553,7 @@ var data =
     "end": "TBA", 
     "location": "Online", 
     "title": "Theory of Probability", 
-    "sectionCode": 67717, 
+    "classNumber": 67717, 
     "section": "101-LEC", 
     "instructor": "Staff", 
     "day": [
@@ -12567,7 +12567,7 @@ var data =
     "end": "10:45", 
     "location": "Mathematics, Rm 514", 
     "title": "Stochastic Processes", 
-    "sectionCode": 65080, 
+    "classNumber": 65080, 
     "section": "001-LEC", 
     "instructor": "Sunder Sethuraman", 
     "day": [
@@ -12582,7 +12582,7 @@ var data =
     "end": "15:15", 
     "location": "Medical Rsrch Bldg, Rm 102", 
     "title": "Advanced Statistical Regression Analysis", 
-    "sectionCode": 42873, 
+    "classNumber": 42873, 
     "section": "001-LEC", 
     "instructor": "Walter Piegorsch", 
     "day": [
@@ -12597,7 +12597,7 @@ var data =
     "end": "TBA", 
     "location": "Online", 
     "title": "Advanced Statistical Regression Analysis", 
-    "sectionCode": 67385, 
+    "classNumber": 67385, 
     "section": "101-LEC", 
     "instructor": "Walter Piegorsch", 
     "day": [
@@ -12611,7 +12611,7 @@ var data =
     "end": "10:45", 
     "location": "Engineering, Rm 311", 
     "title": "Statistical Machine Learning", 
-    "sectionCode": 60152, 
+    "classNumber": 60152, 
     "section": "001-LEC", 
     "instructor": "Hao Zhang", 
     "day": [
@@ -12626,7 +12626,7 @@ var data =
     "end": "12:15", 
     "location": "Mathematics, Rm 501", 
     "title": "Numerical Analysis", 
-    "sectionCode": 43134, 
+    "classNumber": 43134, 
     "section": "001-LEC", 
     "instructor": "Moysey Brio", 
     "day": [
@@ -12641,7 +12641,7 @@ var data =
     "end": "15:15", 
     "location": "Social Sciences, Rm 307", 
     "title": "Topics in Applied Mathematics", 
-    "sectionCode": 42880, 
+    "classNumber": 42880, 
     "section": "001-LEC", 
     "instructor": "Robert Maier", 
     "day": [
@@ -12656,7 +12656,7 @@ var data =
     "end": "15:15", 
     "location": "Mathematics, Rm 501", 
     "title": "Principles and Methods of Applied Mathematics", 
-    "sectionCode": 34154, 
+    "classNumber": 34154, 
     "section": "001-LEC", 
     "instructor": "Jiawei Zhang", 
     "day": [
@@ -12671,7 +12671,7 @@ var data =
     "end": "17:15", 
     "location": "Mathematics, Rm 501", 
     "title": "Case Studies in Applied Mathematics", 
-    "sectionCode": 34155, 
+    "classNumber": 34155, 
     "section": "001-LEC", 
     "instructor": "Moysey Brio", 
     "day": [
@@ -12685,7 +12685,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Topics in Mathematical Physics", 
-    "sectionCode": 49750, 
+    "classNumber": 49750, 
     "section": "001-LEC", 
     "instructor": "Staff", 
     "day": [
@@ -12699,7 +12699,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Internship", 
-    "sectionCode": 34156, 
+    "classNumber": 34156, 
     "section": "001-IND", 
     "instructor": "Staff", 
     "day": [
@@ -12713,7 +12713,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Internship", 
-    "sectionCode": 41065, 
+    "classNumber": 41065, 
     "section": "002-IND", 
     "instructor": "Staff", 
     "day": [
@@ -12727,7 +12727,7 @@ var data =
     "end": "17:15", 
     "location": "Mathematics, Rm 501", 
     "title": "Math Instruction", 
-    "sectionCode": 34157, 
+    "classNumber": 34157, 
     "section": "001-CLQ", 
     "instructor": "Staff", 
     "day": [
@@ -12741,7 +12741,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Research in Applied Mathematics", 
-    "sectionCode": 34159, 
+    "classNumber": 34159, 
     "section": "001-CLQ", 
     "instructor": "Staff", 
     "day": [
@@ -12755,7 +12755,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Research in Mathematics Education", 
-    "sectionCode": 46178, 
+    "classNumber": 46178, 
     "section": "001-CLQ", 
     "instructor": "Staff", 
     "day": [
@@ -12769,7 +12769,7 @@ var data =
     "end": "17:00", 
     "location": "Mathematics, Rm 402", 
     "title": "Topics in Mathematics", 
-    "sectionCode": 34160, 
+    "classNumber": 34160, 
     "section": "001-SEM", 
     "instructor": "Joseph Watkins", 
     "day": [
@@ -12783,7 +12783,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Topics in Mathematics", 
-    "sectionCode": 47835, 
+    "classNumber": 47835, 
     "section": "002-SEM", 
     "instructor": "Staff", 
     "day": [
@@ -12797,7 +12797,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Research Tutorial Group", 
-    "sectionCode": 34161, 
+    "classNumber": 34161, 
     "section": "001-SEM", 
     "instructor": "David Glickenstein", 
     "day": [
@@ -12811,7 +12811,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Research Tutorial Group", 
-    "sectionCode": 56286, 
+    "classNumber": 56286, 
     "section": "002-SEM", 
     "instructor": "Staff", 
     "day": [
@@ -12825,7 +12825,7 @@ var data =
     "end": "9:50", 
     "location": "Math Teaching Lab, Rm 124", 
     "title": "Professional Development Workshop in Teaching Mathematics", 
-    "sectionCode": 34162, 
+    "classNumber": 34162, 
     "section": "001-WRK", 
     "instructor": "Michelle Mioduski Woodward,", 
     "day": [
@@ -12839,7 +12839,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 34163, 
+    "classNumber": 34163, 
     "section": "001-IND", 
     "instructor": "Yi Hu", 
     "day": [
@@ -12853,7 +12853,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 34164, 
+    "classNumber": 34164, 
     "section": "002-IND", 
     "instructor": "Jack Hall", 
     "day": [
@@ -12867,7 +12867,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 34165, 
+    "classNumber": 34165, 
     "section": "003-IND", 
     "instructor": "Matthias Morzfeld", 
     "day": [
@@ -12881,7 +12881,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 43942, 
+    "classNumber": 43942, 
     "section": "004-IND", 
     "instructor": "Jerome Moloney", 
     "day": [
@@ -12895,7 +12895,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 43943, 
+    "classNumber": 43943, 
     "section": "005-IND", 
     "instructor": "Ning Hao", 
     "day": [
@@ -12909,7 +12909,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 43944, 
+    "classNumber": 43944, 
     "section": "006-IND", 
     "instructor": "Rabindra Bhattacharya", 
     "day": [
@@ -12923,7 +12923,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 44481, 
+    "classNumber": 44481, 
     "section": "007-IND", 
     "instructor": "Joceline Lega", 
     "day": [
@@ -12937,7 +12937,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 44482, 
+    "classNumber": 44482, 
     "section": "008-IND", 
     "instructor": "Kevin Lin", 
     "day": [
@@ -12951,7 +12951,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 44483, 
+    "classNumber": 44483, 
     "section": "009-IND", 
     "instructor": "Moysey Brio", 
     "day": [
@@ -12965,7 +12965,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 44545, 
+    "classNumber": 44545, 
     "section": "010-IND", 
     "instructor": "Cynthia Anhalt", 
     "day": [
@@ -12979,7 +12979,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 44546, 
+    "classNumber": 44546, 
     "section": "011-IND", 
     "instructor": "Andrew Gillette", 
     "day": [
@@ -12993,7 +12993,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 44587, 
+    "classNumber": 44587, 
     "section": "012-IND", 
     "instructor": "Anatoli Tumin", 
     "day": [
@@ -13007,7 +13007,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 44588, 
+    "classNumber": 44588, 
     "section": "013-IND", 
     "instructor": "David Glickenstein", 
     "day": [
@@ -13021,7 +13021,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 44589, 
+    "classNumber": 44589, 
     "section": "014-IND", 
     "instructor": "Staff", 
     "day": [
@@ -13035,7 +13035,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 48665, 
+    "classNumber": 48665, 
     "section": "015-IND", 
     "instructor": "Staff", 
     "day": [
@@ -13049,7 +13049,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 48667, 
+    "classNumber": 48667, 
     "section": "016-IND", 
     "instructor": "Staff", 
     "day": [
@@ -13063,7 +13063,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 48666, 
+    "classNumber": 48666, 
     "section": "017-IND", 
     "instructor": "Staff", 
     "day": [
@@ -13077,7 +13077,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 51714, 
+    "classNumber": 51714, 
     "section": "018-IND", 
     "instructor": "Staff", 
     "day": [
@@ -13091,7 +13091,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 51715, 
+    "classNumber": 51715, 
     "section": "019-IND", 
     "instructor": "Staff", 
     "day": [
@@ -13105,7 +13105,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 51716, 
+    "classNumber": 51716, 
     "section": "020-IND", 
     "instructor": "Staff", 
     "day": [
@@ -13119,7 +13119,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 51829, 
+    "classNumber": 51829, 
     "section": "021-IND", 
     "instructor": "Staff", 
     "day": [
@@ -13133,7 +13133,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Independent Study", 
-    "sectionCode": 51830, 
+    "classNumber": 51830, 
     "section": "022-IND", 
     "instructor": "Staff", 
     "day": [
@@ -13147,7 +13147,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Research", 
-    "sectionCode": 34166, 
+    "classNumber": 34166, 
     "section": "001-IND", 
     "instructor": "Andrew Gillette", 
     "day": [
@@ -13161,7 +13161,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Research", 
-    "sectionCode": 34167, 
+    "classNumber": 34167, 
     "section": "002-IND", 
     "instructor": "Jan Wehr", 
     "day": [
@@ -13175,7 +13175,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Research", 
-    "sectionCode": 34168, 
+    "classNumber": 34168, 
     "section": "003-IND", 
     "instructor": "Staff", 
     "day": [
@@ -13189,7 +13189,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Research", 
-    "sectionCode": 44370, 
+    "classNumber": 44370, 
     "section": "004-IND", 
     "instructor": "Staff", 
     "day": [
@@ -13203,7 +13203,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Research", 
-    "sectionCode": 44371, 
+    "classNumber": 44371, 
     "section": "005-IND", 
     "instructor": "Staff", 
     "day": [
@@ -13217,7 +13217,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Research", 
-    "sectionCode": 44372, 
+    "classNumber": 44372, 
     "section": "006-IND", 
     "instructor": "Staff", 
     "day": [
@@ -13231,7 +13231,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Research", 
-    "sectionCode": 44510, 
+    "classNumber": 44510, 
     "section": "007-IND", 
     "instructor": "Staff", 
     "day": [
@@ -13245,7 +13245,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Research", 
-    "sectionCode": 44511, 
+    "classNumber": 44511, 
     "section": "008-IND", 
     "instructor": "Staff", 
     "day": [
@@ -13259,7 +13259,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Research", 
-    "sectionCode": 44512, 
+    "classNumber": 44512, 
     "section": "009-IND", 
     "instructor": "Staff", 
     "day": [
@@ -13273,7 +13273,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Research", 
-    "sectionCode": 48622, 
+    "classNumber": 48622, 
     "section": "010-IND", 
     "instructor": "Staff", 
     "day": [
@@ -13287,7 +13287,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Thesis", 
-    "sectionCode": 34169, 
+    "classNumber": 34169, 
     "section": "001-IND", 
     "instructor": "Leonid Kunyansky", 
     "day": [
@@ -13301,7 +13301,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Thesis", 
-    "sectionCode": 34170, 
+    "classNumber": 34170, 
     "section": "002-IND", 
     "instructor": "Marta Civil", 
     "day": [
@@ -13315,7 +13315,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Thesis", 
-    "sectionCode": 34171, 
+    "classNumber": 34171, 
     "section": "003-IND", 
     "instructor": "Staff", 
     "day": [
@@ -13329,7 +13329,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Thesis", 
-    "sectionCode": 44513, 
+    "classNumber": 44513, 
     "section": "004-IND", 
     "instructor": "Staff", 
     "day": [
@@ -13343,7 +13343,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Thesis", 
-    "sectionCode": 44515, 
+    "classNumber": 44515, 
     "section": "005-IND", 
     "instructor": "Staff", 
     "day": [
@@ -13357,7 +13357,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Thesis", 
-    "sectionCode": 44514, 
+    "classNumber": 44514, 
     "section": "007-IND", 
     "instructor": "Staff", 
     "day": [
@@ -13371,7 +13371,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Dissertation", 
-    "sectionCode": 34172, 
+    "classNumber": 34172, 
     "section": "001-IND", 
     "instructor": "Nicholas Ercolani", 
     "day": [
@@ -13385,7 +13385,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Dissertation", 
-    "sectionCode": 34173, 
+    "classNumber": 34173, 
     "section": "002-IND", 
     "instructor": "Leonid Friedlander", 
     "day": [
@@ -13399,7 +13399,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Dissertation", 
-    "sectionCode": 34174, 
+    "classNumber": 34174, 
     "section": "003-IND", 
     "instructor": "Shankar Venkataramani", 
     "day": [
@@ -13413,7 +13413,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Dissertation", 
-    "sectionCode": 34175, 
+    "classNumber": 34175, 
     "section": "004-IND", 
     "instructor": "Marek Rychlik", 
     "day": [
@@ -13427,7 +13427,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Dissertation", 
-    "sectionCode": 34176, 
+    "classNumber": 34176, 
     "section": "005-IND", 
     "instructor": "Bryden Cais", 
     "day": [
@@ -13441,7 +13441,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Dissertation", 
-    "sectionCode": 34177, 
+    "classNumber": 34177, 
     "section": "006-IND", 
     "instructor": "Jerome Moloney", 
     "day": [
@@ -13455,7 +13455,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Dissertation", 
-    "sectionCode": 34178, 
+    "classNumber": 34178, 
     "section": "007-IND", 
     "instructor": "Timothy Secomb", 
     "day": [
@@ -13469,7 +13469,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Dissertation", 
-    "sectionCode": 34179, 
+    "classNumber": 34179, 
     "section": "008-IND", 
     "instructor": "Neo Martinez", 
     "day": [
@@ -13483,7 +13483,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Dissertation", 
-    "sectionCode": 44034, 
+    "classNumber": 44034, 
     "section": "009-IND", 
     "instructor": "Matthias Morzfeld", 
     "day": [
@@ -13497,7 +13497,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Dissertation", 
-    "sectionCode": 44035, 
+    "classNumber": 44035, 
     "section": "010-IND", 
     "instructor": "Neng Fan", 
     "day": [
@@ -13511,7 +13511,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Dissertation", 
-    "sectionCode": 44036, 
+    "classNumber": 44036, 
     "section": "011-IND", 
     "instructor": "Jan Wehr", 
     "day": [
@@ -13525,7 +13525,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Dissertation", 
-    "sectionCode": 44037, 
+    "classNumber": 44037, 
     "section": "012-IND", 
     "instructor": "Vladimir Zakharov", 
     "day": [
@@ -13539,7 +13539,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Dissertation", 
-    "sectionCode": 44038, 
+    "classNumber": 44038, 
     "section": "013-IND", 
     "instructor": "Thomas Kennedy", 
     "day": [
@@ -13553,7 +13553,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Dissertation", 
-    "sectionCode": 44329, 
+    "classNumber": 44329, 
     "section": "014-IND", 
     "instructor": "Ali Bilgin", 
     "day": [
@@ -13567,7 +13567,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Dissertation", 
-    "sectionCode": 44330, 
+    "classNumber": 44330, 
     "section": "015-IND", 
     "instructor": "Klaus Lux", 
     "day": [
@@ -13581,7 +13581,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Dissertation", 
-    "sectionCode": 44331, 
+    "classNumber": 44331, 
     "section": "016-IND", 
     "instructor": "David Glickenstein", 
     "day": [
@@ -13595,7 +13595,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Dissertation", 
-    "sectionCode": 44418, 
+    "classNumber": 44418, 
     "section": "017-IND", 
     "instructor": "C Winter", 
     "day": [
@@ -13609,7 +13609,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Dissertation", 
-    "sectionCode": 44419, 
+    "classNumber": 44419, 
     "section": "018-IND", 
     "instructor": "Sunder Sethuraman", 
     "day": [
@@ -13623,7 +13623,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Dissertation", 
-    "sectionCode": 44459, 
+    "classNumber": 44459, 
     "section": "019-IND", 
     "instructor": "Kevin Lin", 
     "day": [
@@ -13637,7 +13637,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Dissertation", 
-    "sectionCode": 44460, 
+    "classNumber": 44460, 
     "section": "020-IND", 
     "instructor": "Joanna Monti-Masel", 
     "day": [
@@ -13651,7 +13651,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Dissertation", 
-    "sectionCode": 44461, 
+    "classNumber": 44461, 
     "section": "021-IND", 
     "instructor": "Ildar Gabitov", 
     "day": [
@@ -13665,7 +13665,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Dissertation", 
-    "sectionCode": 44462, 
+    "classNumber": 44462, 
     "section": "022-IND", 
     "instructor": "Pham Tiep", 
     "day": [
@@ -13679,7 +13679,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Dissertation", 
-    "sectionCode": 44539, 
+    "classNumber": 44539, 
     "section": "023-IND", 
     "instructor": "Marta Civil", 
     "day": [
@@ -13693,7 +13693,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Dissertation", 
-    "sectionCode": 46986, 
+    "classNumber": 46986, 
     "section": "024-IND", 
     "instructor": "Sergey Cherkis", 
     "day": [
@@ -13707,7 +13707,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Dissertation", 
-    "sectionCode": 46987, 
+    "classNumber": 46987, 
     "section": "025-IND", 
     "instructor": "Harrison Barrett", 
     "day": [
@@ -13721,7 +13721,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Dissertation", 
-    "sectionCode": 46988, 
+    "classNumber": 46988, 
     "section": "026-IND", 
     "instructor": "Staff", 
     "day": [
@@ -13735,7 +13735,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Dissertation", 
-    "sectionCode": 46989, 
+    "classNumber": 46989, 
     "section": "027-IND", 
     "instructor": "Staff", 
     "day": [
@@ -13749,7 +13749,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Dissertation", 
-    "sectionCode": 47056, 
+    "classNumber": 47056, 
     "section": "028-IND", 
     "instructor": "Staff", 
     "day": [
@@ -13763,7 +13763,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Dissertation", 
-    "sectionCode": 47057, 
+    "classNumber": 47057, 
     "section": "029-IND", 
     "instructor": "Staff", 
     "day": [
@@ -13777,7 +13777,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Dissertation", 
-    "sectionCode": 47058, 
+    "classNumber": 47058, 
     "section": "030-IND", 
     "instructor": "Staff", 
     "day": [
@@ -13791,7 +13791,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Dissertation", 
-    "sectionCode": 47231, 
+    "classNumber": 47231, 
     "section": "031-IND", 
     "instructor": "Staff", 
     "day": [
@@ -13805,7 +13805,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Dissertation", 
-    "sectionCode": 48613, 
+    "classNumber": 48613, 
     "section": "032-IND", 
     "instructor": "Staff", 
     "day": [
@@ -13819,7 +13819,7 @@ var data =
     "end": "TBA", 
     "location": "TBA", 
     "title": "Dissertation", 
-    "sectionCode": 48612, 
+    "classNumber": 48612, 
     "section": "033-IND", 
     "instructor": "Staff", 
     "day": [

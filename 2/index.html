@@ -25,6 +25,9 @@
 	shape-rendering: crispEdges;
 }
 
+.notselected{
+	opacity: 0.1;
+}
 </style>
 </head>
 
@@ -93,7 +96,7 @@ function init(){
 	svg.sy = d3.scaleTime()
 	.domain([
 	new Date(1970,0,1).setSeconds("8:00".toSec()),
-	new Date(1970,0,1).setSeconds("19:00".toSec()),
+	new Date(1970,0,1).setSeconds("21:00".toSec()),
 	])
 	.range([50,height-50]);
 
@@ -102,30 +105,51 @@ function init(){
 	'#b3de69','#fccde5','#d9d9d9','#bc80bd','#ccebc5','#ffed6f']);
 	
 	//width scale for cells
-	svg.sw = function(d){
-		var self = this;
+	svg.cellWidth = {};
+
+	svg.computeAllCellWidth = function(){
 		var cells = expand(svg.classes);
-		var cellsToday = cells.filter(function(c){
-			return d.day == c.day; 
-		});
-		var count = 0;
-		var col = null;
-		while(cellsToday.length != 0){
-			var res = maxNonOverlappingCells(cellsToday);
-			cellsToday = res.residual;
-			for(var i=0; i<res.cells.length; i++){
-				if(d.sectionCode == res.cells[i].sectionCode){
-					col = count;
+		for(var day=1; day<=5; day++){
+			var cellsToday = cells.filter(function(cell){
+				return cell.day == day; 
+			});
+			var columnPosition = 0;
+			while(cellsToday.length != 0){
+				var res = maxNonOverlappingCells(cellsToday);
+				cellsToday = res.residual;
+				for(var i=0; i<res.cells.length; i++){
+						var classNumber = res.cells[i].classNumber;
+						//memoitize columnPosition;
+						svg.cellWidth[classNumber + ',' + day] = [null, columnPosition];
 				}
+				columnPosition++;
 			}
-			
-			count++;
+			//memoitize width;
+			cellsToday = cells.filter(function(cell){
+				return cell.day == day; 
+			});
+			for(var i=0; i<cellsToday.length; i++){
+				var classNumber = cellsToday[i].classNumber;
+				//memoitize width;
+				svg.cellWidth[classNumber + ',' + day][0] = (svg.sx(2)-svg.sx(1))/columnPosition;
+			}
 		}
-		return [(svg.sx(2)-svg.sx(1))/count, col] ;
+		
+	}
+	svg.sw = function(d){
+		if(Object.keys(svg.cellWidth).length ==0){
+			svg.computeAllCellWidth();
+		}
+		return svg.cellWidth[d.classNumber + ',' + d.day];
+			
+
+			
 
 	}
 	svg.classes = [];
-	
+	svg.getCells = function(){
+		return expand(svg.classes);
+	}
 	svg.addClass = function(c){
 		svg.classes.push(c);
 	};
@@ -157,7 +181,8 @@ function init(){
 
 		var g = self.append('g')
 		.datum(cellData)
-		.attr('class','cell')
+		.attr('class', 'cell')
+		.classed('notselected', true)
 		.attr('transform', function(d){
 			return 'translate(' + sx(d.day)+','+sy(d.start.toSec().toDate())+')';
 		});
@@ -211,8 +236,21 @@ function init(){
 				return 12;
 			})*/
 
-
 		return g;
+	};
+
+	svg.listenToInteraction = function(){
+		svg.selectAll('.cell').on('click', function(d){
+			var classNumber = d3.select(this).datum().classNumber;
+			console.log(classNumber);
+			d3.selectAll('.cell')
+			.filter(function(d){
+				return d.classNumber == classNumber;
+			})
+			.classed('notselected', ! d3.select(this).classed('notselected'));
+
+			//
+		});
 	};
 
 	return svg;
@@ -264,6 +302,8 @@ function main(){
 			svg.addClass(data[i]);
 	}
   svg.draw();
+  svg.listenToInteraction();
+
 	return svg;
 }
 
