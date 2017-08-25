@@ -11,7 +11,6 @@
 </head>
 
 <body>
-<div id='tooltip' class='hidden'></div>
 <svg id='big' width=1100 height=700></svg>
 <button id='bNext' onclick='generateTimeTable()'>Next</button>
 
@@ -193,6 +192,8 @@ function init(){
 		if (mode != 'final'){
 			g.classed('notselected', true);
 		}
+
+
 		g.append('rect')
 		.attr('width',function(d){
 			return sw(d)[0];
@@ -208,11 +209,13 @@ function init(){
 		.attr('fill', function(d){
 			return color;
 		})
+
+		/*
 		.append('title')
 		.text(cellData.code + '\n'
 					+ cellData.title + '\n'
 					+ cellData.location + '\n'
-					+ cellData.instructor + '\n');
+					+ cellData.instructor + '\n');*/
 		
 		if(mode == 'final'){
 			var tag = g.append('text')
@@ -226,29 +229,32 @@ function init(){
 			cellData.location, 
 			cellData.instructor];
 			tag.selectAll('tspan')
-			.data(tagData).enter()
+			.data(tagData)
+			.enter()
 			.append('tspan')
-			.text(function(d){return d})
+			.text(function(d){return d;})
 			.attr('fill', 'black')
 			.attr('x', function(d){
-					var rect = d3.select(this.parentNode.previousSibling);
-					var w = sw(cellData)[0];
-					return sw(cellData)[1] * w + w/2;  
-				})
-				.attr('dy', function(d,i){return '1em'})
-				.attr('font-style', function(d, i){
-					return 'normal';
-				})
-				.attr('font-size', function(d, i){
-					return 12;
-				})
-			}
+				var rect = d3.select(this.parentNode.previousSibling);
+				var w = sw(cellData)[0];
+				return sw(cellData)[1] * w + w/2;  
+			})
+			.attr('dy', function(d,i){return '1em'})
+			.attr('font-style', function(d, i){
+				return 'normal';
+			})
+			.attr('font-size', function(d, i){
+				return 12;
+			});
+		}
 
 		return g;
 	};
 
 	svg.listenToInteraction = function(){
-		svg.selectAll('.cell').on('click', function(d){
+
+		svg.selectAll('.cell')
+		.on('click', function(d){
 			var classNumber = d3.select(this).datum().classNumber;
 			d3.selectAll('.cell')
 			.filter(function(d){
@@ -257,29 +263,61 @@ function init(){
 			.classed('notselected', !d3.select(this).classed('notselected'));
 		});
 
+
 		svg.selectAll('.cell')
 		.on('mouseover', function(d){
+			var cell = d3.select(this);
 			var tooltipInfo = [d.code, d.title, d.location, d.instructor];
-			//append if new
-			d3.select('div#tooltip')
-			.classed('hidden', false)
-			.style("left", "1100px")
-			.style("top", "100px")
-			.selectAll('p')
+			//append for the first time (only)
+			d3.select('#tooltip')
+			.attr('opacity', 0.9)
+			/*.style("left", function(){
+				var x = cell.attr('x');
+				var w = svg.sw(d);
+				return 1000 + 'px';
+			})
+			.style("top", function(){
+				var y = svg.sy(d.start.toSec().toDate());
+				var h = svg.sy(d.start.toSec().toDate()) 
+								- svg.sy(d.end.toSec().toDate());
+				return 500+ 'px';
+			})*/
+			.select('text')
+			.selectAll('tspan')
 			.data(tooltipInfo)
 			.enter()
-			.append('p');
+			.append('tspan');
+			
+			d3.select('#tooltip')
+			.attr('transform', function(){
+				var gx = +cell.attr('transform').split('(')[1]
+				.split(',')[0];
+				var x = +cell.select('rect').attr('x') + cell.select('rect').attr('width')/2;
+				var y = svg.sy(d.start.toSec().toDate())/2 + svg.sy(d.end.toSec().toDate())/2;
+				return 'translate('+(gx+x) +','+y+')';
+			});
 
-			d3.select('div#tooltip')
-			.selectAll('p')
+			d3.select('#tooltip')
+			.selectAll('tspan')
 			.data(tooltipInfo)
-			.text(function(d){return d;});
+			.text(function(d){return d;})
+			.attr('fill', 'black')
+			.attr('x', function(d){
+				return 0;  
+			})
+			.attr('dy', function(d,i){return '1em'})
+			.attr('font-style', function(d, i){
+				return 'normal';
+			})
+			.attr('font-size', function(d, i){
+				return 12;
+			});
 		});
 
 			svg.selectAll('.cell')
 			.on('mouseout', function(d){
-				d3.select('div#tooltip')
-					.classed('hidden', true);
+				d3.select('#tooltip')
+					.attr('opacity', 0);
 			});
 	};
 
@@ -317,6 +355,19 @@ function initPlot(svg){
 	.attr('x2', function(d){return svg.sx(d)})
 	.attr('y1', function(d){return svg.sy(svg.sy.domain()[0])})
 	.attr('y2', function(d){return svg.sy(svg.sy.domain()[1])});
+
+	svg.append('g')
+	.attr('id', 'tooltip')
+	.attr('opacity', 0)
+	.append('rect')
+	.attr('x', 0)
+	.attr('y', 0)
+	.attr('width', 200)
+	.attr('height', 50)
+	.attr('fill', '#eee');
+
+	svg.select('#tooltip')
+	.append('text');
 }
 
 
