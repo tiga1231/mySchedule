@@ -33,7 +33,7 @@
 
 <body>
 
-<svg id='big' width=1200 height=750></svg>
+<svg id='big' width=1200 height=800></svg>
 <button id='bNext' onclick='generateTimeTable()'>Next</button>
 
 <script>
@@ -86,7 +86,7 @@ function generateTimeTable(){
 	svg.selectAll('.cell').remove();
 	svg.cellWidth = {};
 	svg.draw('final');
-	svg.listenToInteraction();
+	//svg.listenToInteraction();
 	d3.select('#bNext').remove();
 }
 
@@ -121,7 +121,7 @@ function init(){
 	svg.sy = d3.scaleTime()
 	.domain([
 	new Date(1970,0,1).setSeconds("8:00".toSec()),
-	new Date(1970,0,1).setSeconds("21:00".toSec()),
+	new Date(1970,0,1).setSeconds("19:00".toSec()),
 	])
 	.range([50,height-50]);
 
