@@ -867,7 +867,7 @@ var data =
     ]
   }, 
   {
-    "status": "We 3:30PM - 5:30PM", 
+    "status": "Open", 
     "start": "15:30", 
     "code": "CSC 296B", 
     "end": "17:30", 
@@ -5067,7 +5067,7 @@ var data =
     ]
   }, 
   {
-    "status": "2017/08/21 - 2017/12/06", 
+    "status": "Closed", 
     "start": "9:30", 
     "code": "MATH 100", 
     "end": "10:45", 
@@ -5487,7 +5487,7 @@ var data =
     ]
   }, 
   {
-    "status": "2017/08/21 - 2017/12/06", 
+    "status": "Closed", 
     "start": "9:30", 
     "code": "MATH 100", 
     "end": "10:45", 
@@ -5727,7 +5727,7 @@ var data =
     ]
   }, 
   {
-    "status": "Michelle Mioduski Woodward", 
+    "status": "Closed", 
     "start": "17:00", 
     "code": "MATH 100", 
     "end": "18:15", 
@@ -5802,7 +5802,7 @@ var data =
     ]
   }, 
   {
-    "status": "2017/08/21 - 2017/12/06", 
+    "status": "Closed", 
     "start": "TBA", 
     "code": "MATH 100", 
     "end": "TBA", 
@@ -5935,7 +5935,7 @@ var data =
     ]
   }, 
   {
-    "status": "2017/08/21 - 2017/12/06", 
+    "status": "Closed", 
     "start": "14:00", 
     "code": "MATH 100AX", 
     "end": "15:15", 
@@ -6461,7 +6461,7 @@ var data =
     ]
   }, 
   {
-    "status": "Taryn Laird", 
+    "status": "Closed", 
     "start": "12:30", 
     "code": "MATH 107", 
     "end": "13:45", 
@@ -6540,15 +6540,15 @@ var data =
     ]
   }, 
   {
-    "status": "Sarah Hoffman", 
+    "status": "Closed", 
     "start": "17:30", 
     "code": "MATH 109C", 
     "end": "19:30", 
-    "location": "TBA", 
+    "location": "C E Chavez Bldg, Rm 301", 
     "title": "Applied College Algebra with Data Analysis", 
     "classNumber": 46841, 
     "section": "005-LEC", 
-    "instructor": "C E Chavez Bldg, Rm 301", 
+    "instructor": "Sarah Hoffman", 
     "day": [
       3
     ]
@@ -6643,135 +6643,135 @@ var data =
     ]
   }, 
   {
-    "status": "Yingying Lu", 
+    "status": "Closed", 
     "start": "8:00", 
     "code": "MATH 112", 
     "end": "8:50", 
-    "location": "TBA", 
+    "location": "R P Harvill Bldg, Rm 332B", 
     "title": "College Algebra Concepts and Applications", 
     "classNumber": 54928, 
     "section": "002-LEC", 
-    "instructor": "R P Harvill Bldg, Rm 332B", 
+    "instructor": "Yingying Lu", 
     "day": [
       1, 
       3
     ]
   }, 
   {
-    "status": "Joseph Arreguin", 
+    "status": "Closed", 
     "start": "8:00", 
     "code": "MATH 112", 
     "end": "8:50", 
-    "location": "TBA", 
+    "location": "R P Harvill Bldg, Rm 319", 
     "title": "College Algebra Concepts and Applications", 
     "classNumber": 34031, 
     "section": "003-LEC", 
-    "instructor": "R P Harvill Bldg, Rm 319", 
+    "instructor": "Joseph Arreguin", 
     "day": [
       1, 
       3
     ]
   }, 
   {
-    "status": "Joshua Abrams", 
+    "status": "Closed", 
     "start": "9:00", 
     "code": "MATH 112", 
     "end": "9:50", 
-    "location": "TBA", 
+    "location": "Phys-Atmos Sci, Rm 304", 
     "title": "College Algebra Concepts and Applications", 
     "classNumber": 34032, 
     "section": "004-LEC", 
-    "instructor": "Phys-Atmos Sci, Rm 304", 
+    "instructor": "Joshua Abrams", 
     "day": [
       1, 
       3
     ]
   }, 
   {
-    "status": "Janet Liston", 
+    "status": "Closed", 
     "start": "9:00", 
     "code": "MATH 112", 
     "end": "9:50", 
-    "location": "TBA", 
+    "location": "Education, Rm 308", 
     "title": "College Algebra Concepts and Applications", 
     "classNumber": 54930, 
     "section": "005-LEC", 
-    "instructor": "Education, Rm 308", 
+    "instructor": "Janet Liston", 
     "day": [
       1, 
       3
     ]
   }, 
   {
-    "status": "Thomas Doehrman", 
+    "status": "Closed", 
     "start": "10:00", 
     "code": "MATH 112", 
     "end": "10:50", 
-    "location": "TBA", 
+    "location": "C E Chavez Bldg, Rm 303", 
     "title": "College Algebra Concepts and Applications", 
     "classNumber": 34033, 
     "section": "006-LEC", 
-    "instructor": "C E Chavez Bldg, Rm 303", 
+    "instructor": "Thomas Doehrman", 
     "day": [
       1, 
       3
     ]
   }, 
   {
-    "status": "David Rockoff", 
+    "status": "Closed", 
     "start": "10:00", 
     "code": "MATH 112", 
     "end": "10:50", 
-    "location": "TBA", 
+    "location": "Psychology, Rm 204", 
     "title": "College Algebra Concepts and Applications", 
     "classNumber": 34034, 
     "section": "007-LEC", 
-    "instructor": "Psychology, Rm 204", 
+    "instructor": "David Rockoff", 
     "day": [
       1, 
       3
     ]
   }, 
   {
-    "status": "Gregory Johnson", 
+    "status": "Closed", 
     "start": "10:00", 
     "code": "MATH 112", 
     "end": "10:50", 
-    "location": "TBA", 
+    "location": "R P Harvill Bldg, Rm 316", 
     "title": "College Algebra Concepts and Applications", 
     "classNumber": 34035, 
     "section": "008-LEC", 
-    "instructor": "R P Harvill Bldg, Rm 316", 
+    "instructor": "Gregory Johnson", 
     "day": [
       1, 
       3
     ]
   }, 
   {
-    "status": "Hannah Kravitz", 
+    "status": "Closed", 
     "start": "12:00", 
     "code": "MATH 112", 
     "end": "12:50", 
-    "location": "TBA", 
+    "location": "Biol Sci West, Rm 219", 
     "title": "College Algebra Concepts and Applications", 
     "classNumber": 34036, 
     "section": "009-LEC", 
-    "instructor": "Biol Sci West, Rm 219", 
+    "instructor": "Hannah Kravitz", 
     "day": [
       1, 
       3
     ]
   }, 
   {
-    "status": "Martin Rysavy", 
+    "status": "Closed", 
     "start": "14:00", 
     "code": "MATH 112", 
     "end": "14:50", 
-    "location": "TBA", 
+    "location": "C E Chavez Bldg, Rm 103", 
     "title": "College Algebra Concepts and Applications", 
     "classNumber": 34037, 
     "section": "010-LEC", 
-    "instructor": "C E Chavez Bldg, Rm 103", 
+    "instructor": "Martin Rysavy", 
     "day": [
       1, 
       3
@@ -6794,555 +6794,555 @@ var data =
     ]
   }, 
   {
-    "status": "Brian Hong", 
+    "status": "Closed", 
     "start": "13:00", 
     "code": "MATH 112", 
     "end": "13:50", 
-    "location": "TBA", 
+    "location": "Biol Sci West, Rm 237", 
     "title": "College Algebra Concepts and Applications", 
     "classNumber": 34039, 
     "section": "012-LEC", 
-    "instructor": "Biol Sci West, Rm 237", 
+    "instructor": "Brian Hong", 
     "day": [
       1, 
       3
     ]
   }, 
   {
-    "status": "Jose Fonseca", 
+    "status": "Closed", 
     "start": "15:00", 
     "code": "MATH 112", 
     "end": "15:50", 
-    "location": "TBA", 
+    "location": "C E Chavez Bldg, Rm 109", 
     "title": "College Algebra Concepts and Applications", 
     "classNumber": 34040, 
     "section": "013-LEC", 
-    "instructor": "C E Chavez Bldg, Rm 109", 
+    "instructor": "Jose Fonseca", 
     "day": [
       1, 
       3
     ]
   }, 
   {
-    "status": "Jeffrey Craig", 
+    "status": "Closed", 
     "start": "12:30", 
     "code": "MATH 112", 
     "end": "13:20", 
-    "location": "TBA", 
+    "location": "Shantz, Rm 242E", 
     "title": "College Algebra Concepts and Applications", 
     "classNumber": 34041, 
     "section": "014-LEC", 
-    "instructor": "Shantz, Rm 242E", 
+    "instructor": "Jeffrey Craig", 
     "day": [
       2, 
       4
     ]
   }, 
   {
-    "status": "Kathryn Stefanko", 
+    "status": "Closed", 
     "start": "15:00", 
     "code": "MATH 112", 
     "end": "15:50", 
-    "location": "TBA", 
+    "location": "C E Chavez Bldg, Rm 105", 
     "title": "College Algebra Concepts and Applications", 
     "classNumber": 34042, 
     "section": "015-LEC", 
-    "instructor": "C E Chavez Bldg, Rm 105", 
+    "instructor": "Kathryn Stefanko", 
     "day": [
       1, 
       3
     ]
   }, 
   {
-    "status": "Spencer Nelson", 
+    "status": "Closed", 
     "start": "8:00", 
     "code": "MATH 112", 
     "end": "8:50", 
-    "location": "TBA", 
+    "location": "Engineering, Rm 308", 
     "title": "College Algebra Concepts and Applications", 
     "classNumber": 34043, 
     "section": "016-LEC", 
-    "instructor": "Engineering, Rm 308", 
+    "instructor": "Spencer Nelson", 
     "day": [
       1, 
       3
     ]
   }, 
   {
-    "status": "Rachel Knak", 
+    "status": "Closed", 
     "start": "15:30", 
     "code": "MATH 112", 
     "end": "16:20", 
-    "location": "TBA", 
+    "location": "R P Harvill Bldg, Rm 332B", 
     "title": "College Algebra Concepts and Applications", 
     "classNumber": 34044, 
     "section": "017-LEC", 
-    "instructor": "R P Harvill Bldg, Rm 332B", 
+    "instructor": "Rachel Knak", 
     "day": [
       2, 
       4
     ]
   }, 
   {
-    "status": "Chloe Ondracek", 
+    "status": "Closed", 
     "start": "8:00", 
     "code": "MATH 112", 
     "end": "8:50", 
-    "location": "TBA", 
+    "location": "Education, Rm 333", 
     "title": "College Algebra Concepts and Applications", 
     "classNumber": 45980, 
     "section": "018-LEC", 
-    "instructor": "Education, Rm 333", 
+    "instructor": "Chloe Ondracek", 
     "day": [
       1, 
       3
     ]
   }, 
   {
-    "status": "Noah McCollum-Gahley", 
+    "status": "Closed", 
     "start": "8:00", 
     "code": "MATH 112", 
     "end": "8:50", 
-    "location": "TBA", 
+    "location": "C E Chavez Bldg, Rm 308", 
     "title": "College Algebra Concepts and Applications", 
     "classNumber": 45981, 
     "section": "019-LEC", 
-    "instructor": "C E Chavez Bldg, Rm 308", 
+    "instructor": "Noah McCollum-Gahley", 
     "day": [
       1, 
       3
     ]
   }, 
   {
-    "status": "MOHAMMADJAVAD LATIFIJEBELLI", 
+    "status": "Closed", 
     "start": "8:00", 
     "code": "MATH 112", 
     "end": "8:50", 
-    "location": "TBA", 
+    "location": "C E Chavez Bldg, Rm 109", 
     "title": "College Algebra Concepts and Applications", 
     "classNumber": 34045, 
     "section": "020-LEC", 
-    "instructor": "C E Chavez Bldg, Rm 109", 
+    "instructor": "MOHAMMADJAVAD LATIFIJEBELLI", 
     "day": [
       1, 
       3
     ]
   }, 
   {
-    "status": "Yingying Lu", 
+    "status": "Closed", 
     "start": "9:00", 
     "code": "MATH 112", 
     "end": "9:50", 
-    "location": "TBA", 
+    "location": "C E Chavez Bldg, Rm 316", 
     "title": "College Algebra Concepts and Applications", 
     "classNumber": 34046, 
     "section": "022-LEC", 
-    "instructor": "C E Chavez Bldg, Rm 316", 
+    "instructor": "Yingying Lu", 
     "day": [
       1, 
       3
     ]
   }, 
   {
-    "status": "Noah McCollum-Gahley", 
+    "status": "Closed", 
     "start": "9:00", 
     "code": "MATH 112", 
     "end": "9:50", 
-    "location": "TBA", 
+    "location": "C E Chavez Bldg, Rm 304", 
     "title": "College Algebra Concepts and Applications", 
     "classNumber": 34047, 
     "section": "023-LEC", 
-    "instructor": "C E Chavez Bldg, Rm 304", 
+    "instructor": "Noah McCollum-Gahley", 
     "day": [
       1, 
       3
     ]
   }, 
   {
-    "status": "Bud Denny", 
+    "status": "Closed", 
     "start": "10:00", 
     "code": "MATH 112", 
     "end": "10:50", 
-    "location": "TBA", 
+    "location": "Civil Engineering, Rm 201", 
     "title": "College Algebra Concepts and Applications", 
     "classNumber": 34048, 
     "section": "024-LEC", 
-    "instructor": "Civil Engineering, Rm 201", 
+    "instructor": "Bud Denny", 
     "day": [
       1, 
       3
     ]
   }, 
   {
-    "status": "Sarah Andrews", 
+    "status": "Closed", 
     "start": "10:00", 
     "code": "MATH 112", 
     "end": "10:50", 
-    "location": "TBA", 
+    "location": "Psychology, Rm 307", 
     "title": "College Algebra Concepts and Applications", 
     "classNumber": 34050, 
     "section": "026-LEC", 
-    "instructor": "Psychology, Rm 307", 
+    "instructor": "Sarah Andrews", 
     "day": [
       1, 
       3
     ]
   }, 
   {
-    "status": "Janet Liston", 
+    "status": "Closed", 
     "start": "11:00", 
     "code": "MATH 112", 
     "end": "11:50", 
-    "location": "TBA", 
+    "location": "Education, Rm 333", 
     "title": "College Algebra Concepts and Applications", 
     "classNumber": 34051, 
     "section": "027-LEC", 
-    "instructor": "Education, Rm 333", 
+    "instructor": "Janet Liston", 
     "day": [
       1, 
       3
     ]
   }, 
   {
-    "status": "Sarah Andrews", 
+    "status": "Closed", 
     "start": "11:00", 
     "code": "MATH 112", 
     "end": "11:50", 
-    "location": "TBA", 
+    "location": "Psychology, Rm 205", 
     "title": "College Algebra Concepts and Applications", 
     "classNumber": 34052, 
     "section": "028-LEC", 
-    "instructor": "Psychology, Rm 205", 
+    "instructor": "Sarah Andrews", 
     "day": [
       1, 
       3
     ]
   }, 
   {
-    "status": "Sarah Andrews", 
+    "status": "Closed", 
     "start": "9:00", 
     "code": "MATH 112", 
     "end": "9:50", 
-    "location": "TBA", 
+    "location": "Psychology, Rm 307", 
     "title": "College Algebra Concepts and Applications", 
     "classNumber": 34053, 
     "section": "029-LEC", 
-    "instructor": "Psychology, Rm 307", 
+    "instructor": "Sarah Andrews", 
     "day": [
       1, 
       3
     ]
   }, 
   {
-    "status": "Janet Liston", 
+    "status": "Closed", 
     "start": "12:00", 
     "code": "MATH 112", 
     "end": "12:50", 
-    "location": "TBA", 
+    "location": "Education, Rm 333", 
     "title": "College Algebra Concepts and Applications", 
     "classNumber": 34054, 
     "section": "030-LEC", 
-    "instructor": "Education, Rm 333", 
+    "instructor": "Janet Liston", 
     "day": [
       1, 
       3
     ]
   }, 
   {
-    "status": "Martin Rysavy", 
+    "status": "Closed", 
     "start": "15:00", 
     "code": "MATH 112", 
     "end": "15:50", 
-    "location": "TBA", 
+    "location": "C E Chavez Bldg, Rm 103", 
     "title": "College Algebra Concepts and Applications", 
     "classNumber": 34055, 
     "section": "031-LEC", 
-    "instructor": "C E Chavez Bldg, Rm 103", 
+    "instructor": "Martin Rysavy", 
     "day": [
       1, 
       3
     ]
   }, 
   {
-    "status": "Gregory Johnson", 
+    "status": "Closed", 
     "start": "11:00", 
     "code": "MATH 112", 
     "end": "11:50", 
-    "location": "TBA", 
+    "location": "R P Harvill Bldg, Rm 332B", 
     "title": "College Algebra Concepts and Applications", 
     "classNumber": 34056, 
     "section": "033-LEC", 
-    "instructor": "R P Harvill Bldg, Rm 332B", 
+    "instructor": "Gregory Johnson", 
     "day": [
       1, 
       3
     ]
   }, 
   {
-    "status": "Hannah Kravitz", 
+    "status": "Closed", 
     "start": "13:00", 
     "code": "MATH 112", 
     "end": "13:50", 
-    "location": "TBA", 
+    "location": "Phys-Atmos Sci, Rm 304", 
     "title": "College Algebra Concepts and Applications", 
     "classNumber": 34057, 
     "section": "034-LEC", 
-    "instructor": "Phys-Atmos Sci, Rm 304", 
+    "instructor": "Hannah Kravitz", 
     "day": [
       1, 
       3
     ]
   }, 
   {
-    "status": "David Rockoff", 
+    "status": "Closed", 
     "start": "14:00", 
     "code": "MATH 112", 
     "end": "14:50", 
-    "location": "TBA", 
+    "location": "Psychology, Rm 205", 
     "title": "College Algebra Concepts and Applications", 
     "classNumber": 34058, 
     "section": "035-LEC", 
-    "instructor": "Psychology, Rm 205", 
+    "instructor": "David Rockoff", 
     "day": [
       1, 
       3
     ]
   }, 
   {
-    "status": "Kimberly Sommerkamp", 
+    "status": "Closed", 
     "start": "14:00", 
     "code": "MATH 112", 
     "end": "14:50", 
-    "location": "TBA", 
+    "location": "Psychology, Rm 204", 
     "title": "College Algebra Concepts and Applications", 
     "classNumber": 34059, 
     "section": "036-LEC", 
-    "instructor": "Psychology, Rm 204", 
+    "instructor": "Kimberly Sommerkamp", 
     "day": [
       1, 
       3
     ]
   }, 
   {
-    "status": "Sarah Andrews", 
+    "status": "Closed", 
     "start": "14:00", 
     "code": "MATH 112", 
     "end": "14:50", 
-    "location": "TBA", 
+    "location": "C E Chavez Bldg, Rm 104", 
     "title": "College Algebra Concepts and Applications", 
     "classNumber": 34060, 
     "section": "037-LEC", 
-    "instructor": "C E Chavez Bldg, Rm 104", 
+    "instructor": "Sarah Andrews", 
     "day": [
       1, 
       3
     ]
   }, 
   {
-    "status": "Staff", 
+    "status": "Closed", 
     "start": "14:00", 
     "code": "MATH 112", 
     "end": "14:50", 
-    "location": "TBA", 
+    "location": "Biol Sci West, Rm 210", 
     "title": "College Algebra Concepts and Applications", 
     "classNumber": 34061, 
     "section": "038-LEC", 
-    "instructor": "Biol Sci West, Rm 210", 
+    "instructor": "Staff", 
     "day": [
       1, 
       3
     ]
   }, 
   {
-    "status": "Alberto Acevedo", 
+    "status": "Closed", 
     "start": "15:00", 
     "code": "MATH 112", 
     "end": "15:50", 
-    "location": "TBA", 
+    "location": "Biol Sci West, Rm 210", 
     "title": "College Algebra Concepts and Applications", 
     "classNumber": 47525, 
     "section": "039-LEC", 
-    "instructor": "Biol Sci West, Rm 210", 
+    "instructor": "Alberto Acevedo", 
     "day": [
       1, 
       3
     ]
   }, 
   {
-    "status": "Wieke Deboer", 
+    "status": "Closed", 
     "start": "12:30", 
     "code": "MATH 112", 
     "end": "13:20", 
-    "location": "TBA", 
+    "location": "Biol Sci West, Rm 237", 
     "title": "College Algebra Concepts and Applications", 
     "classNumber": 34063, 
     "section": "041-LEC", 
-    "instructor": "Biol Sci West, Rm 237", 
+    "instructor": "Wieke Deboer", 
     "day": [
       2, 
       4
     ]
   }, 
   {
-    "status": "Jose Fonseca", 
+    "status": "Closed", 
     "start": "17:00", 
     "code": "MATH 112", 
     "end": "17:50", 
-    "location": "TBA", 
+    "location": "Biol Sci West, Rm 210", 
     "title": "College Algebra Concepts and Applications", 
     "classNumber": 54931, 
     "section": "042-LEC", 
-    "instructor": "Biol Sci West, Rm 210", 
+    "instructor": "Jose Fonseca", 
     "day": [
       1, 
       3
     ]
   }, 
   {
-    "status": "Jocelyn Rios", 
+    "status": "Closed", 
     "start": "16:00", 
     "code": "MATH 112", 
     "end": "16:50", 
-    "location": "TBA", 
+    "location": "Engineering, Rm 308", 
     "title": "College Algebra Concepts and Applications", 
     "classNumber": 54932, 
     "section": "043-LEC", 
-    "instructor": "Engineering, Rm 308", 
+    "instructor": "Jocelyn Rios", 
     "day": [
       2, 
       4
     ]
   }, 
   {
-    "status": "Brian Bollen", 
+    "status": "Closed", 
     "start": "9:00", 
     "code": "MATH 112", 
     "end": "9:50", 
-    "location": "TBA", 
+    "location": "Psychology, Rm 305", 
     "title": "College Algebra Concepts and Applications", 
     "classNumber": 45982, 
     "section": "044-LEC", 
-    "instructor": "Psychology, Rm 305", 
+    "instructor": "Brian Bollen", 
     "day": [
       1, 
       3
     ]
   }, 
   {
-    "status": "Wieke Deboer", 
+    "status": "Closed", 
     "start": "11:00", 
     "code": "MATH 112", 
     "end": "11:50", 
-    "location": "TBA", 
+    "location": "Phys-Atmos Sci, Rm 220", 
     "title": "College Algebra Concepts and Applications", 
     "classNumber": 53878, 
     "section": "045-LEC", 
-    "instructor": "Phys-Atmos Sci, Rm 220", 
+    "instructor": "Wieke Deboer", 
     "day": [
       2, 
       4
     ]
   }, 
   {
-    "status": "Jose Fonseca", 
+    "status": "Closed", 
     "start": "18:00", 
     "code": "MATH 112", 
     "end": "18:50", 
-    "location": "TBA", 
+    "location": "Biol Sci West, Rm 210", 
     "title": "College Algebra Concepts and Applications", 
     "classNumber": 45983, 
     "section": "046-LEC", 
-    "instructor": "Biol Sci West, Rm 210", 
+    "instructor": "Jose Fonseca", 
     "day": [
       1, 
       3
     ]
   }, 
   {
-    "status": "Jeffrey Craig", 
+    "status": "Closed", 
     "start": "8:00", 
     "code": "MATH 112", 
     "end": "8:50", 
-    "location": "TBA", 
+    "location": "C E Chavez Bldg, Rm 308", 
     "title": "College Algebra Concepts and Applications", 
     "classNumber": 54933, 
     "section": "047-LEC", 
-    "instructor": "C E Chavez Bldg, Rm 308", 
+    "instructor": "Jeffrey Craig", 
     "day": [
       2, 
       4
     ]
   }, 
   {
-    "status": "David Rockoff", 
+    "status": "Closed", 
     "start": "11:00", 
     "code": "MATH 112", 
     "end": "11:50", 
-    "location": "TBA", 
+    "location": "Psychology, Rm 204", 
     "title": "College Algebra Concepts and Applications", 
     "classNumber": 48317, 
     "section": "048-LEC", 
-    "instructor": "Psychology, Rm 204", 
+    "instructor": "David Rockoff", 
     "day": [
       1, 
       3
     ]
   }, 
   {
-    "status": "Wieke Deboer", 
+    "status": "Closed", 
     "start": "8:00", 
     "code": "MATH 112", 
     "end": "8:50", 
-    "location": "TBA", 
+    "location": "C E Chavez Bldg, Rm 109", 
     "title": "College Algebra Concepts and Applications", 
     "classNumber": 50054, 
     "section": "049-LEC", 
-    "instructor": "C E Chavez Bldg, Rm 109", 
+    "instructor": "Wieke Deboer", 
     "day": [
       2, 
       4
     ]
   }, 
   {
-    "status": "Staff", 
+    "status": "Closed", 
     "start": "8:00", 
     "code": "MATH 112", 
     "end": "8:50", 
-    "location": "TBA", 
+    "location": "C E Chavez Bldg, Rm 105", 
     "title": "College Algebra Concepts and Applications", 
     "classNumber": 48351, 
     "section": "050-LEC", 
-    "instructor": "C E Chavez Bldg, Rm 105", 
+    "instructor": "Staff", 
     "day": [
       2, 
       4
     ]
   }, 
   {
-    "status": "Craig Thompson", 
+    "status": "Closed", 
     "start": "9:00", 
     "code": "MATH 112", 
     "end": "9:50", 
-    "location": "TBA", 
+    "location": "Psychology, Rm 207", 
     "title": "College Algebra Concepts and Applications", 
     "classNumber": 48408, 
     "section": "051-LEC", 
-    "instructor": "Psychology, Rm 207", 
+    "instructor": "Craig Thompson", 
     "day": [
       1, 
       3
     ]
   }, 
   {
-    "status": "Erzsebet Lugosi,", 
+    "status": "Closed", 
     "start": "12:00", 
     "code": "MATH 112", 
     "end": "12:50", 
-    "location": "TBA", 
+    "location": "Saguaro Hall, Rm 101", 
     "title": "College Algebra Concepts and Applications", 
     "classNumber": 48409, 
     "section": "052-LEC", 
-    "instructor": "Saguaro Hall, Rm 101", 
+    "instructor": "Erzsebet Lugosi, Meng Zhang", 
     "day": [
       1, 
       3, 
@@ -7350,60 +7350,60 @@ var data =
     ]
   }, 
   {
-    "status": "Jose Fonseca", 
+    "status": "Closed", 
     "start": "16:00", 
     "code": "MATH 112", 
     "end": "16:50", 
-    "location": "TBA", 
+    "location": "Biol Sci West, Rm 210", 
     "title": "College Algebra Concepts and Applications", 
     "classNumber": 53403, 
     "section": "054-LEC", 
-    "instructor": "Biol Sci West, Rm 210", 
+    "instructor": "Jose Fonseca", 
     "day": [
       2, 
       4
     ]
   }, 
   {
-    "status": "Mitchell Wilson", 
+    "status": "Closed", 
     "start": "17:00", 
     "code": "MATH 112", 
     "end": "17:50", 
-    "location": "TBA", 
+    "location": "C E Chavez Bldg, Rm 105", 
     "title": "College Algebra Concepts and Applications", 
     "classNumber": 53402, 
     "section": "055-LEC", 
-    "instructor": "C E Chavez Bldg, Rm 105", 
+    "instructor": "Mitchell Wilson", 
     "day": [
       2, 
       4
     ]
   }, 
   {
-    "status": "Staff", 
+    "status": "Closed", 
     "start": "8:00", 
     "code": "MATH 112", 
     "end": "8:50", 
-    "location": "TBA", 
+    "location": "Chemistry, Rm 209", 
     "title": "College Algebra Concepts and Applications", 
     "classNumber": 34064, 
     "section": "056-LEC", 
-    "instructor": "Chemistry, Rm 209", 
+    "instructor": "Staff", 
     "day": [
       2, 
       4
     ]
   }, 
   {
-    "status": "Jeffrey Lee", 
+    "status": "Closed", 
     "start": "9:00", 
     "code": "MATH 112", 
     "end": "9:50", 
-    "location": "TBA", 
+    "location": "Psychology, Rm 206", 
     "title": "College Algebra Concepts and Applications", 
     "classNumber": 54934, 
     "section": "057-LEC", 
-    "instructor": "Psychology, Rm 206", 
+    "instructor": "Jeffrey Lee", 
     "day": [
       1, 
       3
@@ -7426,15 +7426,15 @@ var data =
     ]
   }, 
   {
-    "status": "Mitchell Wilson", 
+    "status": "Closed", 
     "start": "17:00", 
     "code": "MATH 112", 
     "end": "17:50", 
-    "location": "TBA", 
+    "location": "Biol Sci West, Rm 219", 
     "title": "College Algebra Concepts and Applications", 
     "classNumber": 56903, 
     "section": "060-LEC", 
-    "instructor": "Biol Sci West, Rm 219", 
+    "instructor": "Mitchell Wilson", 
     "day": [
       1, 
       3
@@ -7488,7 +7488,7 @@ var data =
     ]
   }, 
   {
-    "status": "2017/08/21 - 2017/12/06", 
+    "status": "Closed", 
     "start": "13:00", 
     "code": "MATH 112", 
     "end": "13:50", 
@@ -7518,71 +7518,71 @@ var data =
     ]
   }, 
   {
-    "status": "Lanbo Fang", 
+    "status": "Closed", 
     "start": "12:30", 
     "code": "MATH 112", 
     "end": "13:45", 
-    "location": "TBA", 
+    "location": "M Pacheco ILC, Rm 125", 
     "title": "College Algebra Concepts and Applications", 
     "classNumber": 67195, 
     "section": "069-LEC", 
-    "instructor": "M Pacheco ILC, Rm 125", 
+    "instructor": "Lanbo Fang", 
     "day": [
       4
     ]
   }, 
   {
-    "status": "Scott Clark", 
+    "status": "Closed", 
     "start": "9:30", 
     "code": "MATH 112", 
     "end": "10:45", 
-    "location": "TBA", 
+    "location": "Modern Languages, Rm 310", 
     "title": "College Algebra Concepts and Applications", 
     "classNumber": 67196, 
     "section": "070-LEC", 
-    "instructor": "Modern Languages, Rm 310", 
+    "instructor": "Scott Clark", 
     "day": [
       2
     ]
   }, 
   {
-    "status": "Scott Clark", 
+    "status": "Closed", 
     "start": "9:30", 
     "code": "MATH 112", 
     "end": "10:45", 
-    "location": "TBA", 
+    "location": "Modern Languages, Rm 310", 
     "title": "College Algebra Concepts and Applications", 
     "classNumber": 67197, 
     "section": "071-LEC", 
-    "instructor": "Modern Languages, Rm 310", 
+    "instructor": "Scott Clark", 
     "day": [
       4
     ]
   }, 
   {
-    "status": "Armando Albornoz Basto,", 
+    "status": "Closed", 
     "start": "8:00", 
     "code": "MATH 112", 
     "end": "9:15", 
-    "location": "TBA", 
+    "location": "M Pacheco ILC, Rm 141", 
     "title": "College Algebra Concepts and Applications", 
     "classNumber": 67212, 
     "section": "072-LEC", 
-    "instructor": "M Pacheco ILC, Rm 141", 
+    "instructor": "Armando Albornoz Basto, Kevin Gomez", 
     "day": [
       2
     ]
   }, 
   {
-    "status": "Armando Albornoz Basto,", 
+    "status": "Closed", 
     "start": "8:00", 
     "code": "MATH 112", 
     "end": "9:15", 
-    "location": "TBA", 
+    "location": "M Pacheco ILC, Rm 141", 
     "title": "College Algebra Concepts and Applications", 
     "classNumber": 67224, 
     "section": "073-LEC", 
-    "instructor": "M Pacheco ILC, Rm 141", 
+    "instructor": "Armando Albornoz Basto, Kevin Gomez", 
     "day": [
       4
     ]
@@ -9484,7 +9484,7 @@ var data =
     ]
   }, 
   {
-    "status": "2017/08/21 - 2017/12/06", 
+    "status": "Closed", 
     "start": "9:00", 
     "code": "MATH 129", 
     "end": "9:50", 
@@ -10267,15 +10267,15 @@ var data =
     ]
   }, 
   {
-    "status": "Donna Krawczyk", 
+    "status": "Closed", 
     "start": "14:00", 
     "code": "MATH 223", 
     "end": "15:30", 
-    "location": "TBA", 
+    "location": "Psychology, Rm 204", 
     "title": "Vector Calculus", 
     "classNumber": 56653, 
     "section": "017-LEC", 
-    "instructor": "Psychology, Rm 204", 
+    "instructor": "Donna Krawczyk", 
     "day": [
       5
     ]
@@ -10614,85 +10614,85 @@ var data =
     ]
   }, 
   {
-    "status": "Kerima Ratnayaka,", 
+    "status": "Open with Requirements", 
     "start": "8:00", 
     "code": "MATH 263", 
     "end": "9:15", 
-    "location": "TBA", 
+    "location": "Engineering, Rm 304", 
     "title": "Introduction to Statistics and Biostatistics", 
     "classNumber": 53641, 
     "section": "001-LEC", 
-    "instructor": "Engineering, Rm 304", 
+    "instructor": "Kerima Ratnayaka, Kyle Carter", 
     "day": [
       5
     ]
   }, 
   {
-    "status": "Kerima Ratnayaka,", 
+    "status": "Closed", 
     "start": "8:30", 
     "code": "MATH 263", 
     "end": "9:45", 
-    "location": "TBA", 
+    "location": "Phys-Atmos Sci, Rm 412", 
     "title": "Introduction to Statistics and Biostatistics", 
     "classNumber": 42400, 
     "section": "002-LEC", 
-    "instructor": "Phys-Atmos Sci, Rm 412", 
+    "instructor": "Kerima Ratnayaka, Rhoda Muse", 
     "day": [
       5
     ]
   }, 
   {
-    "status": "Kerima Ratnayaka,", 
+    "status": "Closed", 
     "start": "13:00", 
     "code": "MATH 263", 
     "end": "14:15", 
-    "location": "TBA", 
+    "location": "Phys-Atmos Sci, Rm 412", 
     "title": "Introduction to Statistics and Biostatistics", 
     "classNumber": 46019, 
     "section": "003-LEC", 
-    "instructor": "Phys-Atmos Sci, Rm 412", 
+    "instructor": "Kerima Ratnayaka, Kyle Carter", 
     "day": [
       5
     ]
   }, 
   {
-    "status": "Kerima Ratnayaka,", 
+    "status": "Closed", 
     "start": "11:00", 
     "code": "MATH 263", 
     "end": "12:15", 
-    "location": "TBA", 
+    "location": "Engineering, Rm 304", 
     "title": "Introduction to Statistics and Biostatistics", 
     "classNumber": 42401, 
     "section": "004-LEC", 
-    "instructor": "Engineering, Rm 304", 
+    "instructor": "Kerima Ratnayaka, Kyle Carter", 
     "day": [
       5
     ]
   }, 
   {
-    "status": "Kerima Ratnayaka,", 
+    "status": "Closed", 
     "start": "14:00", 
     "code": "MATH 263", 
     "end": "15:15", 
-    "location": "TBA", 
+    "location": "Phys-Atmos Sci, Rm 418", 
     "title": "Introduction to Statistics and Biostatistics", 
     "classNumber": 50069, 
     "section": "005-LEC", 
-    "instructor": "Phys-Atmos Sci, Rm 418", 
+    "instructor": "Kerima Ratnayaka, Rhoda Muse", 
     "day": [
       5
     ]
   }, 
   {
-    "status": "Kerima Ratnayaka", 
+    "status": "Closed", 
     "start": "14:00", 
     "code": "MATH 263", 
     "end": "15:15", 
-    "location": "TBA", 
+    "location": "R P Harvill Bldg, Rm 105", 
     "title": "Introduction to Statistics and Biostatistics", 
     "classNumber": 53642, 
     "section": "006-LEC", 
-    "instructor": "R P Harvill Bldg, Rm 105", 
+    "instructor": "Kerima Ratnayaka", 
     "day": [
       5
     ]
@@ -11329,7 +11329,7 @@ var data =
     ]
   }, 
   {
-    "status": "2017/08/21 - 2017/12/06", 
+    "status": "Open", 
     "start": "9:30", 
     "code": "MATH 363", 
     "end": "10:45", 
@@ -11484,7 +11484,7 @@ var data =
     ]
   }, 
   {
-    "status": "2017/08/21 - 2017/12/06", 
+    "status": "Open", 
     "start": "13:00", 
     "code": "MATH 396T", 
     "end": "15:30", 
@@ -11498,7 +11498,7 @@ var data =
     ]
   }, 
   {
-    "status": "2017/08/21 - 2017/12/06", 
+    "status": "Closed", 
     "start": "TBA", 
     "code": "MATH 396T", 
     "end": "TBA", 
@@ -11856,7 +11856,7 @@ var data =
     ]
   }, 
   {
-    "status": "2017/08/21 - 2017/12/06", 
+    "status": "Closed", 
     "start": "17:30", 
     "code": "MATH 491", 
     "end": "18:30", 
@@ -12819,7 +12819,7 @@ var data =
     ]
   }, 
   {
-    "status": "Tina Deemer", 
+    "status": "Closed", 
     "start": "8:45", 
     "code": "MATH 597T", 
     "end": "9:50", 

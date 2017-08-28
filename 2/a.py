@@ -17,12 +17,19 @@ def day2num(day):
 
 
 def parse(lines):
-    time = lines[4].strip()
-    section = lines[2].strip()
-    classNumber = int(lines[1].strip())
-    location = lines[5].strip()
-    instructor = lines[6].strip()
-    status = lines[8].strip()
+    time = lines[3]
+    section = lines[1]
+    classNumber = int(lines[0])
+    
+    status = lines[-1]
+    if lines[-2] == lines[-3]:
+        location = lines[5]
+        instructor = lines[7]
+        if instructor.endswith(','):
+            instructor += ' '+lines[8]
+    else:
+        location = lines[4]
+        instructor = lines[5]
 
     dayStr = time.split()[0]
     days = []
@@ -51,6 +58,12 @@ def parse(lines):
     return res
 
 
+def printClass(c):
+    print 'loc:', c['location']
+    print 'instructor:', c['instructor']
+    print '-'*5
+
+
 if __name__ == '__main__':
     classSections = []
     for fn in glob('class/*.txt'):
@@ -65,11 +78,18 @@ if __name__ == '__main__':
                 index = f[i].rfind(subject)
                 className = f[i][index:].strip()
                 i+=2
+
             if f[i].startswith('Class Section'):
-                class_i = parse(f[i:i+10])
+                i+=1
+                lines = []
+                while f[i].strip() != '':
+                    lines.append(f[i].strip())
+                    i+=1
+                class_i = parse(lines)
                 class_i['title'] = ' '.join(className.split(' - ')[1:])
                 class_i['code'] = ' '.join(className.split(' - ')[:1])
                 classSections.append(class_i)
+                
             i+=1
         
         with open('data.js', 'w') as f:
