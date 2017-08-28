@@ -19,16 +19,16 @@
   position: absolute;
   width: 50px;
   height: 30px;
-  left:1100px;
+  left:1300px;
   top:60px;
 }
 
-#bFinal{
+#dShowText{
   position: absolute;
-  width: 50px;
+  width: 180px;
   height: 30px;
-  left:1150px;
-  top:60px;
+  left:1300px;
+  top:100px;
 }
 
 

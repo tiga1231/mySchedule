@@ -11,10 +11,13 @@
 </head>
 
 <body>
-<svg id='big' width=1100 height=700></svg>
+<svg id='big' width=1300 height=760></svg>
 <button id='bNext' onclick='generateTimeTable()'>Next</button>
-<button id='bFinal' onclick='generateTimeTable("final")'>Final</button>
 
+<div id='dShowText'>
+<input id='iShowText' type='checkbox' onchange='switchText()'>
+<label for="iShowText">Show text</label>
+</div>
 <script>
 'use strict';
 
@@ -34,12 +37,60 @@ Number.prototype.toDate = function() {
 };
 
 
+var isTextOn = false;
+function switchText(){
+	var sw = svg.sw;
+	isTextOn = !isTextOn;
+	if(isTextOn){
+		d3.selectAll('.cell').each(function(cellData){
+
+			var tagData = [cellData.code,
+	    cellData.title,
+	    cellData.location, 
+	    cellData.instructor];
+			var tag = d3.select(this).append('text');
+			tag.selectAll('tspan')
+	    .data(tagData)
+	    .enter()
+	    .append('tspan')
+	    .text(function(d){return d;})
+	    .attr('fill', function(d,i){
+				if(i%2==0){
+					return 'black';
+				}else{
+					return '#555';
+				}
+			})
+	    .attr('x', function(d){
+	      var w = sw(cellData)[0];
+	      return sw(cellData)[1] * w + w/2;  
+	    })
+	    .attr('text-anchor', 'middle')
+	    .attr('dy', function(d,i){return '1em'})
+	    .attr('font-style', function(d, i){
+	    	if(i%2==0){
+					return 'normal';
+				}else{
+					return 'italic';
+				}
+	    })
+	    .attr('font-size', function(d, i){
+	      return 12;
+	    });
+		})
+	}else{
+		d3.selectAll('.cell').selectAll('text').remove();
+	}
+}
+
+
 function expand(classes){
 	var res =[];
 	for(var i=0; i<classes.length; i++){
 		var class_i = classes[i];
 		for(var j=0; j<class_i.day.length; j++){
-			var cell = Object.assign({}, class_i);
+			var cell = {};
+			Object.assign(cell, class_i);
 			cell.day = class_i.day[j];
 			res.push(cell);
 		}
@@ -48,7 +99,7 @@ function expand(classes){
 }
 
 
-function generateTimeTable(mode){
+function generateTimeTable(){
 	var cells = svg.selectAll('.cell').filter(function(d){
 		return !d3.select(this).classed('notselected');
 	}).data();
@@ -64,9 +115,11 @@ function generateTimeTable(mode){
 
 	svg.selectAll('.cell').remove();
 	svg.cellWidth = {};
-	svg.draw(mode);
+	svg.draw();
 	svg.listenToInteraction();
 	svg.selectAll('.cell').classed('notselected', false);
+	switchText();
+	switchText();
 	//d3.select('#bNext').remove();
 	//d3.select('#tooltip').remove();
 
@@ -126,7 +179,7 @@ function init(){
 				cellsToday = res.residual;
 				for(var i=0; i<res.cells.length; i++){
 						var classNumber = res.cells[i].classNumber;
-						//memoitize columnPosition;
+						//memoize columnPosition;
 						svg.cellWidth[classNumber + ',' + day] = [null, columnPosition];
 				}
 				columnPosition++;
@@ -135,16 +188,19 @@ function init(){
 			cellsToday = cells.filter(function(cell){
 				return cell.day == day; 
 			});
+
 			for(var i=0; i<cellsToday.length; i++){
 				var classNumber = cellsToday[i].classNumber;
-				//memoitize width;
-				svg.cellWidth[classNumber + ',' + day][0] = (svg.sx(2)-svg.sx(1))/columnPosition;
+				//memoize width;
+				var w = (svg.sx(2)-svg.sx(1))/ columnPosition;
+				svg.cellWidth[classNumber + ',' + day][0] = w;
 			}
 		}
 		
 	}
+
 	svg.sw = function(d){
-		if(Object.keys(svg.cellWidth).length ==0){
+		if(Object.keys(svg.cellWidth).length == 0){
 			svg.computeAllCellWidth();
 		}
 		return svg.cellWidth[d.classNumber + ',' + d.day];
@@ -159,31 +215,27 @@ function init(){
 		svg.classes.push(c);
 	};
 
-	svg.drawClass = function(classData, color, mode){
-		var data = {};
-		for(var i=0; i<classData.day.length; i++){
-			Object.assign(data, classData);
-			data.day = classData.day[i];
-			this.drawCell(data, color, mode);
+	svg.drawClass = function(classData, color){
+		var cells = expand([classData]);
+		for(var i=0; i<cells.length; i++){
+			svg.drawCell(cells[i], color);
 		}
 	};
 
-	svg.draw = function(mode){
-		var self = this;
-		for(var i=0; i<self.classes.length; i++){
-			self.drawClass(self.classes[i], self.sc(i), mode);
+	svg.draw = function(){
+		for(var i=0; i<svg.classes.length; i++){
+			svg.drawClass(svg.classes[i], svg.sc(i));
 		}
 	}
 
 
 
-	svg.drawCell = function(cellData, color, mode){
+	svg.drawCell = function(cellData, color){
 		var self = this;
 		var sx = self.sx;
 		var sy = self.sy;
 		var sc = self.sc;
 		var sw = self.sw;
-
 		var g = self.append('g')
 		.datum(cellData)
 		.attr('class', 'cell')
@@ -191,10 +243,7 @@ function init(){
 			return 'translate(' + sx(d.day)+','+sy(d.start.toSec().toDate())+')';
 		});
 
-		if (mode != 'final'){
-			g.classed('notselected', true);
-		}
-
+		g.classed('notselected', true);
 
 		g.append('rect')
 		.attr('width',function(d){
@@ -219,45 +268,18 @@ function init(){
 					+ cellData.location + '\n'
 					+ cellData.instructor + '\n');*/
 		
-		if(mode == 'final'){
-			var tag = g.append('text')
-			.attr('alignment-baseline', 'central')
-			.attr('text-anchor', 'middle')
-			.attr('y', 0);
-
-			
-			var tagData = [cellData.code,
-			cellData.title,
-			cellData.location, 
-			cellData.instructor];
-			tag.selectAll('tspan')
-			.data(tagData)
-			.enter()
-			.append('tspan')
-			.text(function(d){return d;})
-			.attr('fill', 'black')
-			.attr('x', function(d){
-				var rect = d3.select(this.parentNode.previousSibling);
-				var w = sw(cellData)[0];
-				return sw(cellData)[1] * w + w/2;  
-			})
-			.attr('dy', function(d,i){return '1em'})
-			.attr('font-style', function(d, i){
-				return 'normal';
-			})
-			.attr('font-size', function(d, i){
-				return 12;
-			});
-		}
-
+		var tag = g.append('text')
+		.attr('alignment-baseline', 'central')
+		.attr('text-anchor', 'middle')
+		.attr('y', 0);
+		
 		return g;
 	};
 
 	svg.listenToInteraction = function(){
-
 		svg.selectAll('.cell')
 		.on('click', function(d){
-			var classNumber = d3.select(this).datum().classNumber;
+			var classNumber = d.classNumber;
 			d3.selectAll('.cell')
 			.filter(function(d){
 				return d.classNumber == classNumber;
@@ -328,7 +350,6 @@ function init(){
 
 	return svg;
 }
-
 
 function initPlot(svg){
 	svg.selectAll('.rowline')
