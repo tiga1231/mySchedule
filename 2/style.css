@@ -22,9 +22,15 @@
   left:1100px;
   top:60px;
 }
-#tooltip.hidden {
-    display: none;
+
+#bFinal{
+  position: absolute;
+  width: 50px;
+  height: 30px;
+  left:1150px;
+  top:60px;
 }
+
 
 .rowline {
   shape-rendering: crispEdges;

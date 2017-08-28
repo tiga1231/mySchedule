@@ -1,0 +1,172 @@
+[INFO  - 2017-08-27T20:54:25.352Z] GhostDriver - Main - running on port 57091
+[INFO  - 2017-08-27T20:54:25.585Z] Session [e90c16c0-8b69-11e7-8acc-fb934e0d9d59] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-08-27T20:54:25.585Z] Session [e90c16c0-8b69-11e7-8acc-fb934e0d9d59] - page.customHeaders:  - {}
+[INFO  - 2017-08-27T20:54:25.585Z] Session [e90c16c0-8b69-11e7-8acc-fb934e0d9d59] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-08-27T20:54:25.585Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: e90c16c0-8b69-11e7-8acc-fb934e0d9d59
+[ERROR - 2017-08-27T20:54:36.818Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1503867276782
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-27T20:54:37.660Z] Session [e90c16c0-8b69-11e7-8acc-fb934e0d9d59] - page.onError - msg: ReferenceError: Can't find variable: addchg_win1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-27T20:54:37.660Z] Session [e90c16c0-8b69-11e7-8acc-fb934e0d9d59] - page.onError - stack:
+  onclick (https://uaccess.schedule.arizona.edu/psp/uazsaprd2/UA_SCHEDULE/HRMS/h/?tab=DEFAULT:1)
+  dispatchEvent (:0)
+  U (:119)
+  $ (:108)
+  $ (:101)
+  gh (:141)
+  sh (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:153)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-27T20:54:47.983Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1503867287930
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-27T20:54:48.901Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1503867288870
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-27T20:54:49.782Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1503867289756
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-27T20:54:50.701Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1503867290668
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-27T20:54:51.441Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search S[INFO  - 2017-08-27T20:58:26.038Z] SessionManagerReqHand - _cleanupWindowlessSessions[INFO  - 2017-08-27T20:59:46.819Z] SessionManagerReqH[INFO  - 2017-08-27T21:03:26.039Z] SessionManagerReqHand - _cleanupWindowlessSessions[INFO  - 2017-08-27T21:04:46.822Z] SessionManagerReqH[INFO  - 2017-08-27T21:08:26.042Z] SessionManagerReqHand - _cleanupWindowlessSessions[INFO  - 2017-08-27T21:09:46.831Z] SessionManagerReqH[INFO  - 2017-08-27T21:13:26.044Z] SessionManagerReqHand - _cleanupWindowlessSessions[INFO  - 2017-08-27T21:14:46.837Z] SessionManagerReqH[INFO  - 2017-08-27T21:18:26.046Z] SessionManagerReqHand - _cleanupWindowlessSessions[INFO  - 2017-08-27T21:19:46.839Z] SessionManagerReqH[INFO  - 2017-08-27T21:23:26.049Z] SessionManagerReqHand - _cleanupWindowlessSessions[INFO  - 2017-08-27T21:24:46.842Z] SessionManagerReqH[INFO  - 2017-08-27T21:28:26.052Z] SessionManagerReqHand - _cleanupWindowlessSessions[INFO  - 2017-08-27T21:29:46.844Z] SessionManagerReqH[INFO  - 2017-08-27T21:33:26.067Z] SessionManagerReqHand - _cleanupWindowlessSessions[INFO  - 2017-08-27T21:34:46.845Z] SessionManagerReqH[INFO  - 2017-08-27T21:38:26.068Z] SessionManagerReqHand - _cleanupWindowlessSessions[INFO  - 2017-08-27T21:39:46.846Z] SessionManagerReqH[INFO  - 2017-08-27T21:43:26.072Z] SessionManagerReqHand - _cleanupWindowlessSessions[INFO  - 2017-08-27T21:44:46.847Z] SessionManagerReqH[INFO  - 2017-08-27T21:48:26.074Z] SessionManagerReqHand - _cleanupWindowlessSessions[INFO  - 2017-08-27T21:49:46.853Z] SessionManagerReqH[INFO  - 2017-08-27T21:53:26.077Z] SessionManagerReqHand - _cleanupWindowlessSessions[INFO  - 2017-08-27T21:54:46.857Z] SessionManagerReqH[INFO  - 2017-08-27T21:58:26.079Z] SessionManagerReqHand - _cleanupWindowlessSessions[INFO  - 2017-08-27T21:59:46.858Z] SessionManagerReqH[INFO  - 2017-08-27T22:03:26.083Z] SessionManagerReqHand - _cleanupWindowlessSessions[INFO  - 2017-08-27T22:04:46.862Z] SessionManagerReqH[INFO  - 2017-08-27T22:08:26.084Z] SessionManagerReqHand - _cleanupWindowlessSessions[INFO  - 2017-08-27T22:09:46.876Z] SessionManagerReqH[INFO  - 2017-08-27T22:13:26.086Z] SessionManagerReqHand - _cleanupWindowlessSessions[INFO  - 2017-08-27T22:14:46.878Z] SessionManagerReqH[INFO  - 2017-08-27T22:18:26.090Z] SessionManagerReqHand - _cleanupWindowlessSessions[INFO  - 2017-08-27T22:19:46.880Z] SessionManagerReqH[INFO  - 2017-08-27T22:23:26.105Z] SessionManagerReqHand - _cleanupWindowlessSessions[INFO  - 2017-08-27T23:24:40.937Z] SessionManagerReqH[INFO  - 2017-08-28T03:27:49.163Z] SessionManagerReqHand - _cleanupWindowlessSessions[INFO  - 2017-08-28T04:08:07.971Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+T21:59:51.774Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-08-27T22:04:51.783Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-08-27T22:09:51.794Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-08-27T22:14:51.798Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-08-27T22:19:51.803Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-08-27T23:24:45.869Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-08-28T04:08:12.903Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+onous Sessions clean-up phase starting NOW
+[INFO  - 2017-08-27T21:34:59.726Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-08-27T21:39:59.728Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-08-27T21:44:59.729Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-08-27T21:49:59.734Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-08-27T21:54:59.735Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-08-27T21:59:59.741Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-08-27T22:04:59.743Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-08-27T22:09:59.745Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-08-27T22:14:59.747Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-08-27T22:19:59.748Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-08-28T00:24:46.194Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-08-28T04:08:20.846Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+erReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-08-27T22:04:35.733Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-08-27T22:09:35.734Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-08-27T22:14:35.737Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-08-27T22:19:35.738Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-08-27T23:24:29.799Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-08-28T04:07:56.832Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-08-28T00:25:16.208Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-08-28T04:08:50.867Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-08-28T04:08:29.847Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+ - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-08-28T01:26:18.381Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+op Time: 1503867324154
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-27T20:55:25.092Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1503867325061
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-27T20:55:26.006Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1503867325959
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-27T20:55:26.915Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1503867326877
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-27T20:55:27.823Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1503867327790
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-27T20:55:28.726Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1503867328696
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-27T20:55:29.634Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1503867329598
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-27T20:55:30.537Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1503867330508
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-27T20:55:31.438Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1503867331405
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-27T20:55:32.342Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1503867332306
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-27T20:55:33.243Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1503867333214
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-27T20:55:34.151Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1503867334118
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-27T20:55:35.075Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1503867335040
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-27T20:55:35.978Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1503867335946
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-27T20:55:36.880Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1503867336850
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-27T20:55:37.786Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1503867337751
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-27T20:55:38.694Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1503867338663
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-27T20:55:39.598Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1503867339566
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-27T20:55:40.510Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1503867340466
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-27T20:55:41.411Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1503867341378
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-27T20:55:42.324Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1503867342288
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-27T20:55:43.236Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1503867343192
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-27T20:55:44.138Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1503867344106
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-27T20:55:45.035Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1503867345004
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-27T20:55:45.937Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1503867345913
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-27T20:55:46.836Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1503867346812
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-27T20:55:47.744Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1503867347715
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-27T20:55:48.823Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1503867348800
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2017-08-27T20:59:25.358Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-08-27T21:04:25.715Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-08-27T21:09:25.716Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-08-27T21:14:25.718Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-08-27T21:19:25.719Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-08-27T21:24:25.721Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-08-27T21:29:25.722Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-08-27T21:34:25.724Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-08-27T21:39:25.726Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-08-27T21:44:25.728Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-08-27T21:49:25.729Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-08-27T21:54:25.732Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-08-27T21:59:25.735Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-08-27T22:04:25.736Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-08-27T22:09:25.739Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-08-27T22:14:25.741Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-08-27T22:19:25.743Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-08-27T23:24:19.805Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-08-28T04:06:49.960Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW

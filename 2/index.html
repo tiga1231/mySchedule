@@ -13,6 +13,7 @@
 <body>
 <svg id='big' width=1100 height=700></svg>
 <button id='bNext' onclick='generateTimeTable()'>Next</button>
+<button id='bFinal' onclick='generateTimeTable("final")'>Final</button>
 
 <script>
 'use strict';
@@ -47,7 +48,7 @@ function expand(classes){
 }
 
 
-function generateTimeTable(){
+function generateTimeTable(mode){
 	var cells = svg.selectAll('.cell').filter(function(d){
 		return !d3.select(this).classed('notselected');
 	}).data();
@@ -63,10 +64,11 @@ function generateTimeTable(){
 
 	svg.selectAll('.cell').remove();
 	svg.cellWidth = {};
-	svg.draw('final');
+	svg.draw(mode);
 	svg.listenToInteraction();
+	svg.selectAll('.cell').classed('notselected', false);
 	//d3.select('#bNext').remove();
-	d3.select('div#tooltip').remove();
+	//d3.select('#tooltip').remove();
 
 }
 
@@ -263,25 +265,28 @@ function init(){
 			.classed('notselected', !d3.select(this).classed('notselected'));
 		});
 
+		svg.select('#tooltip').remove();
+		svg.append('g')
+		.attr('id', 'tooltip')
+		.attr('opacity', 0)
+		.append('rect')
+		.attr('x', 0)
+		.attr('y', 0)
+		.attr('width', 200)
+		.attr('height', 50)
+		.attr('fill', '#eee');
+
+		d3.select('#tooltip')
+		.append('text');
 
 		svg.selectAll('.cell')
 		.on('mouseover', function(d){
 			var cell = d3.select(this);
 			var tooltipInfo = [d.code, d.title, d.location, d.instructor];
+
 			//append for the first time (only)
 			d3.select('#tooltip')
 			.attr('opacity', 0.9)
-			/*.style("left", function(){
-				var x = cell.attr('x');
-				var w = svg.sw(d);
-				return 1000 + 'px';
-			})
-			.style("top", function(){
-				var y = svg.sy(d.start.toSec().toDate());
-				var h = svg.sy(d.start.toSec().toDate()) 
-								- svg.sy(d.end.toSec().toDate());
-				return 500+ 'px';
-			})*/
 			.select('text')
 			.selectAll('tspan')
 			.data(tooltipInfo)
@@ -300,7 +305,7 @@ function init(){
 			d3.select('#tooltip')
 			.selectAll('tspan')
 			.data(tooltipInfo)
-			.text(function(d){return d;})
+			.text(function(d){ return d;})
 			.attr('fill', 'black')
 			.attr('x', function(d){
 				return 0;  
@@ -356,18 +361,7 @@ function initPlot(svg){
 	.attr('y1', function(d){return svg.sy(svg.sy.domain()[0])})
 	.attr('y2', function(d){return svg.sy(svg.sy.domain()[1])});
 
-	svg.append('g')
-	.attr('id', 'tooltip')
-	.attr('opacity', 0)
-	.append('rect')
-	.attr('x', 0)
-	.attr('y', 0)
-	.attr('width', 200)
-	.attr('height', 50)
-	.attr('fill', '#eee');
-
-	svg.select('#tooltip')
-	.append('text');
+	
 }
 
 

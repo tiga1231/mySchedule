@@ -1,5 +1,6 @@
 import json
 import datetime
+from glob import glob
 
 def to24hour(time):
     if time.endswith('PM') and time.split(':')[0]!='12':
@@ -52,7 +53,8 @@ def parse(lines):
 
 if __name__ == '__main__':
     classSections = []
-    for fn in ['cs.txt', 'math.txt']:
+    for fn in glob('class/*.txt'):
+        print fn
         with open(fn) as f:
             f = f.readlines()
         className = ''
